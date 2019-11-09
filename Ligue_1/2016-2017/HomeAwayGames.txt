@@ -1,0 +1,381 @@
+Home,Away
+SC Bastia,Paris Saint Germain
+Monaco,Guingamp
+Bordeaux,Saint-Etienne
+Montpellier,Angers
+Caen,Lorient
+Metz,Lille
+Dijon,Nantes
+Nancy,Lyon
+Nice,Rennes
+Marseille,Toulouse
+Lyon,Caen
+Nantes,Monaco
+Toulouse,Bordeaux
+Angers,Nice
+Rennes,Nancy
+Lorient,SC Bastia
+Lille,Dijon
+Guingamp,Marseille
+Saint-Etienne,Montpellier
+Paris Saint Germain,Metz
+Marseille,Lorient
+Dijon,Lyon
+Caen,SC Bastia
+Metz,Angers
+Nancy,Guingamp
+Montpellier,Rennes
+Nice,Lille
+Bordeaux,Nantes
+Saint-Etienne,Toulouse
+Monaco,Paris Saint Germain
+Paris Saint Germain,Saint-Etienne
+Lyon,Bordeaux
+SC Bastia,Toulouse
+Angers,Dijon
+Lorient,Nancy
+Lille,Monaco
+Guingamp,Montpellier
+Nantes,Metz
+Rennes,Caen
+Nice,Marseille
+Caen,Paris Saint Germain
+Monaco,Rennes
+Nancy,Nantes
+Dijon,Metz
+Toulouse,Guingamp
+Lorient,Lille
+Bordeaux,Angers
+Montpellier,Nice
+Saint-Etienne,SC Bastia
+Marseille,Lyon
+Lille,Toulouse
+Paris Saint Germain,Dijon
+SC Bastia,Nancy
+Angers,Caen
+Nantes,Saint-Etienne
+Guingamp,Lorient
+Metz,Bordeaux
+Nice,Monaco
+Lyon,Montpellier
+Rennes,Marseille
+Toulouse,Paris Saint Germain
+Lorient,Lyon
+Bordeaux,Caen
+Montpellier,Metz
+Dijon,Rennes
+SC Bastia,Guingamp
+Monaco,Angers
+Saint-Etienne,Lille
+Nancy,Nice
+Marseille,Nantes
+Rennes,Guingamp
+Paris Saint Germain,Bordeaux
+Dijon,Montpellier
+Lille,Nancy
+Nantes,SC Bastia
+Caen,Toulouse
+Metz,Monaco
+Angers,Marseille
+Nice,Lorient
+Lyon,Saint-Etienne
+Toulouse,Monaco
+Nice,Lyon
+Nancy,Paris Saint Germain
+Lorient,Nantes
+Montpellier,Caen
+SC Bastia,Angers
+Guingamp,Lille
+Rennes,Bordeaux
+Saint-Etienne,Dijon
+Marseille,Metz
+Monaco,Montpellier
+Lyon,Guingamp
+Nantes,Rennes
+Bordeaux,Nancy
+Lille,SC Bastia
+Dijon,Lorient
+Angers,Toulouse
+Caen,Saint-Etienne
+Metz,Nice
+Paris Saint Germain,Marseille
+Lille,Paris Saint Germain
+Toulouse,Lyon
+SC Bastia,Dijon
+Guingamp,Angers
+Nancy,Caen
+Saint-Etienne,Monaco
+Lorient,Montpellier
+Nice,Nantes
+Rennes,Metz
+Marseille,Bordeaux
+Montpellier,Marseille
+Monaco,Nancy
+Nantes,Toulouse
+Lyon,SC Bastia
+Dijon,Guingamp
+Angers,Lille
+Bordeaux,Lorient
+Caen,Nice
+Metz,Saint-Etienne
+Paris Saint Germain,Rennes
+Lorient,Monaco
+Lille,Lyon
+Paris Saint Germain,Nantes
+SC Bastia,Montpellier
+Rennes,Angers
+Nancy,Dijon
+Toulouse,Metz
+Guingamp,Bordeaux
+Marseille,Caen
+Saint-Etienne,Nice
+Rennes,Toulouse
+Monaco,Marseille
+Nantes,Lille
+Caen,Guingamp
+Metz,Lorient
+Bordeaux,Dijon
+Montpellier,Nancy
+Angers,Saint-Etienne
+Nice,SC Bastia
+Lyon,Paris Saint Germain
+Lorient,Rennes
+Lille,Caen
+Dijon,Monaco
+Toulouse,Montpellier
+Nantes,Lyon
+Guingamp,Nice
+SC Bastia,Bordeaux
+Nancy,Metz
+Saint-Etienne,Marseille
+Paris Saint Germain,Angers
+Caen,Dijon
+Montpellier,Paris Saint Germain
+Angers,Lorient
+Guingamp,Nantes
+Monaco,SC Bastia
+Bordeaux,Lille
+Rennes,Saint-Etienne
+Marseille,Nancy
+Nice,Toulouse
+Dijon,Marseille
+Bordeaux,Monaco
+Lille,Montpellier
+Nancy,Angers
+Toulouse,Lorient
+SC Bastia,Metz
+Lyon,Rennes
+Saint-Etienne,Guingamp
+Paris Saint Germain,Nice
+Angers,Nantes
+Guingamp,Paris Saint Germain
+Toulouse,Nancy
+Rennes,SC Bastia
+Lorient,Saint-Etienne
+Montpellier,Bordeaux
+Caen,Metz
+Nice,Dijon
+Marseille,Lille
+Monaco,Lyon
+Saint-Etienne,Nancy
+Bordeaux,Nice
+Lille,Rennes
+Lyon,Angers
+Paris Saint Germain,Lorient
+SC Bastia,Marseille
+Dijon,Toulouse
+Monaco,Caen
+Nantes,Montpellier
+Metz,Guingamp
+Lille,Saint-Etienne
+Rennes,Paris Saint Germain
+Montpellier,Dijon
+Toulouse,Nantes
+Angers,Bordeaux
+Nancy,SC Bastia
+Lorient,Guingamp
+Nice,Metz
+Caen,Lyon
+Marseille,Monaco
+Nantes,Caen
+SC Bastia,Nice
+Nantes,Paris Saint Germain
+Guingamp,Rennes
+Metz,Montpellier
+Dijon,Lille
+Bordeaux,Toulouse
+Monaco,Lorient
+Saint-Etienne,Angers
+Lyon,Marseille
+Marseille,Montpellier
+Lorient,Dijon
+Lyon,Lille
+Rennes,Nantes
+Angers,Metz
+SC Bastia,Caen
+Nancy,Bordeaux
+Toulouse,Saint-Etienne
+Nice,Guingamp
+Paris Saint Germain,Monaco
+Metz,Marseille
+Monaco,Nice
+Bordeaux,Rennes
+Lille,Lorient
+Montpellier,SC Bastia
+Dijon,Paris Saint Germain
+Guingamp,Caen
+Toulouse,Angers
+Nantes,Nancy
+Saint-Etienne,Lyon
+Montpellier,Monaco
+Caen,Bordeaux
+Paris Saint Germain,Lille
+Lorient,Toulouse
+Nice,Saint-Etienne
+Lyon,Nancy
+Angers,Rennes
+Metz,Dijon
+Marseille,Guingamp
+Bordeaux,Paris Saint Germain
+Guingamp,Lyon
+Nancy,Montpellier
+Lille,Angers
+Dijon,Caen
+Toulouse,SC Bastia
+Monaco,Metz
+Rennes,Nice
+Saint-Etienne,Lorient
+Nantes,Marseille
+SC Bastia,Monaco
+Marseille,Rennes
+Lorient,Nice
+Angers,Nancy
+Caen,Lille
+Metz,Nantes
+Bordeaux,Guingamp
+Montpellier,Saint-Etienne
+Lyon,Dijon
+Paris Saint Germain,Toulouse
+Caen,Nancy
+Nantes,Dijon
+Nice,Montpellier
+Guingamp,Monaco
+Nancy,Toulouse
+Lille,Bordeaux
+Angers,SC Bastia
+Rennes,Lorient
+Saint-Etienne,Caen
+Lyon,Metz
+Marseille,Paris Saint Germain
+SC Bastia,Nantes
+Bordeaux,Lyon
+Paris Saint Germain,Nancy
+Montpellier,Guingamp
+SC Bastia,Saint-Etienne
+Dijon,Nice
+Caen,Angers
+Metz,Rennes
+Lorient,Marseille
+Toulouse,Lille
+Monaco,Nantes
+Nice,Caen
+Marseille,Angers
+Monaco,Bordeaux
+Nancy,Lille
+Guingamp,SC Bastia
+Montpellier,Nantes
+Rennes,Dijon
+Saint-Etienne,Metz
+Lyon,Toulouse
+Lorient,Paris Saint Germain
+Metz,SC Bastia
+Lille,Marseille
+Nantes,Nice
+Bordeaux,Montpellier
+Nancy,Lorient
+Angers,Guingamp
+Toulouse,Rennes
+Caen,Monaco
+Dijon,Saint-Etienne
+Paris Saint Germain,Lyon
+Guingamp,Nancy
+Marseille,Dijon
+SC Bastia,Lille
+Rennes,Lyon
+Lorient,Caen
+Montpellier,Toulouse
+Nantes,Angers
+Nice,Bordeaux
+Metz,Lyon
+Lille,Nice
+Angers,Monaco
+Nancy,Rennes
+Bordeaux,Metz
+Lyon,Lorient
+Dijon,SC Bastia
+Caen,Montpellier
+Toulouse,Marseille
+Saint-Etienne,Nantes
+Paris Saint Germain,Guingamp
+Angers,Paris Saint Germain
+Nice,Nancy
+Montpellier,Lorient
+Rennes,Lille
+Guingamp,Toulouse
+Metz,Caen
+Monaco,Dijon
+SC Bastia,Lyon
+Nantes,Bordeaux
+Marseille,Saint-Etienne
+Metz,Paris Saint Germain
+Nancy,Marseille
+Paris Saint Germain,Montpellier
+Lorient,Metz
+Bordeaux,SC Bastia
+Dijon,Angers
+Caen,Nantes
+Lille,Guingamp
+Toulouse,Nice
+Saint-Etienne,Rennes
+Lyon,Monaco
+Angers,Lyon
+Monaco,Toulouse
+Montpellier,Lille
+SC Bastia,Rennes
+Nantes,Lorient
+Metz,Nancy
+Guingamp,Saint-Etienne
+Caen,Marseille
+Dijon,Bordeaux
+Nice,Paris Saint Germain
+Saint-Etienne,Bordeaux
+Paris Saint Germain,SC Bastia
+Nancy,Monaco
+Lorient,Angers
+Lille,Metz
+Toulouse,Caen
+Guingamp,Dijon
+Rennes,Montpellier
+Lyon,Nantes
+Marseille,Nice
+Saint-Etienne,Paris Saint Germain
+Bordeaux,Marseille
+Montpellier,Lyon
+Nice,Angers
+SC Bastia,Lorient
+Dijon,Nancy
+Monaco,Lille
+Nantes,Guingamp
+Caen,Rennes
+Metz,Toulouse
+Monaco,Saint-Etienne
+Nancy,Saint-Etienne
+Lorient,Bordeaux
+Lille,Nantes
+Marseille,SC Bastia
+Lyon,Nice
+Paris Saint Germain,Caen
+Toulouse,Dijon
+Angers,Montpellier
+Rennes,Monaco
+Guingamp,Metz

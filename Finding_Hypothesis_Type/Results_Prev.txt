@@ -1,0 +1,144 @@
+Liga: Bundesliga; powers: p345.m; epowers: p13.m; lnpowers: p1.m; SUM: 5.12
+Liga: LaLiga    ; powers: p345.m; epowers: p13.m; lnpowers: p1.m; SUM: -7.23
+Liga: Ligue_1   ; powers: p345.m; epowers: p13.m; lnpowers: p1.m; SUM: -12.09
+Liga: Serie_A   ; powers: p345.m; epowers: p13.m; lnpowers: p1.m; SUM: 5.94
+Liga: Bundesliga; powers: p1345.m; epowers: p12.m; lnpowers: p0.m; SUM: 14.99
+Liga: LaLiga    ; powers: p1345.m; epowers: p12.m; lnpowers: p0.m; SUM: -7.2
+Liga: Ligue_1   ; powers: p1345.m; epowers: p12.m; lnpowers: p0.m; SUM: -13.59
+Liga: Serie_A   ; powers: p1345.m; epowers: p12.m; lnpowers: p0.m; SUM: 16.04
+Liga: Bundesliga; powers: p245.m; epowers: p12.m; lnpowers: p23.m; SUM: -10.23
+Liga: LaLiga    ; powers: p245.m; epowers: p12.m; lnpowers: p23.m; SUM: -7.33
+Liga: Ligue_1   ; powers: p245.m; epowers: p12.m; lnpowers: p23.m; SUM: -8.16
+Liga: Serie_A   ; powers: p245.m; epowers: p12.m; lnpowers: p23.m; SUM: 13.62
+Liga: Bundesliga; powers: p1345.m; epowers: p13.m; lnpowers: p0.m; SUM: 16.73
+Liga: LaLiga    ; powers: p1345.m; epowers: p13.m; lnpowers: p0.m; SUM: -5.04
+Liga: Ligue_1   ; powers: p1345.m; epowers: p13.m; lnpowers: p0.m; SUM: -7.22
+Liga: Serie_A   ; powers: p1345.m; epowers: p13.m; lnpowers: p0.m; SUM: 20.16
+Liga: Bundesliga; powers: p235.m; epowers: p123.m; lnpowers: p23.m; SUM: -5.81
+Liga: LaLiga    ; powers: p235.m; epowers: p123.m; lnpowers: p23.m; SUM: -11.68
+Liga: Ligue_1   ; powers: p235.m; epowers: p123.m; lnpowers: p23.m; SUM: 13.24
+Liga: Serie_A   ; powers: p235.m; epowers: p123.m; lnpowers: p23.m; SUM: 12.6
+Liga: Bundesliga; powers: p1345.m; epowers: p123.m; lnpowers: p123.m; SUM: 5.8
+Liga: LaLiga    ; powers: p1345.m; epowers: p123.m; lnpowers: p123.m; SUM: -7.47
+Liga: Ligue_1   ; powers: p1345.m; epowers: p123.m; lnpowers: p123.m; SUM: 12.23
+Liga: Serie_A   ; powers: p1345.m; epowers: p123.m; lnpowers: p123.m; SUM: -16.88
+Liga: Bundesliga; powers: p1345.m; epowers: p1.m; lnpowers: p123.m; SUM: 0.26
+Liga: LaLiga    ; powers: p1345.m; epowers: p1.m; lnpowers: p123.m; SUM: -8.39
+Liga: Ligue_1   ; powers: p1345.m; epowers: p1.m; lnpowers: p123.m; SUM: 20.39
+Liga: Serie_A   ; powers: p1345.m; epowers: p1.m; lnpowers: p123.m; SUM: 9.59
+Liga: Bundesliga; powers: p1345.m; epowers: p123.m; lnpowers: p2.m; SUM: 1.31
+Liga: LaLiga    ; powers: p1345.m; epowers: p123.m; lnpowers: p2.m; SUM: -9.46
+Liga: Ligue_1   ; powers: p1345.m; epowers: p123.m; lnpowers: p2.m; SUM: -13.69
+Liga: Serie_A   ; powers: p1345.m; epowers: p123.m; lnpowers: p2.m; SUM: 4.46
+Liga: Bundesliga; powers: p2345.m; epowers: p123.m; lnpowers: p3.m; SUM: -7.39
+Liga: LaLiga    ; powers: p2345.m; epowers: p123.m; lnpowers: p3.m; SUM: -1.18
+Liga: Ligue_1   ; powers: p2345.m; epowers: p123.m; lnpowers: p3.m; SUM: 2.44
+Liga: Serie_A   ; powers: p2345.m; epowers: p123.m; lnpowers: p3.m; SUM: 16.28
+Liga: Bundesliga; powers: p235.m; epowers: p12.m; lnpowers: p23.m; SUM: -4.8
+Liga: LaLiga    ; powers: p235.m; epowers: p12.m; lnpowers: p23.m; SUM: -3.68
+Liga: Ligue_1   ; powers: p235.m; epowers: p12.m; lnpowers: p23.m; SUM: 3.12
+Liga: Serie_A   ; powers: p235.m; epowers: p12.m; lnpowers: p23.m; SUM: 9.81
+Liga: Bundesliga; powers: p12345.m; epowers: p123.m; lnpowers: p1.m; SUM: -8.74
+Liga: LaLiga    ; powers: p12345.m; epowers: p123.m; lnpowers: p1.m; SUM: -2.73
+Liga: Ligue_1   ; powers: p12345.m; epowers: p123.m; lnpowers: p1.m; SUM: 1.87
+Liga: Serie_A   ; powers: p12345.m; epowers: p123.m; lnpowers: p1.m; SUM: -6.74
+Liga: Bundesliga; powers: p134.m; epowers: p13.m; lnpowers: p123.m; SUM: -3.83
+Liga: LaLiga    ; powers: p134.m; epowers: p13.m; lnpowers: p123.m; SUM: -9.74
+Liga: Ligue_1   ; powers: p134.m; epowers: p13.m; lnpowers: p123.m; SUM: 10.62
+Liga: Serie_A   ; powers: p134.m; epowers: p13.m; lnpowers: p123.m; SUM: 12.97
+Liga: Bundesliga; powers: p135.m; epowers: p13.m; lnpowers: p123.m; SUM: -2.12
+Liga: LaLiga    ; powers: p135.m; epowers: p13.m; lnpowers: p123.m; SUM: -10.86
+Liga: Ligue_1   ; powers: p135.m; epowers: p13.m; lnpowers: p123.m; SUM: -1.52
+Liga: Serie_A   ; powers: p135.m; epowers: p13.m; lnpowers: p123.m; SUM: 16.86
+Liga: Bundesliga; powers: p345.m; epowers: p123.m; lnpowers: p1.m; SUM: 17.06
+Liga: LaLiga    ; powers: p345.m; epowers: p123.m; lnpowers: p1.m; SUM: 0.56
+Liga: Ligue_1   ; powers: p345.m; epowers: p123.m; lnpowers: p1.m; SUM: 9.17
+Liga: Serie_A   ; powers: p345.m; epowers: p123.m; lnpowers: p1.m; SUM: 3.32
+Liga: Bundesliga; powers: p2345.m; epowers: p123.m; lnpowers: p123.m; SUM: 4.51
+Liga: LaLiga    ; powers: p2345.m; epowers: p123.m; lnpowers: p123.m; SUM: -7.47
+Liga: Ligue_1   ; powers: p2345.m; epowers: p123.m; lnpowers: p123.m; SUM: 12.23
+Liga: Serie_A   ; powers: p2345.m; epowers: p123.m; lnpowers: p123.m; SUM: -9.19
+Liga: Bundesliga; powers: p4.m; epowers: p123.m; lnpowers: p13.m; SUM: 4.83
+Liga: LaLiga    ; powers: p4.m; epowers: p123.m; lnpowers: p13.m; SUM: -1.77
+Liga: Ligue_1   ; powers: p4.m; epowers: p123.m; lnpowers: p13.m; SUM: -10.4
+Liga: Serie_A   ; powers: p4.m; epowers: p123.m; lnpowers: p13.m; SUM: 8.04
+Liga: Bundesliga; powers: p1345.m; epowers: p123.m; lnpowers: p12.m; SUM: -5.74
+Liga: LaLiga    ; powers: p1345.m; epowers: p123.m; lnpowers: p12.m; SUM: -3.77
+Liga: Ligue_1   ; powers: p1345.m; epowers: p123.m; lnpowers: p12.m; SUM: 4.05
+Liga: Serie_A   ; powers: p1345.m; epowers: p123.m; lnpowers: p12.m; SUM: -6.28
+Liga: Bundesliga; powers: p12345.m; epowers: p123.m; lnpowers: p23.m; SUM: 3.8
+Liga: LaLiga    ; powers: p12345.m; epowers: p123.m; lnpowers: p23.m; SUM: -7.47
+Liga: Ligue_1   ; powers: p12345.m; epowers: p123.m; lnpowers: p23.m; SUM: 12.23
+Liga: Serie_A   ; powers: p12345.m; epowers: p123.m; lnpowers: p23.m; SUM: -9.19
+Liga: Bundesliga; powers: p1245.m; epowers: p2.m; lnpowers: p123.m; SUM: 3.6
+Liga: LaLiga    ; powers: p1245.m; epowers: p2.m; lnpowers: p123.m; SUM: -8.69
+Liga: Ligue_1   ; powers: p1245.m; epowers: p2.m; lnpowers: p123.m; SUM: 13.11
+Liga: Serie_A   ; powers: p1245.m; epowers: p2.m; lnpowers: p123.m; SUM: 10.59
+Liga: Bundesliga; powers: p123.m; epowers: p23.m; lnpowers: p123.m; SUM: -3.87
+Liga: LaLiga    ; powers: p123.m; epowers: p23.m; lnpowers: p123.m; SUM: -10.18
+Liga: Ligue_1   ; powers: p123.m; epowers: p23.m; lnpowers: p123.m; SUM: 9.62
+Liga: Serie_A   ; powers: p123.m; epowers: p23.m; lnpowers: p123.m; SUM: 16.34
+Liga: Bundesliga; powers: p1234.m; epowers: p2.m; lnpowers: p123.m; SUM: 0.22
+Liga: LaLiga    ; powers: p1234.m; epowers: p2.m; lnpowers: p123.m; SUM: -5.48
+Liga: Ligue_1   ; powers: p1234.m; epowers: p2.m; lnpowers: p123.m; SUM: 17.11
+Liga: Serie_A   ; powers: p1234.m; epowers: p2.m; lnpowers: p123.m; SUM: 8.66
+Liga: Bundesliga; powers: p12345.m; epowers: p3.m; lnpowers: p12.m; SUM: 0.25
+Liga: LaLiga    ; powers: p12345.m; epowers: p3.m; lnpowers: p12.m; SUM: -5.85
+Liga: Ligue_1   ; powers: p12345.m; epowers: p3.m; lnpowers: p12.m; SUM: 15.28
+Liga: Serie_A   ; powers: p12345.m; epowers: p3.m; lnpowers: p12.m; SUM: 13.76
+Liga: Bundesliga; powers: p1245.m; epowers: p3.m; lnpowers: p123.m; SUM: 2.55
+Liga: LaLiga    ; powers: p1245.m; epowers: p3.m; lnpowers: p123.m; SUM: -9.63
+Liga: Ligue_1   ; powers: p1245.m; epowers: p3.m; lnpowers: p123.m; SUM: 14.69
+Liga: Serie_A   ; powers: p1245.m; epowers: p3.m; lnpowers: p123.m; SUM: 12.32
+Liga: Bundesliga; powers: p1235.m; epowers: p2.m; lnpowers: p123.m; SUM: 2.77
+Liga: LaLiga    ; powers: p1235.m; epowers: p2.m; lnpowers: p123.m; SUM: -8.39
+Liga: Ligue_1   ; powers: p1235.m; epowers: p2.m; lnpowers: p123.m; SUM: 14.11
+Liga: Serie_A   ; powers: p1235.m; epowers: p2.m; lnpowers: p123.m; SUM: 9.59
+Liga: Bundesliga; powers: p1345.m; epowers: p2.m; lnpowers: p123.m; SUM: 1.6
+Liga: LaLiga    ; powers: p1345.m; epowers: p2.m; lnpowers: p123.m; SUM: -8.56
+Liga: Ligue_1   ; powers: p1345.m; epowers: p2.m; lnpowers: p123.m; SUM: 13.96
+Liga: Serie_A   ; powers: p1345.m; epowers: p2.m; lnpowers: p123.m; SUM: 15.4
+Liga: Bundesliga; powers: p12345.m; epowers: p123.m; lnpowers: p23.m; SUM: 3.8
+Liga: LaLiga    ; powers: p12345.m; epowers: p123.m; lnpowers: p23.m; SUM: -7.47
+Liga: Ligue_1   ; powers: p12345.m; epowers: p123.m; lnpowers: p23.m; SUM: 12.23
+Liga: Serie_A   ; powers: p12345.m; epowers: p123.m; lnpowers: p23.m; SUM: -9.19
+Liga: Bundesliga; powers: p1234.m; epowers: p13.m; lnpowers: p12.m; SUM: 1.15
+Liga: LaLiga    ; powers: p1234.m; epowers: p13.m; lnpowers: p12.m; SUM: -9.86
+Liga: Ligue_1   ; powers: p1234.m; epowers: p13.m; lnpowers: p12.m; SUM: 1.8
+Liga: Serie_A   ; powers: p1234.m; epowers: p13.m; lnpowers: p12.m; SUM: 11.75
+Liga: Bundesliga; powers: p134.m; epowers: p123.m; lnpowers: p123.m; SUM: -4.96
+Liga: LaLiga    ; powers: p134.m; epowers: p123.m; lnpowers: p123.m; SUM: 6.62
+Liga: Ligue_1   ; powers: p134.m; epowers: p123.m; lnpowers: p123.m; SUM: 11.57
+Liga: Serie_A   ; powers: p134.m; epowers: p123.m; lnpowers: p123.m; SUM: -15.8
+Liga: Bundesliga; powers: p2345.m; epowers: p12.m; lnpowers: p1.m; SUM: -1.51
+Liga: LaLiga    ; powers: p2345.m; epowers: p12.m; lnpowers: p1.m; SUM: -12.34
+Liga: Ligue_1   ; powers: p2345.m; epowers: p12.m; lnpowers: p1.m; SUM: -1.27
+Liga: Serie_A   ; powers: p2345.m; epowers: p12.m; lnpowers: p1.m; SUM: 8.95
+Liga: Bundesliga; powers: p2345.m; epowers: p12.m; lnpowers: p23.m; SUM: 3.24
+Liga: LaLiga    ; powers: p2345.m; epowers: p12.m; lnpowers: p23.m; SUM: -10.88
+Liga: Ligue_1   ; powers: p2345.m; epowers: p12.m; lnpowers: p23.m; SUM: 3.88
+Liga: Serie_A   ; powers: p2345.m; epowers: p12.m; lnpowers: p23.m; SUM: 2.47
+Liga: Bundesliga; powers: p134.m; epowers: p12.m; lnpowers: p123.m; SUM: 2.27
+Liga: LaLiga    ; powers: p134.m; epowers: p12.m; lnpowers: p123.m; SUM: -7.85
+Liga: Ligue_1   ; powers: p134.m; epowers: p12.m; lnpowers: p123.m; SUM: 14.69
+Liga: Serie_A   ; powers: p134.m; epowers: p12.m; lnpowers: p123.m; SUM: 11.96
+Liga: Bundesliga; powers: p234.m; epowers: p12.m; lnpowers: p123.m; SUM: -1.75
+Liga: LaLiga    ; powers: p234.m; epowers: p12.m; lnpowers: p123.m; SUM: -7.96
+Liga: Ligue_1   ; powers: p234.m; epowers: p12.m; lnpowers: p123.m; SUM: 11.17
+Liga: Serie_A   ; powers: p234.m; epowers: p12.m; lnpowers: p123.m; SUM: 8.65
+Liga: Bundesliga; powers: p1345.m; epowers: p12.m; lnpowers: p3.m; SUM: -0.24
+Liga: LaLiga    ; powers: p1345.m; epowers: p12.m; lnpowers: p3.m; SUM: -10.25
+Liga: Ligue_1   ; powers: p1345.m; epowers: p12.m; lnpowers: p3.m; SUM: -2.09
+Liga: Serie_A   ; powers: p1345.m; epowers: p12.m; lnpowers: p3.m; SUM: 10.49
+Liga: Bundesliga; powers: p1345.m; epowers: p12.m; lnpowers: p1.m; SUM: 0.49
+Liga: LaLiga    ; powers: p1345.m; epowers: p12.m; lnpowers: p1.m; SUM: -10.07
+Liga: Ligue_1   ; powers: p1345.m; epowers: p12.m; lnpowers: p1.m; SUM: -0.91
+Liga: Serie_A   ; powers: p1345.m; epowers: p12.m; lnpowers: p1.m; SUM: 10.54
+Liga: Bundesliga; powers: p1345.m; epowers: p12.m; lnpowers: p12.m; SUM: -1.35
+Liga: LaLiga    ; powers: p1345.m; epowers: p12.m; lnpowers: p12.m; SUM: -7.93
+Liga: Ligue_1   ; powers: p1345.m; epowers: p12.m; lnpowers: p12.m; SUM: -1.3
+Liga: Serie_A   ; powers: p1345.m; epowers: p12.m; lnpowers: p12.m; SUM: 14.71
+Liga: Bundesliga; powers: p235.m; epowers: p12.m; lnpowers: p123.m; SUM: -3.74
+Liga: LaLiga    ; powers: p235.m; epowers: p12.m; lnpowers: p123.m; SUM: -8.38
+Liga: Ligue_1   ; powers: p235.m; epowers: p12.m; lnpowers: p123.m; SUM: 3.51
+Liga: Serie_A   ; powers: p235.m; epowers: p12.m; lnpowers: p123.m; SUM: 11.14

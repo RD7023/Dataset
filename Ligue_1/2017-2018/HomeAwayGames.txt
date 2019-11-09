@@ -1,0 +1,381 @@
+Home,Away
+Monaco,Toulouse
+Paris Saint Germain,Amiens
+Lyon,Strasbourg
+Metz,Guingamp
+Saint-Etienne,Nice
+Troyes,Rennes
+Montpellier,Caen
+Lille,Nantes
+Angers,Bordeaux
+Marseille,Dijon
+Nice,Troyes
+Rennes,Lyon
+Nantes,Marseille
+Amiens,Angers
+Bordeaux,Metz
+Caen,Saint-Etienne
+Toulouse,Montpellier
+Strasbourg,Lille
+Dijon,Monaco
+Guingamp,Paris Saint Germain
+Metz,Monaco
+Lyon,Bordeaux
+Montpellier,Strasbourg
+Nice,Guingamp
+Rennes,Dijon
+Saint-Etienne,Amiens
+Troyes,Nantes
+Lille,Caen
+Marseille,Angers
+Paris Saint Germain,Toulouse
+Paris Saint Germain,Saint-Etienne
+Nantes,Lyon
+Amiens,Nice
+Bordeaux,Troyes
+Caen,Metz
+Dijon,Montpellier
+Toulouse,Rennes
+Guingamp,Strasbourg
+Angers,Lille
+Monaco,Marseille
+Lille,Bordeaux
+Metz,Paris Saint Germain
+Nice,Monaco
+Caen,Dijon
+Strasbourg,Amiens
+Troyes,Toulouse
+Montpellier,Nantes
+Saint-Etienne,Angers
+Lyon,Guingamp
+Marseille,Rennes
+Toulouse,Bordeaux
+Monaco,Strasbourg
+Troyes,Montpellier
+Dijon,Saint-Etienne
+Guingamp,Lille
+Nantes,Caen
+Amiens,Marseille
+Rennes,Nice
+Angers,Metz
+Paris Saint Germain,Lyon
+Nice,Angers
+Lille,Monaco
+Montpellier,Paris Saint Germain
+Bordeaux,Guingamp
+Caen,Amiens
+Lyon,Dijon
+Metz,Troyes
+Saint-Etienne,Rennes
+Strasbourg,Nantes
+Marseille,Toulouse
+Monaco,Montpellier
+Paris Saint Germain,Bordeaux
+Dijon,Strasbourg
+Rennes,Caen
+Guingamp,Toulouse
+Nantes,Metz
+Troyes,Saint-Etienne
+Angers,Lyon
+Nice,Marseille
+Lyon,Monaco
+Dijon,Paris Saint Germain
+Saint-Etienne,Metz
+Toulouse,Amiens
+Caen,Angers
+Guingamp,Rennes
+Lille,Troyes
+Bordeaux,Nantes
+Montpellier,Nice
+Strasbourg,Marseille
+Saint-Etienne,Montpellier
+Monaco,Caen
+Amiens,Bordeaux
+Angers,Toulouse
+Metz,Dijon
+Nantes,Guingamp
+Rennes,Lille
+Nice,Strasbourg
+Troyes,Lyon
+Marseille,Paris Saint Germain
+Paris Saint Germain,Nice
+Bordeaux,Monaco
+Caen,Troyes
+Dijon,Nantes
+Guingamp,Amiens
+Montpellier,Rennes
+Strasbourg,Angers
+Lyon,Metz
+Toulouse,Saint-Etienne
+Lille,Marseille
+Rennes,Bordeaux
+Angers,Paris Saint Germain
+Montpellier,Amiens
+Nantes,Toulouse
+Troyes,Strasbourg
+Monaco,Guingamp
+Nice,Dijon
+Marseille,Caen
+Metz,Lille
+Saint-Etienne,Lyon
+Lille,Saint-Etienne
+Amiens,Monaco
+Paris Saint Germain,Nantes
+Dijon,Troyes
+Guingamp,Angers
+Toulouse,Metz
+Strasbourg,Rennes
+Caen,Nice
+Lyon,Montpellier
+Bordeaux,Marseille
+Amiens,Lille
+Saint-Etienne,Strasbourg
+Rennes,Nantes
+Montpellier,Lille
+Troyes,Angers
+Caen,Bordeaux
+Dijon,Toulouse
+Metz,Amiens
+Nice,Lyon
+Marseille,Guingamp
+Monaco,Paris Saint Germain
+Amiens,Dijon
+Strasbourg,Caen
+Bordeaux,Saint-Etienne
+Angers,Rennes
+Guingamp,Montpellier
+Lyon,Lille
+Metz,Marseille
+Nantes,Monaco
+Toulouse,Nice
+Paris Saint Germain,Troyes
+Dijon,Bordeaux
+Strasbourg,Paris Saint Germain
+Troyes,Guingamp
+Nice,Metz
+Rennes,Amiens
+Monaco,Angers
+Lille,Toulouse
+Saint-Etienne,Nantes
+Caen,Lyon
+Montpellier,Marseille
+Bordeaux,Strasbourg
+Paris Saint Germain,Lille
+Angers,Montpellier
+Guingamp,Dijon
+Metz,Rennes
+Monaco,Troyes
+Toulouse,Caen
+Amiens,Lyon
+Nantes,Nice
+Marseille,Saint-Etienne
+Saint-Etienne,Monaco
+Rennes,Paris Saint Germain
+Caen,Guingamp
+Dijon,Lille
+Montpellier,Metz
+Strasbourg,Toulouse
+Troyes,Amiens
+Nantes,Angers
+Nice,Bordeaux
+Lyon,Marseille
+Amiens,Nantes
+Toulouse,Lyon
+Paris Saint Germain,Caen
+Angers,Dijon
+Bordeaux,Montpellier
+Guingamp,Saint-Etienne
+Lille,Nice
+Marseille,Troyes
+Metz,Strasbourg
+Monaco,Rennes
+Strasbourg,Guingamp
+Rennes,Marseille
+Caen,Lille
+Dijon,Metz
+Montpellier,Monaco
+Nice,Amiens
+Troyes,Bordeaux
+Saint-Etienne,Toulouse
+Lyon,Angers
+Nantes,Paris Saint Germain
+Bordeaux,Caen
+Marseille,Strasbourg
+Monaco,Nice
+Amiens,Montpellier
+Angers,Troyes
+Guingamp,Lyon
+Lille,Rennes
+Metz,Saint-Etienne
+Toulouse,Nantes
+Paris Saint Germain,Dijon
+Caen,Marseille
+Nantes,Bordeaux
+Amiens,Guingamp
+Montpellier,Toulouse
+Rennes,Angers
+Strasbourg,Dijon
+Troyes,Lille
+Nice,Saint-Etienne
+Monaco,Metz
+Lyon,Paris Saint Germain
+Dijon,Rennes
+Angers,Amiens
+Guingamp,Nantes
+Metz,Nice
+Paris Saint Germain,Montpellier
+Saint-Etienne,Caen
+Toulouse,Troyes
+Bordeaux,Lyon
+Lille,Strasbourg
+Marseille,Monaco
+Marseille,Metz
+Lille,Paris Saint Germain
+Amiens,Saint-Etienne
+Montpellier,Angers
+Nice,Toulouse
+Strasbourg,Bordeaux
+Rennes,Guingamp
+Caen,Nantes
+Monaco,Lyon
+Saint-Etienne,Marseille
+Toulouse,Paris Saint Germain
+Guingamp,Caen
+Metz,Montpellier
+Angers,Monaco
+Bordeaux,Amiens
+Dijon,Nice
+Strasbourg,Troyes
+Nantes,Lille
+Lyon,Rennes
+Monaco,Dijon
+Paris Saint Germain,Strasbourg
+Troyes,Metz
+Amiens,Toulouse
+Caen,Rennes
+Angers,Saint-Etienne
+Montpellier,Guingamp
+Nice,Nantes
+Lille,Lyon
+Marseille,Bordeaux
+Troyes,Dijon
+Strasbourg,Montpellier
+Toulouse,Monaco
+Rennes,Troyes
+Nantes,Amiens
+Lille,Angers
+Guingamp,Metz
+Dijon,Caen
+Bordeaux,Nice
+Lyon,Saint-Etienne
+Paris Saint Germain,Marseille
+Nice,Lille
+Monaco,Bordeaux
+Troyes,Paris Saint Germain
+Amiens,Rennes
+Angers,Guingamp
+Metz,Toulouse
+Saint-Etienne,Dijon
+Caen,Strasbourg
+Montpellier,Lyon
+Marseille,Nantes
+Strasbourg,Monaco
+Paris Saint Germain,Metz
+Bordeaux,Angers
+Dijon,Amiens
+Lille,Montpellier
+Nantes,Troyes
+Rennes,Saint-Etienne
+Guingamp,Nice
+Lyon,Caen
+Toulouse,Marseille
+Paris Saint Germain,Angers
+Monaco,Lille
+Bordeaux,Rennes
+Amiens,Troyes
+Angers,Caen
+Montpellier,Dijon
+Toulouse,Strasbourg
+Nice,Paris Saint Germain
+Metz,Nantes
+Saint-Etienne,Guingamp
+Marseille,Lyon
+Dijon,Marseille
+Guingamp,Bordeaux
+Caen,Montpellier
+Lille,Amiens
+Nantes,Saint-Etienne
+Strasbourg,Metz
+Troyes,Nice
+Lyon,Toulouse
+Rennes,Monaco
+Saint-Etienne,Paris Saint Germain
+Monaco,Nantes
+Amiens,Caen
+Bordeaux,Lille
+Guingamp,Troyes
+Angers,Strasbourg
+Toulouse,Dijon
+Nice,Rennes
+Metz,Lyon
+Marseille,Montpellier
+Angers,Nice
+Lyon,Amiens
+Caen,Toulouse
+Lille,Guingamp
+Nantes,Dijon
+Strasbourg,Saint-Etienne
+Rennes,Metz
+Montpellier,Bordeaux
+Troyes,Marseille
+Paris Saint Germain,Monaco
+Nantes,Rennes
+Dijon,Lyon
+Toulouse,Angers
+Metz,Caen
+Marseille,Lille
+Guingamp,Monaco
+Amiens,Strasbourg
+Nice,Montpellier
+Saint-Etienne,Troyes
+Bordeaux,Paris Saint Germain
+Montpellier,Saint-Etienne
+Troyes,Caen
+Bordeaux,Dijon
+Lille,Metz
+Lyon,Nantes
+Monaco,Amiens
+Strasbourg,Nice
+Angers,Marseille
+Paris Saint Germain,Guingamp
+Rennes,Toulouse
+Amiens,Paris Saint Germain
+Saint-Etienne,Bordeaux
+Lyon,Troyes
+Caen,Monaco
+Dijon,Guingamp
+Metz,Angers
+Nantes,Montpellier
+Rennes,Strasbourg
+Toulouse,Lille
+Marseille,Nice
+Amiens,Metz
+Angers,Nantes
+Bordeaux,Toulouse
+Guingamp,Marseille
+Lille,Dijon
+Strasbourg,Lyon
+Paris Saint Germain,Rennes
+Nice,Caen
+Monaco,Saint-Etienne
+Montpellier,Troyes
+Marseille,Amiens
+Lyon,Nice
+Dijon,Angers
+Caen,Paris Saint Germain
+Troyes,Monaco
+Toulouse,Guingamp
+Saint-Etienne,Lille
+Rennes,Montpellier
+Nantes,Strasbourg
+Metz,Bordeaux

@@ -1,0 +1,381 @@
+Home,Away
+Verona,Roma
+Lazio,Bologna
+Juventus,Udinese
+Palermo,Genoa
+Sampdoria,Carpi
+Sassuolo,Napoli
+Inter,Atalanta
+Empoli,Chievo
+Fiorentina,AC Milan
+Frosinone,Torino
+Bologna,Sassuolo
+AC Milan,Empoli
+Roma,Juventus
+Torino,Fiorentina
+Udinese,Palermo
+Napoli,Sampdoria
+Carpi,Inter
+Chievo,Lazio
+Genoa,Verona
+Atalanta,Frosinone
+Fiorentina,Genoa
+Frosinone,Roma
+Juventus,Chievo
+Verona,Torino
+Palermo,Carpi
+Sassuolo,Atalanta
+Empoli,Napoli
+Lazio,Udinese
+Inter,AC Milan
+Sampdoria,Bologna
+Udinese,Empoli
+AC Milan,Palermo
+Chievo,Inter
+Genoa,Juventus
+Roma,Sassuolo
+Torino,Sampdoria
+Atalanta,Verona
+Bologna,Frosinone
+Carpi,Fiorentina
+Napoli,Lazio
+Udinese,AC Milan
+Lazio,Genoa
+Palermo,Sassuolo
+Sampdoria,Roma
+Carpi,Napoli
+Chievo,Torino
+Fiorentina,Bologna
+Inter,Verona
+Juventus,Frosinone
+Empoli,Atalanta
+Roma,Carpi
+Napoli,Juventus
+Genoa,AC Milan
+Verona,Lazio
+Sassuolo,Chievo
+Torino,Palermo
+Bologna,Udinese
+Inter,Fiorentina
+Frosinone,Empoli
+Atalanta,Sampdoria
+Carpi,Torino
+Chievo,Verona
+Empoli,Sassuolo
+Palermo,Roma
+Sampdoria,Inter
+Udinese,Genoa
+Juventus,Bologna
+Lazio,Frosinone
+AC Milan,Napoli
+Fiorentina,Atalanta
+Roma,Empoli
+Torino,AC Milan
+Bologna,Palermo
+Frosinone,Sampdoria
+Genoa,Chievo
+Verona,Udinese
+Sassuolo,Lazio
+Atalanta,Carpi
+Napoli,Fiorentina
+Inter,Juventus
+Empoli,Genoa
+Carpi,Bologna
+Palermo,Inter
+Sampdoria,Verona
+Udinese,Frosinone
+AC Milan,Sassuolo
+Juventus,Atalanta
+Lazio,Torino
+Fiorentina,Roma
+Chievo,Napoli
+Bologna,Inter
+Frosinone,Carpi
+Verona,Fiorentina
+AC Milan,Chievo
+Napoli,Palermo
+Roma,Udinese
+Atalanta,Lazio
+Sassuolo,Juventus
+Torino,Genoa
+Sampdoria,Empoli
+Juventus,Torino
+Inter,Roma
+Fiorentina,Frosinone
+Genoa,Napoli
+Bologna,Atalanta
+Carpi,Verona
+Udinese,Sassuolo
+Lazio,AC Milan
+Chievo,Sampdoria
+Palermo,Empoli
+Verona,Bologna
+AC Milan,Atalanta
+Torino,Inter
+Sassuolo,Carpi
+Palermo,Chievo
+Roma,Lazio
+Empoli,Juventus
+Frosinone,Genoa
+Napoli,Udinese
+Sampdoria,Fiorentina
+Bologna,Roma
+Juventus,AC Milan
+Verona,Napoli
+Lazio,Palermo
+Udinese,Sampdoria
+Carpi,Chievo
+Fiorentina,Empoli
+Genoa,Sassuolo
+Atalanta,Torino
+Inter,Frosinone
+Torino,Bologna
+AC Milan,Sampdoria
+Roma,Atalanta
+Frosinone,Verona
+Genoa,Carpi
+Chievo,Udinese
+Empoli,Lazio
+Palermo,Juventus
+Sassuolo,Fiorentina
+Napoli,Inter
+Lazio,Juventus
+Torino,Roma
+Inter,Genoa
+Bologna,Napoli
+Atalanta,Palermo
+Fiorentina,Udinese
+Frosinone,Chievo
+Verona,Empoli
+Sampdoria,Sassuolo
+Carpi,AC Milan
+Genoa,Bologna
+Palermo,Frosinone
+Udinese,Inter
+AC Milan,Verona
+Chievo,Atalanta
+Empoli,Carpi
+Napoli,Roma
+Juventus,Fiorentina
+Lazio,Sampdoria
+Bologna,Empoli
+Carpi,Juventus
+Fiorentina,Chievo
+Atalanta,Napoli
+Verona,Sassuolo
+Roma,Genoa
+Sampdoria,Palermo
+Torino,Udinese
+Frosinone,AC Milan
+Inter,Lazio
+Genoa,Sampdoria
+Udinese,Atalanta
+Chievo,Roma
+Palermo,Fiorentina
+Sassuolo,Frosinone
+Juventus,Verona
+Lazio,Carpi
+AC Milan,Bologna
+Empoli,Inter
+Napoli,Torino
+Carpi,Udinese
+Fiorentina,Lazio
+Roma,AC Milan
+Inter,Sassuolo
+Atalanta,Genoa
+Bologna,Chievo
+Torino,Empoli
+Frosinone,Napoli
+Verona,Palermo
+Sampdoria,Juventus
+Atalanta,Inter
+Torino,Frosinone
+Napoli,Sassuolo
+Genoa,Palermo
+Bologna,Lazio
+Udinese,Juventus
+Roma,Verona
+Chievo,Empoli
+Carpi,Sampdoria
+AC Milan,Fiorentina
+Sassuolo,Torino
+Frosinone,Atalanta
+Empoli,AC Milan
+Fiorentina,Torino
+Sampdoria,Napoli
+Inter,Carpi
+Sassuolo,Bologna
+Verona,Genoa
+Lazio,Chievo
+Palermo,Udinese
+Juventus,Roma
+Carpi,Palermo
+Atalanta,Sassuolo
+Roma,Frosinone
+Chievo,Juventus
+Udinese,Lazio
+Torino,Verona
+Napoli,Empoli
+Genoa,Fiorentina
+Bologna,Sampdoria
+AC Milan,Inter
+Sassuolo,Roma
+Frosinone,Bologna
+Fiorentina,Carpi
+Inter,Chievo
+Juventus,Genoa
+Palermo,AC Milan
+Lazio,Napoli
+Sampdoria,Torino
+Empoli,Udinese
+Verona,Atalanta
+Bologna,Fiorentina
+Genoa,Lazio
+Verona,Inter
+Frosinone,Juventus
+Sassuolo,Palermo
+Napoli,Carpi
+Torino,Chievo
+AC Milan,Udinese
+Atalanta,Empoli
+Roma,Sampdoria
+Lazio,Verona
+Carpi,Roma
+Empoli,Frosinone
+Chievo,Sassuolo
+Juventus,Napoli
+AC Milan,Genoa
+Palermo,Torino
+Sampdoria,Atalanta
+Udinese,Bologna
+Fiorentina,Inter
+Bologna,Juventus
+Verona,Chievo
+Inter,Sampdoria
+Genoa,Udinese
+Sassuolo,Empoli
+Atalanta,Fiorentina
+Torino,Carpi
+Frosinone,Lazio
+Roma,Palermo
+Napoli,AC Milan
+Empoli,Roma
+AC Milan,Torino
+Palermo,Bologna
+Sampdoria,Frosinone
+Chievo,Genoa
+Udinese,Verona
+Carpi,Atalanta
+Juventus,Inter
+Lazio,Sassuolo
+Fiorentina,Napoli
+Roma,Fiorentina
+Verona,Sampdoria
+Napoli,Chievo
+Torino,Lazio
+Sassuolo,AC Milan
+Atalanta,Juventus
+Genoa,Empoli
+Bologna,Carpi
+Frosinone,Udinese
+Inter,Palermo
+Juventus,Sassuolo
+Empoli,Sampdoria
+Inter,Bologna
+Chievo,AC Milan
+Udinese,Roma
+Carpi,Frosinone
+Fiorentina,Verona
+Genoa,Torino
+Lazio,Atalanta
+Palermo,Napoli
+Empoli,Palermo
+Roma,Inter
+Atalanta,Bologna
+Verona,Carpi
+Sampdoria,Chievo
+Frosinone,Fiorentina
+Torino,Juventus
+Sassuolo,Udinese
+Napoli,Genoa
+AC Milan,Lazio
+Carpi,Sassuolo
+Juventus,Empoli
+Udinese,Napoli
+Chievo,Palermo
+Lazio,Roma
+Fiorentina,Sampdoria
+Genoa,Frosinone
+Atalanta,AC Milan
+Inter,Torino
+Bologna,Verona
+Frosinone,Inter
+Sassuolo,Genoa
+Chievo,Carpi
+AC Milan,Juventus
+Empoli,Fiorentina
+Napoli,Verona
+Torino,Atalanta
+Sampdoria,Udinese
+Palermo,Lazio
+Roma,Bologna
+Bologna,Torino
+Carpi,Genoa
+Inter,Napoli
+Atalanta,Roma
+Fiorentina,Sassuolo
+Juventus,Palermo
+Udinese,Chievo
+Verona,Frosinone
+Lazio,Empoli
+Sampdoria,AC Milan
+Napoli,Bologna
+Sassuolo,Sampdoria
+Roma,Torino
+Palermo,Atalanta
+Udinese,Fiorentina
+Chievo,Frosinone
+Empoli,Verona
+Genoa,Inter
+Juventus,Lazio
+AC Milan,Carpi
+Inter,Udinese
+Frosinone,Palermo
+Torino,Sassuolo
+Sampdoria,Lazio
+Bologna,Genoa
+Atalanta,Chievo
+Fiorentina,Juventus
+Roma,Napoli
+Verona,AC Milan
+Carpi,Empoli
+Udinese,Torino
+Chievo,Fiorentina
+Juventus,Carpi
+Palermo,Sampdoria
+Empoli,Bologna
+AC Milan,Frosinone
+Sassuolo,Verona
+Lazio,Inter
+Genoa,Roma
+Napoli,Atalanta
+Inter,Empoli
+Bologna,AC Milan
+Roma,Chievo
+Sampdoria,Genoa
+Fiorentina,Palermo
+Frosinone,Sassuolo
+Atalanta,Udinese
+Carpi,Lazio
+Torino,Napoli
+Verona,Juventus
+Juventus,Sampdoria
+Sassuolo,Inter
+AC Milan,Roma
+Napoli,Frosinone
+Empoli,Torino
+Genoa,Atalanta
+Chievo,Bologna
+Udinese,Carpi
+Lazio,Fiorentina
+Palermo,Verona

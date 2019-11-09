@@ -1,0 +1,381 @@
+Home,Away
+Reims,Paris Saint Germain
+SC Bastia,Marseille
+Evian Thonon Gaillard,Caen
+Guingamp,Saint-Etienne
+Lille,Metz
+Montpellier,Bordeaux
+Nantes,Lens
+Nice,Toulouse
+Lyon,Rennes
+Monaco,Lorient
+Caen,Lille
+Paris Saint Germain,SC Bastia
+Rennes,Evian Thonon Gaillard
+Toulouse,Lyon
+Lens,Guingamp
+Lorient,Nice
+Metz,Nantes
+Marseille,Montpellier
+Saint-Etienne,Reims
+Bordeaux,Monaco
+Evian Thonon Gaillard,Paris Saint Germain
+Guingamp,Marseille
+Lille,Lorient
+Nice,Bordeaux
+Reims,Caen
+Montpellier,Metz
+SC Bastia,Toulouse
+Lyon,Lens
+Saint-Etienne,Rennes
+Nantes,Monaco
+Marseille,Nice
+Monaco,Lille
+Nantes,Montpellier
+Toulouse,Evian Thonon Gaillard
+Caen,Rennes
+Lens,Reims
+Lorient,Guingamp
+Bordeaux,SC Bastia
+Metz,Lyon
+Paris Saint Germain,Saint-Etienne
+Lyon,Monaco
+Rennes,Paris Saint Germain
+Saint-Etienne,Caen
+Reims,Toulouse
+Montpellier,Lorient
+Nice,Metz
+SC Bastia,Lens
+Lille,Nantes
+Guingamp,Bordeaux
+Evian Thonon Gaillard,Marseille
+Bordeaux,Evian Thonon Gaillard
+Marseille,Rennes
+Lorient,Reims
+Metz,SC Bastia
+Nantes,Nice
+Toulouse,Caen
+Lille,Montpellier
+Lens,Saint-Etienne
+Monaco,Guingamp
+Paris Saint Germain,Lyon
+Reims,Marseille
+Rennes,Toulouse
+Evian Thonon Gaillard,Lens
+Guingamp,Metz
+Lyon,Lorient
+Montpellier,Monaco
+Nice,Lille
+SC Bastia,Nantes
+Caen,Paris Saint Germain
+Saint-Etienne,Bordeaux
+Monaco,Nice
+Toulouse,Paris Saint Germain
+Montpellier,Guingamp
+Metz,Reims
+Lille,SC Bastia
+Lorient,Evian Thonon Gaillard
+Bordeaux,Rennes
+Lens,Caen
+Nantes,Lyon
+Marseille,Saint-Etienne
+Reims,Bordeaux
+Caen,Marseille
+Nice,Montpellier
+SC Bastia,Lorient
+Rennes,Lens
+Evian Thonon Gaillard,Metz
+Saint-Etienne,Toulouse
+Guingamp,Nantes
+Lyon,Lille
+Paris Saint Germain,Monaco
+Lens,Paris Saint Germain
+Lorient,Saint-Etienne
+Lille,Guingamp
+Metz,Rennes
+Monaco,Evian Thonon Gaillard
+Nantes,Reims
+Nice,SC Bastia
+Marseille,Toulouse
+Bordeaux,Caen
+Lyon,Montpellier
+Toulouse,Lens
+Paris Saint Germain,Bordeaux
+Reims,Montpellier
+SC Bastia,Monaco
+Caen,Lorient
+Evian Thonon Gaillard,Nantes
+Rennes,Lille
+Saint-Etienne,Metz
+Guingamp,Nice
+Lyon,Marseille
+Monaco,Reims
+Lorient,Paris Saint Germain
+Metz,Caen
+Guingamp,SC Bastia
+Lille,Saint-Etienne
+Montpellier,Evian Thonon Gaillard
+Nice,Lyon
+Nantes,Rennes
+Bordeaux,Toulouse
+Marseille,Lens
+Rennes,Lorient
+Lens,Bordeaux
+Toulouse,Metz
+SC Bastia,Montpellier
+Caen,Nantes
+Evian Thonon Gaillard,Nice
+Lyon,Guingamp
+Reims,Lille
+Saint-Etienne,Monaco
+Paris Saint Germain,Marseille
+Metz,Paris Saint Germain
+SC Bastia,Lyon
+Guingamp,Rennes
+Lorient,Lens
+Nice,Reims
+Monaco,Caen
+Nantes,Saint-Etienne
+Montpellier,Toulouse
+Marseille,Bordeaux
+Marseille,Nantes
+Paris Saint Germain,Nice
+Reims,SC Bastia
+Rennes,Monaco
+Toulouse,Lorient
+Lens,Metz
+Caen,Montpellier
+Bordeaux,Lille
+Evian Thonon Gaillard,Guingamp
+Saint-Etienne,Lyon
+Lorient,Marseille
+Nantes,Toulouse
+Monaco,Lens
+Montpellier,Saint-Etienne
+Nice,Rennes
+Metz,Bordeaux
+SC Bastia,Evian Thonon Gaillard
+Guingamp,Caen
+Lille,Paris Saint Germain
+Lyon,Reims
+Toulouse,Monaco
+Paris Saint Germain,Nantes
+Rennes,Montpellier
+Saint-Etienne,SC Bastia
+Bordeaux,Lorient
+Caen,Nice
+Evian Thonon Gaillard,Lyon
+Lens,Lille
+Reims,Guingamp
+Marseille,Metz
+Lyon,Caen
+Nantes,Bordeaux
+Montpellier,Lens
+Reims,Evian Thonon Gaillard
+SC Bastia,Rennes
+Lorient,Metz
+Nice,Saint-Etienne
+Guingamp,Paris Saint Germain
+Lille,Toulouse
+Monaco,Marseille
+Lens,Nice
+Paris Saint Germain,Montpellier
+Metz,Monaco
+Lorient,Nantes
+Caen,SC Bastia
+Toulouse,Guingamp
+Rennes,Reims
+Marseille,Lille
+Saint-Etienne,Evian Thonon Gaillard
+Bordeaux,Lyon
+Lille,Evian Thonon Gaillard
+Montpellier,Marseille
+SC Bastia,Paris Saint Germain
+Evian Thonon Gaillard,Rennes
+Guingamp,Lens
+Lille,Caen
+Nice,Lorient
+Reims,Saint-Etienne
+Lyon,Toulouse
+Nantes,Metz
+Monaco,Bordeaux
+Bordeaux,Nice
+Lens,Lyon
+Lorient,Lille
+Toulouse,SC Bastia
+Caen,Reims
+Metz,Montpellier
+Monaco,Nantes
+Paris Saint Germain,Evian Thonon Gaillard
+Rennes,Saint-Etienne
+Marseille,Guingamp
+Nice,Marseille
+Lille,Monaco
+Guingamp,Lorient
+Montpellier,Nantes
+SC Bastia,Bordeaux
+Evian Thonon Gaillard,Toulouse
+Lyon,Metz
+Rennes,Caen
+Reims,Lens
+Saint-Etienne,Paris Saint Germain
+Paris Saint Germain,Rennes
+Marseille,Evian Thonon Gaillard
+Lens,SC Bastia
+Lorient,Montpellier
+Toulouse,Reims
+Metz,Nice
+Nantes,Lille
+Caen,Saint-Etienne
+Bordeaux,Guingamp
+Monaco,Lyon
+Saint-Etienne,Lens
+Rennes,Marseille
+Reims,Lorient
+SC Bastia,Metz
+Caen,Toulouse
+Evian Thonon Gaillard,Bordeaux
+Montpellier,Lille
+Guingamp,Monaco
+Nice,Nantes
+Lyon,Paris Saint Germain
+Marseille,Reims
+Paris Saint Germain,Caen
+Nantes,SC Bastia
+Toulouse,Rennes
+Lens,Evian Thonon Gaillard
+Lille,Nice
+Bordeaux,Saint-Etienne
+Metz,Guingamp
+Lorient,Lyon
+Nice,Monaco
+Paris Saint Germain,Toulouse
+Rennes,Bordeaux
+SC Bastia,Lille
+Caen,Lens
+Guingamp,Montpellier
+Reims,Metz
+Lyon,Nantes
+Saint-Etienne,Marseille
+Marseille,Caen
+Lille,Lyon
+Lorient,SC Bastia
+Bordeaux,Reims
+Lens,Rennes
+Metz,Evian Thonon Gaillard
+Toulouse,Saint-Etienne
+Nantes,Guingamp
+Montpellier,Nice
+Monaco,Paris Saint Germain
+Evian Thonon Gaillard,Lorient
+Toulouse,Marseille
+Paris Saint Germain,Lens
+Reims,Nantes
+Evian Thonon Gaillard,Monaco
+SC Bastia,Nice
+Rennes,Metz
+Caen,Bordeaux
+Saint-Etienne,Lorient
+Guingamp,Lille
+Montpellier,Lyon
+Monaco,SC Bastia
+Nice,Guingamp
+Metz,Saint-Etienne
+Lorient,Caen
+Montpellier,Reims
+Nantes,Evian Thonon Gaillard
+Lens,Toulouse
+Lille,Rennes
+Bordeaux,Paris Saint Germain
+Marseille,Lyon
+Paris Saint Germain,Lorient
+Lyon,Nice
+Rennes,Nantes
+SC Bastia,Guingamp
+Toulouse,Bordeaux
+Caen,Metz
+Evian Thonon Gaillard,Montpellier
+Saint-Etienne,Lille
+Reims,Monaco
+Lens,Marseille
+Monaco,Saint-Etienne
+Guingamp,Lyon
+Lille,Reims
+Lorient,Rennes
+Montpellier,SC Bastia
+Metz,Toulouse
+Nice,Evian Thonon Gaillard
+Bordeaux,Lens
+Nantes,Caen
+Marseille,Paris Saint Germain
+Monaco,Montpellier
+Caen,Monaco
+Saint-Etienne,Nantes
+Toulouse,Montpellier
+Rennes,Guingamp
+Reims,Nice
+Evian Thonon Gaillard,Lille
+Lens,Lorient
+Bordeaux,Marseille
+Lyon,SC Bastia
+Nantes,Marseille
+Nice,Paris Saint Germain
+Lorient,Toulouse
+Metz,Lens
+Monaco,Rennes
+Guingamp,Evian Thonon Gaillard
+SC Bastia,Reims
+Lille,Bordeaux
+Montpellier,Caen
+Lyon,Saint-Etienne
+Marseille,Lorient
+Paris Saint Germain,Lille
+Rennes,Nice
+Bordeaux,Metz
+Caen,Guingamp
+Evian Thonon Gaillard,SC Bastia
+Toulouse,Nantes
+Saint-Etienne,Montpellier
+Lens,Monaco
+Reims,Lyon
+Paris Saint Germain,Metz
+Metz,Marseille
+Lyon,Evian Thonon Gaillard
+Lorient,Bordeaux
+Guingamp,Reims
+Montpellier,Rennes
+SC Bastia,Saint-Etienne
+Nice,Caen
+Lille,Lens
+Monaco,Toulouse
+Nantes,Paris Saint Germain
+Paris Saint Germain,Guingamp
+Caen,Lyon
+Evian Thonon Gaillard,Reims
+Rennes,SC Bastia
+Toulouse,Lille
+Bordeaux,Nantes
+Metz,Lorient
+Lens,Montpellier
+Saint-Etienne,Nice
+Marseille,Monaco
+Nice,Lens
+SC Bastia,Caen
+Evian Thonon Gaillard,Saint-Etienne
+Guingamp,Toulouse
+Lille,Marseille
+Lyon,Bordeaux
+Monaco,Metz
+Montpellier,Paris Saint Germain
+Nantes,Lorient
+Reims,Rennes
+Bordeaux,Montpellier
+Caen,Evian Thonon Gaillard
+Lens,Nantes
+Paris Saint Germain,Reims
+Metz,Lille
+Marseille,SC Bastia
+Lorient,Monaco
+Saint-Etienne,Guingamp
+Toulouse,Nice
+Rennes,Lyon

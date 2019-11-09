@@ -1,0 +1,241 @@
+Teams
+Akhmat Grozny - FK Rostov
+FK Anzi Makhackala - Ural
+CSKA Moscow - FK Krylya Sovetov Samara
+Dynamo Moscow - Arsenal Tula
+Krasnodar - Rubin Kazan
+Lokomotiv Moscow - Ufa
+Orenburg - Spartak Moscow
+Zenit Petersburg - Yenisey
+Rubin Kazan - FK Anzi Makhackala
+FK Rostov - Zenit Petersburg
+Arsenal Tula - Krasnodar
+Yenisey - Dynamo Moscow
+Ural - Lokomotiv Moscow
+FK Krylya Sovetov Samara - Spartak Moscow
+CSKA Moscow - Akhmat Grozny
+Ufa - Orenburg
+Zenit Petersburg - CSKA Moscow
+Spartak Moscow - Ufa
+Akhmat Grozny - FK Krylya Sovetov Samara
+Yenisey - Krasnodar
+Lokomotiv Moscow - Rubin Kazan
+FK Anzi Makhackala - Arsenal Tula
+Dynamo Moscow - FK Rostov
+Orenburg - Ural
+FK Rostov - Krasnodar
+CSKA Moscow - Dynamo Moscow
+FK Krylya Sovetov Samara - Ufa
+Arsenal Tula - Lokomotiv Moscow
+Akhmat Grozny - Zenit Petersburg
+Ural - Spartak Moscow
+Rubin Kazan - Orenburg
+Yenisey - FK Anzi Makhackala
+Spartak Moscow - Rubin Kazan
+Orenburg - Arsenal Tula
+Krasnodar - CSKA Moscow
+Zenit Petersburg - FK Krylya Sovetov Samara
+Lokomotiv Moscow - Yenisey
+Ufa - Ural
+Dynamo Moscow - Akhmat Grozny
+FK Anzi Makhackala - FK Rostov
+Arsenal Tula - Spartak Moscow
+FK Krylya Sovetov Samara - Ural
+Yenisey - Orenburg
+Zenit Petersburg - Dynamo Moscow
+CSKA Moscow - FK Anzi Makhackala
+Rubin Kazan - Ufa
+Akhmat Grozny - Krasnodar
+FK Rostov - Lokomotiv Moscow
+Spartak Moscow - Yenisey
+Ural - Rubin Kazan
+Krasnodar - Zenit Petersburg
+Lokomotiv Moscow - CSKA Moscow
+Dynamo Moscow - FK Krylya Sovetov Samara
+Orenburg - FK Rostov
+Ufa - Arsenal Tula
+FK Anzi Makhackala - Akhmat Grozny
+FK Rostov - Spartak Moscow
+Zenit Petersburg - FK Anzi Makhackala
+Dynamo Moscow - Krasnodar
+Akhmat Grozny - Lokomotiv Moscow
+Arsenal Tula - Ural
+CSKA Moscow - Orenburg
+Yenisey - Ufa
+FK Krylya Sovetov Samara - Rubin Kazan
+Orenburg - Akhmat Grozny
+Lokomotiv Moscow - Zenit Petersburg
+Rubin Kazan - Arsenal Tula
+Ural - Yenisey
+Ufa - FK Rostov
+Spartak Moscow - CSKA Moscow
+Krasnodar - FK Krylya Sovetov Samara
+FK Anzi Makhackala - Dynamo Moscow
+Orenburg - FK Krylya Sovetov Samara
+Krasnodar - FK Anzi Makhackala
+CSKA Moscow - Ufa
+Zenit Petersburg - Orenburg
+FK Rostov - Ural
+Akhmat Grozny - Spartak Moscow
+Dynamo Moscow - Lokomotiv Moscow
+Yenisey - Rubin Kazan
+FK Krylya Sovetov Samara - Arsenal Tula
+Spartak Moscow - Zenit Petersburg
+Lokomotiv Moscow - Krasnodar
+Ufa - Akhmat Grozny
+Arsenal Tula - Yenisey
+Rubin Kazan - FK Rostov
+Ural - CSKA Moscow
+Orenburg - Dynamo Moscow
+FK Anzi Makhackala - FK Krylya Sovetov Samara
+Krasnodar - Orenburg
+Akhmat Grozny - Ural
+FK Anzi Makhackala - Lokomotiv Moscow
+Dynamo Moscow - Spartak Moscow
+Zenit Petersburg - Ufa
+FK Rostov - Arsenal Tula
+CSKA Moscow - Rubin Kazan
+FK Krylya Sovetov Samara - Yenisey
+Spartak Moscow - Krasnodar
+Yenisey - FK Rostov
+Ufa - Dynamo Moscow
+Rubin Kazan - Akhmat Grozny
+Lokomotiv Moscow - FK Krylya Sovetov Samara
+Arsenal Tula - CSKA Moscow
+Ural - Zenit Petersburg
+Orenburg - FK Anzi Makhackala
+Akhmat Grozny - Arsenal Tula
+Zenit Petersburg - Rubin Kazan
+Krasnodar - Ufa
+Dynamo Moscow - Ural
+FK Anzi Makhackala - Spartak Moscow
+Lokomotiv Moscow - Orenburg
+CSKA Moscow - Yenisey
+FK Krylya Sovetov Samara - FK Rostov
+Arsenal Tula - Zenit Petersburg
+Spartak Moscow - Lokomotiv Moscow
+FK Rostov - CSKA Moscow
+Krasnodar - Ural
+FK Anzi Makhackala - Ufa
+Yenisey - Akhmat Grozny
+Rubin Kazan - Dynamo Moscow
+Zenit Petersburg - FK Rostov
+Krasnodar - Arsenal Tula
+Spartak Moscow - FK Krylya Sovetov Samara
+FK Anzi Makhackala - Rubin Kazan
+Orenburg - Ufa
+Dynamo Moscow - Yenisey
+Lokomotiv Moscow - Ural
+Akhmat Grozny - CSKA Moscow
+CSKA Moscow - Zenit Petersburg
+Rubin Kazan - Lokomotiv Moscow
+Krasnodar - Yenisey
+Ufa - Spartak Moscow
+FK Rostov - Dynamo Moscow
+FK Krylya Sovetov Samara - Akhmat Grozny
+Ural - Orenburg
+Arsenal Tula - FK Anzi Makhackala
+FK Anzi Makhackala - Yenisey
+Ufa - FK Krylya Sovetov Samara
+Orenburg - Rubin Kazan
+Spartak Moscow - Ural
+Krasnodar - FK Rostov
+Zenit Petersburg - Akhmat Grozny
+Dynamo Moscow - CSKA Moscow
+Lokomotiv Moscow - Arsenal Tula
+Rubin Kazan - Spartak Moscow
+FK Krylya Sovetov Samara - Zenit Petersburg
+CSKA Moscow - Krasnodar
+Akhmat Grozny - Dynamo Moscow
+Yenisey - Lokomotiv Moscow
+FK Rostov - FK Anzi Makhackala
+Arsenal Tula - Orenburg
+Ural - Ufa
+Krasnodar - Akhmat Grozny
+Spartak Moscow - Arsenal Tula
+Dynamo Moscow - Zenit Petersburg
+Ufa - Rubin Kazan
+Ural - FK Krylya Sovetov Samara
+Orenburg - Yenisey
+Lokomotiv Moscow - FK Rostov
+FK Anzi Makhackala - CSKA Moscow
+CSKA Moscow - Lokomotiv Moscow
+Zenit Petersburg - Krasnodar
+Akhmat Grozny - FK Anzi Makhackala
+Yenisey - Spartak Moscow
+Rubin Kazan - Ural
+FK Rostov - Orenburg
+FK Krylya Sovetov Samara - Dynamo Moscow
+Arsenal Tula - Ufa
+Rubin Kazan - FK Krylya Sovetov Samara
+Spartak Moscow - FK Rostov
+Krasnodar - Dynamo Moscow
+FK Anzi Makhackala - Zenit Petersburg
+Lokomotiv Moscow - Akhmat Grozny
+Ufa - Yenisey
+Ural - Arsenal Tula
+Orenburg - CSKA Moscow
+FK Krylya Sovetov Samara - Krasnodar
+CSKA Moscow - Spartak Moscow
+Zenit Petersburg - Lokomotiv Moscow
+Akhmat Grozny - Orenburg
+FK Rostov - Ufa
+Arsenal Tula - Rubin Kazan
+Dynamo Moscow - FK Anzi Makhackala
+Yenisey - Ural
+Ural - FK Rostov
+Spartak Moscow - Akhmat Grozny
+FK Anzi Makhackala - Krasnodar
+Orenburg - Zenit Petersburg
+Arsenal Tula - FK Krylya Sovetov Samara
+Ufa - CSKA Moscow
+Rubin Kazan - Yenisey
+Lokomotiv Moscow - Dynamo Moscow
+Akhmat Grozny - Ufa
+Zenit Petersburg - Spartak Moscow
+Dynamo Moscow - Orenburg
+Yenisey - Arsenal Tula
+Krasnodar - Lokomotiv Moscow
+CSKA Moscow - Ural
+FK Krylya Sovetov Samara - FK Anzi Makhackala
+FK Rostov - Rubin Kazan
+Yenisey - FK Krylya Sovetov Samara
+Lokomotiv Moscow - FK Anzi Makhackala
+Ufa - Zenit Petersburg
+Orenburg - Krasnodar
+Spartak Moscow - Dynamo Moscow
+Rubin Kazan - CSKA Moscow
+Ural - Akhmat Grozny
+Arsenal Tula - FK Rostov
+Dynamo Moscow - Ufa
+FK Rostov - Yenisey
+Zenit Petersburg - Ural
+FK Krylya Sovetov Samara - Lokomotiv Moscow
+Akhmat Grozny - Rubin Kazan
+Krasnodar - Spartak Moscow
+CSKA Moscow - Arsenal Tula
+FK Anzi Makhackala - Orenburg
+Rubin Kazan - Zenit Petersburg
+Ufa - Krasnodar
+Arsenal Tula - Akhmat Grozny
+Orenburg - Lokomotiv Moscow
+FK Rostov - FK Krylya Sovetov Samara
+Spartak Moscow - FK Anzi Makhackala
+Yenisey - CSKA Moscow
+Ural - Dynamo Moscow
+Ufa - FK Anzi Makhackala
+Akhmat Grozny - Yenisey
+CSKA Moscow - FK Rostov
+FK Krylya Sovetov Samara - Orenburg
+Lokomotiv Moscow - Spartak Moscow
+Zenit Petersburg - Arsenal Tula
+Ural - Krasnodar
+Dynamo Moscow - Rubin Kazan
+FK Krylya Sovetov Samara - CSKA Moscow
+Ufa - Lokomotiv Moscow
+Rubin Kazan - Krasnodar
+Arsenal Tula - Dynamo Moscow
+Yenisey - Zenit Petersburg
+FK Rostov - Akhmat Grozny
+Spartak Moscow - Orenburg
+Ural - FK Anzi Makhackala

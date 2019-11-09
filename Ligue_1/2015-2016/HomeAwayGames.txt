@@ -1,0 +1,381 @@
+Home,Away
+Lille,Paris Saint Germain
+SC Bastia,Rennes
+Marseille,Caen
+Montpellier,Angers
+Nantes,Guingamp
+Nice,Monaco
+Troyes,GFC Ajaccio
+Toulouse,Saint-Etienne
+Bordeaux,Reims
+Lyon,Lorient
+Monaco,Lille
+Saint-Etienne,Bordeaux
+Troyes,Nice
+Rennes,Montpellier
+Angers,Nantes
+Caen,Toulouse
+Guingamp,Lyon
+Reims,Marseille
+Lorient,SC Bastia
+Paris Saint Germain,GFC Ajaccio
+Montpellier,Paris Saint Germain
+Lyon,Rennes
+Nantes,Reims
+Nice,Caen
+Toulouse,Monaco
+SC Bastia,Guingamp
+GFC Ajaccio,Angers
+Lille,Bordeaux
+Lorient,Saint-Etienne
+Marseille,Troyes
+Guingamp,Marseille
+Caen,Lyon
+Lille,GFC Ajaccio
+Troyes,Montpellier
+Angers,Nice
+Reims,Lorient
+Rennes,Toulouse
+Saint-Etienne,SC Bastia
+Bordeaux,Nantes
+Monaco,Paris Saint Germain
+Paris Saint Germain,Bordeaux
+Lyon,Lille
+Montpellier,Saint-Etienne
+Lorient,Angers
+Toulouse,Reims
+Troyes,Caen
+Nice,Guingamp
+GFC Ajaccio,Monaco
+Nantes,Rennes
+Marseille,SC Bastia
+Rennes,Lille
+Reims,Paris Saint Germain
+Angers,Troyes
+SC Bastia,Nice
+Caen,Montpellier
+Guingamp,GFC Ajaccio
+Bordeaux,Toulouse
+Monaco,Lorient
+Saint-Etienne,Nantes
+Marseille,Lyon
+Angers,Reims
+Paris Saint Germain,Guingamp
+Troyes,Saint-Etienne
+Nice,Bordeaux
+Lorient,Caen
+Lyon,SC Bastia
+GFC Ajaccio,Rennes
+Toulouse,Marseille
+Montpellier,Monaco
+Reims,Lille
+Nantes,Paris Saint Germain
+Rennes,Troyes
+SC Bastia,Toulouse
+Bordeaux,Lyon
+Caen,GFC Ajaccio
+Marseille,Angers
+Montpellier,Lorient
+Guingamp,Monaco
+Saint-Etienne,Nice
+Lille,Nantes
+Lille,Montpellier
+Lyon,Reims
+Troyes,Guingamp
+Angers,SC Bastia
+GFC Ajaccio,Toulouse
+Monaco,Rennes
+Caen,Saint-Etienne
+Lorient,Bordeaux
+Paris Saint Germain,Marseille
+Monaco,Lyon
+SC Bastia,Paris Saint Germain
+Nantes,Troyes
+Reims,Caen
+Saint-Etienne,GFC Ajaccio
+Toulouse,Angers
+Guingamp,Lille
+Marseille,Lorient
+Bordeaux,Montpellier
+Rennes,Nice
+Caen,Nantes
+Lyon,Toulouse
+Lorient,Rennes
+GFC Ajaccio,Nice
+Montpellier,SC Bastia
+Angers,Guingamp
+Reims,Monaco
+Lille,Marseille
+Bordeaux,Troyes
+Paris Saint Germain,Saint-Etienne
+Rennes,Paris Saint Germain
+Saint-Etienne,Reims
+SC Bastia,Caen
+GFC Ajaccio,Bordeaux
+Guingamp,Lorient
+Troyes,Lyon
+Toulouse,Montpellier
+Nice,Lille
+Monaco,Angers
+Nantes,Marseille
+Nice,Nantes
+Angers,Rennes
+Paris Saint Germain,Toulouse
+Montpellier,Nantes
+Lorient,Troyes
+Caen,Guingamp
+Lille,SC Bastia
+Reims,GFC Ajaccio
+Marseille,Nice
+Lyon,Saint-Etienne
+Bordeaux,Monaco
+Nice,Lyon
+Lorient,Paris Saint Germain
+Guingamp,Toulouse
+Montpellier,Reims
+Monaco,Nantes
+Troyes,Lille
+SC Bastia,GFC Ajaccio
+Caen,Angers
+Rennes,Bordeaux
+Saint-Etienne,Marseille
+Lyon,Montpellier
+Paris Saint Germain,Troyes
+Nantes,SC Bastia
+GFC Ajaccio,Lorient
+Toulouse,Nice
+Reims,Rennes
+Angers,Lille
+Saint-Etienne,Guingamp
+Bordeaux,Caen
+Marseille,Monaco
+Angers,Paris Saint Germain
+Lorient,Nice
+Nantes,Lyon
+Troyes,Toulouse
+Monaco,Caen
+Montpellier,GFC Ajaccio
+SC Bastia,Bordeaux
+Guingamp,Reims
+Lille,Saint-Etienne
+Rennes,Marseille
+Nice,Paris Saint Germain
+Lyon,Angers
+Reims,Troyes
+Toulouse,Lorient
+SC Bastia,Monaco
+Caen,Lille
+GFC Ajaccio,Nantes
+Marseille,Montpellier
+Bordeaux,Guingamp
+Saint-Etienne,Rennes
+Rennes,Caen
+Reims,Nice
+Nantes,Toulouse
+Montpellier,Guingamp
+Troyes,SC Bastia
+Lille,Lorient
+Monaco,Saint-Etienne
+Marseille,GFC Ajaccio
+Angers,Bordeaux
+Paris Saint Germain,Lyon
+Nice,Montpellier
+Caen,Paris Saint Germain
+SC Bastia,Reims
+Guingamp,Rennes
+Lorient,Nantes
+Toulouse,Lille
+Troyes,Monaco
+Saint-Etienne,Angers
+GFC Ajaccio,Lyon
+Bordeaux,Marseille
+Paris Saint Germain,SC Bastia
+Lyon,Troyes
+Montpellier,Bordeaux
+Reims,Toulouse
+Rennes,Lorient
+Angers,Caen
+Monaco,GFC Ajaccio
+Nantes,Saint-Etienne
+Lille,Nice
+Marseille,Guingamp
+Nice,Angers
+Toulouse,Paris Saint Germain
+SC Bastia,Montpellier
+GFC Ajaccio,Reims
+Guingamp,Nantes
+Troyes,Rennes
+Bordeaux,Lille
+Lorient,Monaco
+Caen,Marseille
+Saint-Etienne,Lyon
+Rennes,GFC Ajaccio
+Paris Saint Germain,Angers
+Guingamp,SC Bastia
+Nantes,Bordeaux
+Lille,Troyes
+Montpellier,Caen
+Nice,Lorient
+Monaco,Toulouse
+Reims,Saint-Etienne
+Lyon,Marseille
+Marseille,Lille
+Angers,Monaco
+Troyes,Nantes
+Lorient,Reims
+GFC Ajaccio,Montpellier
+SC Bastia,Lyon
+Toulouse,Guingamp
+Caen,Nice
+Bordeaux,Rennes
+Saint-Etienne,Paris Saint Germain
+Monaco,SC Bastia
+Montpellier,Marseille
+Nice,Toulouse
+Lyon,Bordeaux
+Guingamp,Troyes
+Nantes,GFC Ajaccio
+Lille,Caen
+Reims,Angers
+Paris Saint Germain,Lorient
+Rennes,Saint-Etienne
+Monaco,Nice
+Angers,Lyon
+Lorient,Montpellier
+GFC Ajaccio,Guingamp
+SC Bastia,Troyes
+Caen,Reims
+Toulouse,Nantes
+Lille,Rennes
+Bordeaux,Saint-Etienne
+Marseille,Paris Saint Germain
+Rennes,Angers
+Paris Saint Germain,Lille
+Reims,SC Bastia
+Guingamp,Bordeaux
+Nantes,Lorient
+Montpellier,Toulouse
+GFC Ajaccio,Troyes
+Lyon,Caen
+Saint-Etienne,Monaco
+Nice,Marseille
+Bordeaux,Nice
+Paris Saint Germain,Reims
+Lorient,Guingamp
+Toulouse,GFC Ajaccio
+Angers,Montpellier
+Monaco,Troyes
+Marseille,Saint-Etienne
+Caen,Rennes
+Lille,Lyon
+Nice,SC Bastia
+Montpellier,Lille
+Reims,Bordeaux
+Toulouse,Rennes
+Guingamp,Angers
+Troyes,Lorient
+Nantes,Monaco
+Saint-Etienne,Caen
+Lyon,Paris Saint Germain
+Caen,Monaco
+Paris Saint Germain,Montpellier
+SC Bastia,Lorient
+Angers,Saint-Etienne
+Bordeaux,GFC Ajaccio
+Lille,Reims
+Nice,Troyes
+Marseille,Toulouse
+Rennes,Nantes
+Lyon,Guingamp
+SC Bastia,Nantes
+GFC Ajaccio,Marseille
+Monaco,Reims
+Lorient,Marseille
+GFC Ajaccio,Caen
+Guingamp,Saint-Etienne
+Montpellier,Nice
+SC Bastia,Lille
+Toulouse,Bordeaux
+Troyes,Paris Saint Germain
+Nantes,Angers
+Rennes,Lyon
+Marseille,Rennes
+Saint-Etienne,Montpellier
+Angers,Lorient
+Lille,Toulouse
+Caen,Troyes
+Reims,Guingamp
+Lyon,Nantes
+Bordeaux,SC Bastia
+Nice,GFC Ajaccio
+Paris Saint Germain,Monaco
+Monaco,Bordeaux
+Paris Saint Germain,Nice
+GFC Ajaccio,Saint-Etienne
+Guingamp,Montpellier
+Troyes,Angers
+Rennes,Reims
+Toulouse,Caen
+Nantes,Lille
+SC Bastia,Marseille
+Lorient,Lyon
+Montpellier,Lyon
+Guingamp,Paris Saint Germain
+Angers,GFC Ajaccio
+Saint-Etienne,Troyes
+Caen,Lorient
+Reims,Nantes
+Toulouse,SC Bastia
+Lille,Monaco
+Nice,Rennes
+Marseille,Bordeaux
+Lyon,Nice
+Paris Saint Germain,Caen
+SC Bastia,Saint-Etienne
+Bordeaux,Angers
+Lorient,Toulouse
+GFC Ajaccio,Lille
+Troyes,Reims
+Nantes,Montpellier
+Rennes,Guingamp
+Monaco,Marseille
+Nice,Reims
+Toulouse,Lyon
+Marseille,Nantes
+Montpellier,Troyes
+Saint-Etienne,Lorient
+Guingamp,Caen
+GFC Ajaccio,SC Bastia
+Rennes,Monaco
+Lille,Angers
+Paris Saint Germain,Rennes
+Nantes,Nice
+Saint-Etienne,Toulouse
+Monaco,Guingamp
+Troyes,Bordeaux
+Reims,Montpellier
+Lorient,Lille
+Caen,SC Bastia
+Lyon,GFC Ajaccio
+Angers,Marseille
+Nice,Saint-Etienne
+Marseille,Reims
+Bordeaux,Lorient
+Nantes,Caen
+GFC Ajaccio,Paris Saint Germain
+Lille,Guingamp
+Montpellier,Rennes
+Toulouse,Troyes
+SC Bastia,Angers
+Lyon,Monaco
+Bordeaux,Paris Saint Germain
+Monaco,Montpellier
+Saint-Etienne,Lille
+Guingamp,Nice
+Troyes,Marseille
+Lorient,GFC Ajaccio
+Paris Saint Germain,Nantes
+Caen,Bordeaux
+Reims,Lyon
+Rennes,SC Bastia
+Angers,Toulouse

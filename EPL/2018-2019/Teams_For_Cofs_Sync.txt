@@ -1,0 +1,381 @@
+Teams
+Brighton - Manchester City
+Burnley - Arsenal
+Crystal Palace - Bournemouth
+Fulham - Newcastle
+Leicester - Chelsea
+Liverpool - Wolves
+Manchester Utd - Cardiff
+Southampton - Huddersfield
+Tottenham - Everton
+Watford - West Ham
+Manchester City - Leicester
+Arsenal - Brighton
+Chelsea - Watford
+Huddersfield - Manchester Utd
+Newcastle - Liverpool
+Cardiff - Crystal Palace
+West Ham - Southampton
+Wolves - Fulham
+Bournemouth - Tottenham
+Everton - Burnley
+Manchester Utd - Chelsea
+Burnley - Manchester City
+Leicester - Arsenal
+Brighton - Newcastle
+Crystal Palace - Everton
+Fulham - Cardiff
+Southampton - Bournemouth
+Watford - Wolves
+Tottenham - West Ham
+Liverpool - Huddersfield
+Manchester Utd - Manchester City
+Wolves - Arsenal
+Tottenham - Brighton
+Watford - Southampton
+Chelsea - Burnley
+Arsenal - Crystal Palace
+Cardiff - Liverpool
+Everton - Manchester Utd
+Newcastle - Southampton
+Bournemouth - Fulham
+Huddersfield - Watford
+West Ham - Leicester
+Wolves - Brighton
+Manchester City - Tottenham
+Brighton - Cardiff
+Watford - Arsenal
+Liverpool - Chelsea
+Crystal Palace - Manchester City
+Manchester Utd - West Ham
+Brighton - Bournemouth
+Burnley - Cardiff
+Fulham - Everton
+Southampton - Wolves
+Tottenham - Huddersfield
+Leicester - Newcastle
+Chelsea - West Ham
+Everton - Arsenal
+Bournemouth - Burnley
+Huddersfield - Leicester
+Newcastle - Crystal Palace
+Southampton - Liverpool
+Chelsea - Brighton
+Manchester City - Cardiff
+Tottenham - Crystal Palace
+Watford - Fulham
+Wolves - Manchester Utd
+Arsenal - Newcastle
+Liverpool - Tottenham
+Cardiff - Chelsea
+West Ham - Everton
+Brighton - Southampton
+Burnley - Wolves
+Crystal Palace - Huddersfield
+Leicester - Bournemouth
+Manchester Utd - Watford
+Fulham - Manchester City
+Everton - Chelsea
+Fulham - Liverpool
+Bournemouth - Newcastle
+Burnley - Leicester
+West Ham - Huddersfield
+Arsenal - Manchester Utd
+Chelsea - Wolves
+Liverpool - Burnley
+Manchester City - Watford
+Cardiff - West Ham
+Huddersfield - Bournemouth
+Leicester - Fulham
+Newcastle - Everton
+Southampton - Tottenham
+Crystal Palace - Brighton
+Everton - Liverpool
+Fulham - Chelsea
+Watford - Leicester
+West Ham - Newcastle
+Bournemouth - Manchester City
+Brighton - Huddersfield
+Burnley - Crystal Palace
+Manchester Utd - Southampton
+Wolves - Cardiff
+Tottenham - Arsenal
+Chelsea - Tottenham
+Crystal Palace - Manchester Utd
+Liverpool - Watford
+Manchester City - West Ham
+Arsenal - Bournemouth
+Southampton - Fulham
+Newcastle - Burnley
+Cardiff - Everton
+Huddersfield - Wolves
+Leicester - Brighton
+Arsenal - Southampton
+Manchester Utd - Liverpool
+Leicester - Crystal Palace
+Bournemouth - Wolves
+Newcastle - Huddersfield
+Burnley - Tottenham
+Cardiff - Watford
+West Ham - Fulham
+Wolves - Newcastle
+Manchester City - Chelsea
+Tottenham - Leicester
+Brighton - Burnley
+Crystal Palace - West Ham
+Huddersfield - Arsenal
+Liverpool - Bournemouth
+Southampton - Cardiff
+Watford - Everton
+Fulham - Manchester Utd
+Everton - Manchester City
+West Ham - Liverpool
+Manchester City - Arsenal
+Leicester - Manchester Utd
+Cardiff - Bournemouth
+Brighton - Watford
+Burnley - Southampton
+Chelsea - Huddersfield
+Crystal Palace - Fulham
+Everton - Wolves
+Tottenham - Newcastle
+Liverpool - Leicester
+Tottenham - Watford
+Bournemouth - Chelsea
+Southampton - Crystal Palace
+Manchester Utd - Burnley
+Newcastle - Manchester City
+Arsenal - Cardiff
+Fulham - Brighton
+Huddersfield - Everton
+Wolves - West Ham
+Fulham - Tottenham
+Huddersfield - Manchester City
+Arsenal - Chelsea
+Bournemouth - West Ham
+Liverpool - Crystal Palace
+Manchester Utd - Brighton
+Newcastle - Cardiff
+Southampton - Everton
+Watford - Burnley
+Wolves - Leicester
+Manchester City - Wolves
+Tottenham - Manchester Utd
+Everton - Bournemouth
+Chelsea - Newcastle
+Brighton - Liverpool
+Burnley - Fulham
+Cardiff - Huddersfield
+Crystal Palace - Watford
+Leicester - Southampton
+West Ham - Arsenal
+Manchester City - Liverpool
+Newcastle - Manchester Utd
+Bournemouth - Watford
+Chelsea - Southampton
+Huddersfield - Burnley
+West Ham - Brighton
+Wolves - Crystal Palace
+Cardiff - Tottenham
+Arsenal - Fulham
+Everton - Leicester
+Manchester Utd - Bournemouth
+Burnley - West Ham
+Southampton - Manchester City
+Crystal Palace - Chelsea
+Liverpool - Arsenal
+Brighton - Everton
+Fulham - Huddersfield
+Leicester - Cardiff
+Tottenham - Wolves
+Watford - Newcastle
+Southampton - West Ham
+Watford - Chelsea
+Brighton - Arsenal
+Burnley - Everton
+Crystal Palace - Cardiff
+Leicester - Manchester City
+Liverpool - Newcastle
+Manchester Utd - Huddersfield
+Tottenham - Bournemouth
+Fulham - Wolves
+Everton - Tottenham
+Cardiff - Manchester Utd
+Bournemouth - Brighton
+Chelsea - Leicester
+Huddersfield - Southampton
+Manchester City - Crystal Palace
+Newcastle - Fulham
+West Ham - Watford
+Arsenal - Burnley
+Wolves - Liverpool
+Liverpool - Manchester Utd
+Brighton - Chelsea
+Southampton - Arsenal
+Fulham - West Ham
+Crystal Palace - Leicester
+Huddersfield - Newcastle
+Tottenham - Burnley
+Watford - Cardiff
+Wolves - Bournemouth
+Manchester City - Everton
+Everton - Watford
+Newcastle - Wolves
+Leicester - Tottenham
+Chelsea - Manchester City
+Arsenal - Huddersfield
+Burnley - Brighton
+Cardiff - Southampton
+Manchester Utd - Fulham
+West Ham - Crystal Palace
+Bournemouth - Liverpool
+Manchester Utd - Arsenal
+Tottenham - Southampton
+Burnley - Liverpool
+Everton - Newcastle
+Fulham - Leicester
+Wolves - Chelsea
+Watford - Manchester City
+Bournemouth - Huddersfield
+Brighton - Crystal Palace
+West Ham - Cardiff
+Liverpool - Everton
+Arsenal - Tottenham
+Chelsea - Fulham
+Southampton - Manchester Utd
+Crystal Palace - Burnley
+Huddersfield - Brighton
+Leicester - Watford
+Manchester City - Bournemouth
+Newcastle - West Ham
+Cardiff - Wolves
+Burnley - Newcastle
+Wolves - Huddersfield
+Bournemouth - Arsenal
+Tottenham - Chelsea
+Brighton - Leicester
+Everton - Cardiff
+Fulham - Southampton
+Manchester Utd - Crystal Palace
+Watford - Liverpool
+West Ham - Manchester City
+Arsenal - Wolves
+Manchester City - Manchester Utd
+Chelsea - Everton
+Liverpool - Fulham
+Crystal Palace - Tottenham
+Huddersfield - West Ham
+Leicester - Burnley
+Newcastle - Bournemouth
+Southampton - Watford
+Cardiff - Brighton
+Huddersfield - Fulham
+Chelsea - Crystal Palace
+Manchester City - Southampton
+Wolves - Tottenham
+Arsenal - Liverpool
+Cardiff - Leicester
+Everton - Brighton
+Newcastle - Watford
+West Ham - Burnley
+Bournemouth - Manchester Utd
+Tottenham - Manchester City
+Manchester Utd - Everton
+Burnley - Chelsea
+Crystal Palace - Arsenal
+Leicester - West Ham
+Brighton - Wolves
+Fulham - Bournemouth
+Liverpool - Cardiff
+Southampton - Newcastle
+Watford - Huddersfield
+Arsenal - Leicester
+Everton - Crystal Palace
+Huddersfield - Liverpool
+Bournemouth - Southampton
+Cardiff - Fulham
+Manchester City - Burnley
+Newcastle - Brighton
+West Ham - Tottenham
+Wolves - Watford
+Chelsea - Manchester Utd
+Liverpool - Manchester City
+Southampton - Chelsea
+Fulham - Arsenal
+Manchester Utd - Newcastle
+Burnley - Huddersfield
+Crystal Palace - Wolves
+Leicester - Everton
+Tottenham - Cardiff
+Watford - Bournemouth
+Brighton - West Ham
+Bournemouth - Crystal Palace
+Cardiff - Burnley
+Chelsea - Liverpool
+Arsenal - Watford
+Everton - Fulham
+Huddersfield - Tottenham
+Manchester City - Brighton
+Newcastle - Leicester
+Wolves - Southampton
+West Ham - Manchester Utd
+Arsenal - Everton
+West Ham - Chelsea
+Brighton - Tottenham
+Burnley - Bournemouth
+Cardiff - Manchester City
+Crystal Palace - Newcastle
+Leicester - Huddersfield
+Liverpool - Southampton
+Manchester Utd - Wolves
+Fulham - Watford
+Southampton - Brighton
+Everton - West Ham
+Wolves - Burnley
+Watford - Manchester Utd
+Bournemouth - Leicester
+Chelsea - Cardiff
+Huddersfield - Crystal Palace
+Manchester City - Fulham
+Newcastle - Arsenal
+Tottenham - Liverpool
+Burnley - Manchester Utd
+Watford - Tottenham
+Cardiff - Arsenal
+Manchester City - Newcastle
+Brighton - Fulham
+Chelsea - Bournemouth
+Crystal Palace - Southampton
+Everton - Huddersfield
+West Ham - Wolves
+Leicester - Liverpool
+Manchester Utd - Tottenham
+Fulham - Burnley
+Newcastle - Chelsea
+Watford - Crystal Palace
+Liverpool - Brighton
+Arsenal - West Ham
+Bournemouth - Everton
+Huddersfield - Cardiff
+Southampton - Leicester
+Wolves - Manchester City
+Crystal Palace - Liverpool
+Brighton - Manchester Utd
+Burnley - Watford
+Manchester City - Huddersfield
+Chelsea - Arsenal
+Everton - Southampton
+Leicester - Wolves
+Tottenham - Fulham
+West Ham - Bournemouth
+Cardiff - Newcastle
+Arsenal - Manchester City
+Liverpool - West Ham
+Southampton - Burnley
+Wolves - Everton
+Bournemouth - Cardiff
+Fulham - Crystal Palace
+Huddersfield - Chelsea
+Watford - Brighton
+Newcastle - Tottenham
+Manchester Utd - Leicester

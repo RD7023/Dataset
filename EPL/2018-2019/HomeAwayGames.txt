@@ -1,0 +1,381 @@
+Home,Away
+Manchester United,Leicester
+Newcastle United,Tottenham
+Watford,Brighton
+Huddersfield,Chelsea
+Fulham,Crystal Palace
+Bournemouth,Cardiff
+Wolverhampton Wanderers,Everton
+Southampton,Burnley
+Liverpool,West Ham
+Arsenal,Manchester City
+Cardiff,Newcastle United
+West Ham,Bournemouth
+Tottenham,Fulham
+Leicester,Wolverhampton Wanderers
+Everton,Southampton
+Chelsea,Arsenal
+Manchester City,Huddersfield
+Burnley,Watford
+Brighton,Manchester United
+Crystal Palace,Liverpool
+Wolverhampton Wanderers,Manchester City
+Southampton,Leicester
+Huddersfield,Cardiff
+Fulham,Burnley
+Bournemouth,Everton
+Arsenal,West Ham
+Liverpool,Brighton
+Watford,Crystal Palace
+Newcastle United,Chelsea
+Manchester United,Tottenham
+Leicester,Liverpool
+West Ham,Wolverhampton Wanderers
+Everton,Huddersfield
+Crystal Palace,Southampton
+Chelsea,Bournemouth
+Brighton,Fulham
+Manchester City,Newcastle United
+Cardiff,Arsenal
+Burnley,Manchester United
+Watford,Tottenham
+Tottenham,Liverpool
+Newcastle United,Arsenal
+Manchester City,Fulham
+Huddersfield,Crystal Palace
+Chelsea,Cardiff
+Bournemouth,Leicester
+Watford,Manchester United
+Wolverhampton Wanderers,Burnley
+Everton,West Ham
+Southampton,Brighton
+Fulham,Watford
+Manchester United,Wolverhampton Wanderers
+Liverpool,Southampton
+Leicester,Huddersfield
+Crystal Palace,Newcastle United
+Cardiff,Manchester City
+Burnley,Bournemouth
+Brighton,Tottenham
+West Ham,Chelsea
+Arsenal,Everton
+West Ham,Manchester United
+Wolverhampton Wanderers,Southampton
+Newcastle United,Leicester
+Manchester City,Brighton
+Huddersfield,Tottenham
+Everton,Fulham
+Arsenal,Watford
+Chelsea,Liverpool
+Cardiff,Burnley
+Bournemouth,Crystal Palace
+Brighton,West Ham
+Watford,Bournemouth
+Tottenham,Cardiff
+Leicester,Everton
+Crystal Palace,Wolverhampton Wanderers
+Burnley,Huddersfield
+Manchester United,Newcastle United
+Fulham,Arsenal
+Southampton,Chelsea
+Liverpool,Manchester City
+Chelsea,Manchester United
+Wolverhampton Wanderers,Watford
+West Ham,Tottenham
+Newcastle United,Brighton
+Manchester City,Burnley
+Cardiff,Fulham
+Bournemouth,Southampton
+Huddersfield,Liverpool
+Everton,Crystal Palace
+Arsenal,Leicester
+Liverpool,Cardiff
+Fulham,Bournemouth
+Brighton,Wolverhampton Wanderers
+Watford,Huddersfield
+Southampton,Newcastle United
+Leicester,West Ham
+Crystal Palace,Arsenal
+Burnley,Chelsea
+Manchester United,Everton
+Tottenham,Manchester City
+Bournemouth,Manchester United
+West Ham,Burnley
+Newcastle United,Watford
+Everton,Brighton
+Cardiff,Leicester
+Arsenal,Liverpool
+Wolverhampton Wanderers,Tottenham
+Manchester City,Southampton
+Chelsea,Crystal Palace
+Huddersfield,Fulham
+Cardiff,Brighton
+Southampton,Watford
+Newcastle United,Bournemouth
+Leicester,Burnley
+Huddersfield,West Ham
+Crystal Palace,Tottenham
+Liverpool,Fulham
+Chelsea,Everton
+Manchester City,Manchester United
+Arsenal,Wolverhampton Wanderers
+West Ham,Manchester City
+Watford,Liverpool
+Manchester United,Crystal Palace
+Fulham,Southampton
+Everton,Cardiff
+Brighton,Leicester
+Tottenham,Chelsea
+Bournemouth,Arsenal
+Wolverhampton Wanderers,Huddersfield
+Burnley,Newcastle United
+Cardiff,Wolverhampton Wanderers
+Newcastle United,West Ham
+Manchester City,Bournemouth
+Leicester,Watford
+Huddersfield,Brighton
+Crystal Palace,Burnley
+Southampton,Manchester United
+Chelsea,Fulham
+Arsenal,Tottenham
+Liverpool,Everton
+Brighton,Crystal Palace
+Bournemouth,Huddersfield
+West Ham,Cardiff
+Watford,Manchester City
+Wolverhampton Wanderers,Chelsea
+Fulham,Leicester
+Burnley,Liverpool
+Everton,Newcastle United
+Manchester United,Arsenal
+Tottenham,Southampton
+Bournemouth,Liverpool
+West Ham,Crystal Palace
+Manchester United,Fulham
+Cardiff,Southampton
+Burnley,Brighton
+Arsenal,Huddersfield
+Chelsea,Manchester City
+Leicester,Tottenham
+Newcastle United,Wolverhampton Wanderers
+Everton,Watford
+Manchester City,Everton
+Wolverhampton Wanderers,Bournemouth
+Watford,Cardiff
+Tottenham,Burnley
+Huddersfield,Newcastle United
+Crystal Palace,Leicester
+Fulham,West Ham
+Southampton,Arsenal
+Brighton,Chelsea
+Liverpool,Manchester United
+Wolverhampton Wanderers,Liverpool
+Arsenal,Burnley
+West Ham,Watford
+Newcastle United,Fulham
+Manchester City,Crystal Palace
+Huddersfield,Southampton
+Chelsea,Leicester
+Bournemouth,Brighton
+Cardiff,Manchester United
+Everton,Tottenham
+Fulham,Wolverhampton Wanderers
+Tottenham,Bournemouth
+Manchester United,Huddersfield
+Liverpool,Newcastle United
+Leicester,Manchester City
+Crystal Palace,Cardiff
+Burnley,Everton
+Brighton,Arsenal
+Watford,Chelsea
+Southampton,West Ham
+Watford,Newcastle United
+Tottenham,Wolverhampton Wanderers
+Leicester,Cardiff
+Fulham,Huddersfield
+Brighton,Everton
+Liverpool,Arsenal
+Crystal Palace,Chelsea
+Southampton,Manchester City
+Burnley,West Ham
+Manchester United,Bournemouth
+Everton,Leicester
+Arsenal,Fulham
+Cardiff,Tottenham
+Wolverhampton Wanderers,Crystal Palace
+West Ham,Brighton
+Huddersfield,Burnley
+Chelsea,Southampton
+Bournemouth,Watford
+Newcastle United,Manchester United
+Manchester City,Liverpool
+West Ham,Arsenal
+Leicester,Southampton
+Crystal Palace,Watford
+Cardiff,Huddersfield
+Burnley,Fulham
+Brighton,Liverpool
+Chelsea,Newcastle United
+Everton,Bournemouth
+Tottenham,Manchester United
+Manchester City,Wolverhampton Wanderers
+Wolverhampton Wanderers,Leicester
+Watford,Burnley
+Southampton,Everton
+Newcastle United,Cardiff
+Manchester United,Brighton
+Liverpool,Crystal Palace
+Bournemouth,West Ham
+Arsenal,Chelsea
+Huddersfield,Manchester City
+Fulham,Tottenham
+Wolverhampton Wanderers,West Ham
+Huddersfield,Everton
+Fulham,Brighton
+Arsenal,Cardiff
+Manchester United,Burnley
+Newcastle United,Manchester City
+Bournemouth,Chelsea
+Southampton,Crystal Palace
+Tottenham,Watford
+Liverpool,Leicester
+Tottenham,Newcastle United
+Everton,Wolverhampton Wanderers
+Crystal Palace,Fulham
+Chelsea,Huddersfield
+Burnley,Southampton
+Brighton,Watford
+Cardiff,Bournemouth
+Leicester,Manchester United
+Manchester City,Arsenal
+West Ham,Liverpool
+Everton,Manchester City
+Fulham,Manchester United
+Crystal Palace,West Ham
+Watford,Everton
+Southampton,Cardiff
+Liverpool,Bournemouth
+Huddersfield,Arsenal
+Brighton,Burnley
+Tottenham,Leicester
+Manchester City,Chelsea
+Wolverhampton Wanderers,Newcastle United
+West Ham,Fulham
+Cardiff,Watford
+Burnley,Tottenham
+Newcastle United,Huddersfield
+Bournemouth,Wolverhampton Wanderers
+Leicester,Crystal Palace
+Manchester United,Liverpool
+Arsenal,Southampton
+Leicester,Brighton
+Huddersfield,Wolverhampton Wanderers
+Cardiff,Everton
+Newcastle United,Burnley
+Arsenal,Bournemouth
+Southampton,Fulham
+Crystal Palace,Manchester United
+Chelsea,Tottenham
+Manchester City,West Ham
+Liverpool,Watford
+Tottenham,Arsenal
+Wolverhampton Wanderers,Cardiff
+Manchester United,Southampton
+Burnley,Crystal Palace
+Brighton,Huddersfield
+Bournemouth,Manchester City
+West Ham,Newcastle United
+Watford,Leicester
+Fulham,Chelsea
+Everton,Liverpool
+Crystal Palace,Brighton
+Southampton,Tottenham
+Newcastle United,Everton
+Leicester,Fulham
+Huddersfield,Bournemouth
+Cardiff,West Ham
+Manchester City,Watford
+Liverpool,Burnley
+Chelsea,Wolverhampton Wanderers
+Arsenal,Manchester United
+West Ham,Huddersfield
+Burnley,Leicester
+Bournemouth,Newcastle United
+Fulham,Liverpool
+Everton,Chelsea
+Fulham,Manchester City
+Manchester United,Watford
+Leicester,Bournemouth
+Crystal Palace,Huddersfield
+Burnley,Wolverhampton Wanderers
+Brighton,Southampton
+West Ham,Everton
+Cardiff,Chelsea
+Liverpool,Tottenham
+Arsenal,Newcastle United
+Wolverhampton Wanderers,Manchester United
+Watford,Fulham
+Chelsea,Brighton
+Tottenham,Crystal Palace
+Manchester City,Cardiff
+Southampton,Liverpool
+Newcastle United,Crystal Palace
+Huddersfield,Leicester
+Bournemouth,Burnley
+Everton,Arsenal
+Chelsea,West Ham
+Leicester,Newcastle United
+Tottenham,Huddersfield
+Southampton,Wolverhampton Wanderers
+Fulham,Everton
+Burnley,Cardiff
+Brighton,Bournemouth
+Manchester United,West Ham
+Crystal Palace,Manchester City
+Liverpool,Chelsea
+Watford,Arsenal
+Brighton,Cardiff
+Manchester City,Tottenham
+Wolverhampton Wanderers,Brighton
+West Ham,Leicester
+Huddersfield,Watford
+Bournemouth,Fulham
+Newcastle United,Southampton
+Everton,Manchester United
+Cardiff,Liverpool
+Arsenal,Crystal Palace
+Chelsea,Burnley
+Watford,Southampton
+Tottenham,Brighton
+Wolverhampton Wanderers,Arsenal
+Manchester United,Manchester City
+Liverpool,Huddersfield
+Tottenham,West Ham
+Watford,Wolverhampton Wanderers
+Southampton,Bournemouth
+Fulham,Cardiff
+Crystal Palace,Everton
+Brighton,Newcastle United
+Leicester,Arsenal
+Burnley,Manchester City
+Manchester United,Chelsea
+Everton,Burnley
+Bournemouth,Tottenham
+Wolverhampton Wanderers,Fulham
+West Ham,Southampton
+Cardiff,Crystal Palace
+Newcastle United,Liverpool
+Huddersfield,Manchester United
+Chelsea,Watford
+Arsenal,Brighton
+Manchester City,Leicester
+Watford,West Ham
+Tottenham,Everton
+Southampton,Huddersfield
+Manchester United,Cardiff
+Liverpool,Wolverhampton Wanderers
+Leicester,Chelsea
+Fulham,Newcastle United
+Crystal Palace,Bournemouth
+Burnley,Arsenal
+Brighton,Manchester City

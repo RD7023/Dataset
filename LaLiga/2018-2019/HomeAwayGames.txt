@@ -1,0 +1,381 @@
+Home,Away
+Girona,Real Valladolid
+Real Betis,Levante
+Celta Vigo,Espanyol
+Villarreal,Real Sociedad
+Barcelona,Alaves
+Eibar,SD Huesca
+Rayo Vallecano,Sevilla
+Real Madrid,Getafe
+Valencia,Atletico Madrid
+Athletic Club,Leganes
+Getafe,Eibar
+Leganes,Real Sociedad
+Alaves,Real Betis
+Atletico Madrid,Rayo Vallecano
+Real Valladolid,Barcelona
+Espanyol,Valencia
+Sevilla,Villarreal
+Girona,Real Madrid
+Levante,Celta Vigo
+Athletic Club,SD Huesca
+Getafe,Real Valladolid
+Eibar,Real Sociedad
+Villarreal,Girona
+Celta Vigo,Atletico Madrid
+Real Madrid,Leganes
+Levante,Valencia
+Alaves,Espanyol
+Barcelona,SD Huesca
+Real Betis,Sevilla
+SD Huesca,Rayo Vallecano
+Atletico Madrid,Eibar
+Real Sociedad,Barcelona
+Valencia,Real Betis
+Athletic Club,Real Madrid
+Leganes,Villarreal
+Espanyol,Levante
+Real Valladolid,Alaves
+Sevilla,Getafe
+Girona,Celta Vigo
+SD Huesca,Real Sociedad
+Rayo Vallecano,Alaves
+Eibar,Leganes
+Celta Vigo,Real Valladolid
+Getafe,Atletico Madrid
+Real Madrid,Espanyol
+Levante,Sevilla
+Villarreal,Valencia
+Real Betis,Athletic Club
+Barcelona,Girona
+Espanyol,Eibar
+Real Sociedad,Rayo Vallecano
+Atletico Madrid,SD Huesca
+Leganes,Barcelona
+Athletic Club,Villarreal
+Valencia,Celta Vigo
+Sevilla,Real Madrid
+Alaves,Getafe
+Real Valladolid,Levante
+Girona,Real Betis
+Rayo Vallecano,Espanyol
+Real Sociedad,Valencia
+Barcelona,Athletic Club
+Eibar,Sevilla
+Real Madrid,Atletico Madrid
+SD Huesca,Girona
+Villarreal,Real Valladolid
+Levante,Alaves
+Real Betis,Leganes
+Celta Vigo,Getafe
+Athletic Club,Real Sociedad
+Girona,Eibar
+Getafe,Levante
+Alaves,Real Madrid
+Leganes,Rayo Vallecano
+Real Valladolid,SD Huesca
+Atletico Madrid,Real Betis
+Sevilla,Celta Vigo
+Espanyol,Villarreal
+Valencia,Barcelona
+Celta Vigo,Alaves
+Real Madrid,Levante
+Valencia,Leganes
+Villarreal,Atletico Madrid
+Barcelona,Sevilla
+Rayo Vallecano,Getafe
+Eibar,Athletic Club
+SD Huesca,Espanyol
+Real Betis,Real Valladolid
+Real Sociedad,Girona
+Rayo Vallecano,Athletic Club
+Real Valladolid,Espanyol
+Girona,Rayo Vallecano
+Athletic Club,Valencia
+Celta Vigo,Eibar
+Levante,Leganes
+Atletico Madrid,Real Sociedad
+Getafe,Real Betis
+Barcelona,Real Madrid
+Alaves,Villarreal
+Sevilla,SD Huesca
+Leganes,Atletico Madrid
+Real Madrid,Real Valladolid
+Valencia,Girona
+Rayo Vallecano,Barcelona
+Eibar,Alaves
+Villarreal,Levante
+SD Huesca,Getafe
+Real Sociedad,Sevilla
+Real Betis,Celta Vigo
+Espanyol,Athletic Club
+Levante,Real Sociedad
+Real Valladolid,Eibar
+Getafe,Valencia
+Atletico Madrid,Athletic Club
+Girona,Leganes
+Alaves,SD Huesca
+Barcelona,Real Betis
+Rayo Vallecano,Villarreal
+Sevilla,Espanyol
+Celta Vigo,Real Madrid
+Leganes,Alaves
+Eibar,Real Madrid
+Valencia,Rayo Vallecano
+SD Huesca,Levante
+Atletico Madrid,Barcelona
+Athletic Club,Getafe
+Sevilla,Real Valladolid
+Espanyol,Girona
+Villarreal,Real Betis
+Real Sociedad,Celta Vigo
+Rayo Vallecano,Eibar
+Celta Vigo,SD Huesca
+Real Valladolid,Leganes
+Getafe,Espanyol
+Real Madrid,Valencia
+Real Betis,Real Sociedad
+Girona,Atletico Madrid
+Barcelona,Villarreal
+Alaves,Sevilla
+Levante,Athletic Club
+Leganes,Getafe
+Atletico Madrid,Alaves
+Valencia,Sevilla
+Villarreal,Celta Vigo
+Espanyol,Barcelona
+Eibar,Levante
+SD Huesca,Real Madrid
+Real Sociedad,Real Valladolid
+Real Betis,Rayo Vallecano
+Athletic Club,Girona
+Celta Vigo,Leganes
+Getafe,Real Sociedad
+Real Valladolid,Atletico Madrid
+Real Madrid,Rayo Vallecano
+Eibar,Valencia
+Sevilla,Girona
+Espanyol,Real Betis
+SD Huesca,Villarreal
+Levante,Barcelona
+Alaves,Athletic Club
+Girona,Getafe
+Real Sociedad,Alaves
+Real Betis,Eibar
+Atletico Madrid,Espanyol
+Barcelona,Celta Vigo
+Athletic Club,Real Valladolid
+Valencia,SD Huesca
+Leganes,Sevilla
+Rayo Vallecano,Levante
+Villarreal,Real Madrid
+Levante,Girona
+Espanyol,Leganes
+Real Valladolid,Rayo Vallecano
+Alaves,Valencia
+SD Huesca,Real Betis
+Eibar,Villarreal
+Sevilla,Atletico Madrid
+Real Madrid,Real Sociedad
+Getafe,Barcelona
+Celta Vigo,Athletic Club
+Rayo Vallecano,Celta Vigo
+Leganes,SD Huesca
+Valencia,Real Valladolid
+Girona,Alaves
+Villarreal,Getafe
+Atletico Madrid,Levante
+Athletic Club,Sevilla
+Barcelona,Eibar
+Real Betis,Real Madrid
+Real Sociedad,Espanyol
+Getafe,Alaves
+Real Madrid,Sevilla
+SD Huesca,Atletico Madrid
+Celta Vigo,Valencia
+Real Betis,Girona
+Villarreal,Athletic Club
+Rayo Vallecano,Real Sociedad
+Levante,Real Valladolid
+Barcelona,Leganes
+Eibar,Espanyol
+Valencia,Villarreal
+Sevilla,Levante
+Atletico Madrid,Getafe
+Leganes,Eibar
+Athletic Club,Real Betis
+Real Valladolid,Celta Vigo
+Girona,Barcelona
+Real Sociedad,SD Huesca
+Espanyol,Real Madrid
+Alaves,Rayo Vallecano
+SD Huesca,Real Valladolid
+Levante,Getafe
+Real Sociedad,Athletic Club
+Barcelona,Valencia
+Celta Vigo,Sevilla
+Villarreal,Espanyol
+Real Betis,Atletico Madrid
+Eibar,Girona
+Real Madrid,Alaves
+Rayo Vallecano,Leganes
+Real Valladolid,Villarreal
+Getafe,Celta Vigo
+Atletico Madrid,Real Madrid
+Espanyol,Rayo Vallecano
+Girona,SD Huesca
+Leganes,Real Betis
+Valencia,Real Sociedad
+Sevilla,Eibar
+Athletic Club,Barcelona
+Alaves,Levante
+Eibar,Getafe
+Celta Vigo,Levante
+Rayo Vallecano,Atletico Madrid
+Real Sociedad,Leganes
+Barcelona,Real Valladolid
+Real Madrid,Girona
+Valencia,Espanyol
+Villarreal,Sevilla
+Real Betis,Alaves
+SD Huesca,Athletic Club
+Espanyol,SD Huesca
+Getafe,Rayo Vallecano
+Sevilla,Barcelona
+Alaves,Celta Vigo
+Athletic Club,Eibar
+Leganes,Valencia
+Atletico Madrid,Villarreal
+Real Valladolid,Real Betis
+Levante,Real Madrid
+Girona,Real Sociedad
+Rayo Vallecano,Girona
+Espanyol,Real Valladolid
+Villarreal,Alaves
+SD Huesca,Sevilla
+Real Madrid,Barcelona
+Eibar,Celta Vigo
+Real Betis,Getafe
+Real Sociedad,Atletico Madrid
+Valencia,Athletic Club
+Leganes,Levante
+Athletic Club,Espanyol
+Alaves,Eibar
+Atletico Madrid,Leganes
+Barcelona,Rayo Vallecano
+Getafe,SD Huesca
+Celta Vigo,Real Betis
+Girona,Valencia
+Levante,Villarreal
+Sevilla,Real Sociedad
+Real Valladolid,Real Madrid
+Real Sociedad,Levante
+SD Huesca,Alaves
+Real Madrid,Celta Vigo
+Athletic Club,Atletico Madrid
+Leganes,Girona
+Eibar,Real Valladolid
+Espanyol,Sevilla
+Valencia,Getafe
+Villarreal,Rayo Vallecano
+Real Betis,Barcelona
+Girona,Athletic Club
+Getafe,Leganes
+Barcelona,Espanyol
+Celta Vigo,Villarreal
+Alaves,Atletico Madrid
+Levante,Eibar
+Rayo Vallecano,Real Betis
+Sevilla,Valencia
+Real Valladolid,Real Sociedad
+Real Madrid,SD Huesca
+Atletico Madrid,Girona
+Espanyol,Getafe
+Villarreal,Barcelona
+Athletic Club,Levante
+SD Huesca,Celta Vigo
+Eibar,Rayo Vallecano
+Valencia,Real Madrid
+Sevilla,Alaves
+Leganes,Real Valladolid
+Real Sociedad,Real Betis
+Girona,Espanyol
+Real Madrid,Eibar
+Rayo Vallecano,Valencia
+Barcelona,Atletico Madrid
+Alaves,Leganes
+Getafe,Athletic Club
+Real Valladolid,Sevilla
+Levante,SD Huesca
+Celta Vigo,Real Sociedad
+Real Betis,Villarreal
+Espanyol,Alaves
+SD Huesca,Barcelona
+Atletico Madrid,Celta Vigo
+Sevilla,Real Betis
+Real Valladolid,Getafe
+Athletic Club,Rayo Vallecano
+Real Sociedad,Eibar
+Girona,Villarreal
+Valencia,Levante
+Leganes,Real Madrid
+Alaves,Real Valladolid
+Celta Vigo,Girona
+Eibar,Atletico Madrid
+Rayo Vallecano,SD Huesca
+Barcelona,Real Sociedad
+Levante,Espanyol
+Getafe,Sevilla
+Real Madrid,Athletic Club
+Villarreal,Leganes
+Real Betis,Valencia
+SD Huesca,Eibar
+Real Valladolid,Girona
+Alaves,Barcelona
+Atletico Madrid,Valencia
+Espanyol,Celta Vigo
+Leganes,Athletic Club
+Levante,Real Betis
+Sevilla,Rayo Vallecano
+Real Sociedad,Villarreal
+Getafe,Real Madrid
+Athletic Club,Alaves
+Atletico Madrid,Real Valladolid
+Leganes,Celta Vigo
+Barcelona,Levante
+Valencia,Eibar
+Girona,Sevilla
+Real Sociedad,Getafe
+Villarreal,SD Huesca
+Rayo Vallecano,Real Madrid
+Real Betis,Espanyol
+Sevilla,Leganes
+Levante,Rayo Vallecano
+Espanyol,Atletico Madrid
+Alaves,Real Sociedad
+Celta Vigo,Barcelona
+Getafe,Girona
+Eibar,Real Betis
+Real Madrid,Villarreal
+Real Valladolid,Athletic Club
+SD Huesca,Valencia
+Athletic Club,Celta Vigo
+Leganes,Espanyol
+Villarreal,Eibar
+Valencia,Alaves
+Rayo Vallecano,Real Valladolid
+Girona,Levante
+Real Betis,SD Huesca
+Barcelona,Getafe
+Atletico Madrid,Sevilla
+Real Sociedad,Real Madrid
+Levante,Atletico Madrid
+Sevilla,Athletic Club
+Getafe,Villarreal
+Espanyol,Real Sociedad
+Real Valladolid,Valencia
+Alaves,Girona
+SD Huesca,Leganes
+Celta Vigo,Rayo Vallecano
+Real Madrid,Real Betis
+Eibar,Barcelona

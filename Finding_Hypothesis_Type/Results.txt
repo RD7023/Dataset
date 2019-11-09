@@ -1,0 +1,2 @@
+Liga: Bundesliga; powers: p1.m; epowers: p0.m; lnpowers: p0.m; SUM: -42.16
+Liga: LaLiga    ; powers: p1.m; epowers: p0.m; lnpowers: p0.m; SUM: 5.6

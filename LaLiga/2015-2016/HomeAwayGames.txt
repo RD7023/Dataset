@@ -1,0 +1,381 @@
+Home,Away
+Malaga,Sevilla
+Deportivo La Coruna,Real Sociedad
+Espanyol,Getafe
+Atletico Madrid,Las Palmas
+Rayo Vallecano,Valencia
+Athletic Club,Barcelona
+Sporting Gijon,Real Madrid
+Levante,Celta Vigo
+Real Betis,Villarreal
+Granada,Eibar
+Villarreal,Espanyol
+Real Sociedad,Sporting Gijon
+Barcelona,Malaga
+Celta Vigo,Rayo Vallecano
+Real Madrid,Real Betis
+Eibar,Athletic Club
+Sevilla,Atletico Madrid
+Valencia,Deportivo La Coruna
+Getafe,Granada
+Las Palmas,Levante
+Levante,Sevilla
+Espanyol,Real Madrid
+Sporting Gijon,Valencia
+Atletico Madrid,Barcelona
+Real Betis,Real Sociedad
+Granada,Villarreal
+Athletic Club,Getafe
+Celta Vigo,Las Palmas
+Malaga,Eibar
+Rayo Vallecano,Deportivo La Coruna
+Getafe,Malaga
+Real Madrid,Granada
+Valencia,Real Betis
+Eibar,Atletico Madrid
+Real Sociedad,Espanyol
+Sevilla,Celta Vigo
+Deportivo La Coruna,Sporting Gijon
+Villarreal,Athletic Club
+Barcelona,Levante
+Las Palmas,Rayo Vallecano
+Espanyol,Valencia
+Atletico Madrid,Getafe
+Granada,Real Sociedad
+Rayo Vallecano,Sporting Gijon
+Celta Vigo,Barcelona
+Levante,Eibar
+Athletic Club,Real Madrid
+Malaga,Villarreal
+Las Palmas,Sevilla
+Real Betis,Deportivo La Coruna
+Valencia,Granada
+Barcelona,Las Palmas
+Real Madrid,Malaga
+Sevilla,Rayo Vallecano
+Villarreal,Atletico Madrid
+Eibar,Celta Vigo
+Sporting Gijon,Real Betis
+Deportivo La Coruna,Espanyol
+Getafe,Levante
+Real Sociedad,Athletic Club
+Celta Vigo,Getafe
+Sevilla,Barcelona
+Granada,Deportivo La Coruna
+Espanyol,Sporting Gijon
+Las Palmas,Eibar
+Malaga,Real Sociedad
+Rayo Vallecano,Real Betis
+Athletic Club,Valencia
+Levante,Villarreal
+Atletico Madrid,Real Madrid
+Real Madrid,Levante
+Eibar,Sevilla
+Barcelona,Rayo Vallecano
+Valencia,Malaga
+Real Betis,Espanyol
+Villarreal,Celta Vigo
+Real Sociedad,Atletico Madrid
+Getafe,Las Palmas
+Deportivo La Coruna,Athletic Club
+Sporting Gijon,Granada
+Rayo Vallecano,Espanyol
+Celta Vigo,Real Madrid
+Granada,Real Betis
+Sevilla,Getafe
+Malaga,Deportivo La Coruna
+Levante,Real Sociedad
+Las Palmas,Villarreal
+Barcelona,Eibar
+Atletico Madrid,Valencia
+Athletic Club,Sporting Gijon
+Deportivo La Coruna,Atletico Madrid
+Real Madrid,Las Palmas
+Villarreal,Sevilla
+Valencia,Levante
+Getafe,Barcelona
+Real Sociedad,Celta Vigo
+Eibar,Rayo Vallecano
+Espanyol,Granada
+Sporting Gijon,Malaga
+Real Betis,Athletic Club
+Las Palmas,Real Sociedad
+Celta Vigo,Valencia
+Levante,Deportivo La Coruna
+Eibar,Getafe
+Rayo Vallecano,Granada
+Malaga,Real Betis
+Athletic Club,Espanyol
+Barcelona,Villarreal
+Atletico Madrid,Sporting Gijon
+Sevilla,Real Madrid
+Real Sociedad,Sevilla
+Real Madrid,Barcelona
+Espanyol,Malaga
+Valencia,Las Palmas
+Deportivo La Coruna,Celta Vigo
+Sporting Gijon,Levante
+Villarreal,Eibar
+Granada,Athletic Club
+Real Betis,Atletico Madrid
+Getafe,Rayo Vallecano
+Levante,Real Betis
+Barcelona,Real Sociedad
+Atletico Madrid,Espanyol
+Malaga,Granada
+Las Palmas,Deportivo La Coruna
+Celta Vigo,Sporting Gijon
+Getafe,Villarreal
+Eibar,Real Madrid
+Rayo Vallecano,Athletic Club
+Sevilla,Valencia
+Real Madrid,Getafe
+Granada,Atletico Madrid
+Valencia,Barcelona
+Deportivo La Coruna,Sevilla
+Real Betis,Celta Vigo
+Real Sociedad,Eibar
+Villarreal,Rayo Vallecano
+Sporting Gijon,Las Palmas
+Athletic Club,Malaga
+Espanyol,Levante
+Getafe,Real Sociedad
+Barcelona,Deportivo La Coruna
+Celta Vigo,Espanyol
+Levante,Granada
+Sevilla,Sporting Gijon
+Las Palmas,Real Betis
+Rayo Vallecano,Malaga
+Eibar,Valencia
+Atletico Madrid,Athletic Club
+Villarreal,Real Madrid
+Valencia,Getafe
+Espanyol,Las Palmas
+Real Betis,Sevilla
+Deportivo La Coruna,Eibar
+Real Madrid,Rayo Vallecano
+Real Sociedad,Villarreal
+Granada,Celta Vigo
+Athletic Club,Levante
+Malaga,Atletico Madrid
+Real Madrid,Real Sociedad
+Levante,Malaga
+Rayo Vallecano,Atletico Madrid
+Sevilla,Espanyol
+Eibar,Sporting Gijon
+Getafe,Deportivo La Coruna
+Barcelona,Real Betis
+Celta Vigo,Athletic Club
+Las Palmas,Granada
+Villarreal,Valencia
+Espanyol,Barcelona
+Atletico Madrid,Levante
+Malaga,Celta Vigo
+Rayo Vallecano,Real Sociedad
+Real Betis,Eibar
+Granada,Sevilla
+Athletic Club,Las Palmas
+Deportivo La Coruna,Villarreal
+Valencia,Real Madrid
+Sporting Gijon,Getafe
+Barcelona,Granada
+Sevilla,Athletic Club
+Getafe,Real Betis
+Real Madrid,Deportivo La Coruna
+Levante,Rayo Vallecano
+Villarreal,Sporting Gijon
+Real Sociedad,Valencia
+Eibar,Espanyol
+Las Palmas,Malaga
+Celta Vigo,Atletico Madrid
+Sevilla,Malaga
+Celta Vigo,Levante
+Villarreal,Real Betis
+Real Sociedad,Deportivo La Coruna
+Valencia,Rayo Vallecano
+Real Madrid,Sporting Gijon
+Getafe,Espanyol
+Las Palmas,Atletico Madrid
+Barcelona,Athletic Club
+Eibar,Granada
+Sporting Gijon,Real Sociedad
+Malaga,Barcelona
+Espanyol,Villarreal
+Granada,Getafe
+Rayo Vallecano,Celta Vigo
+Athletic Club,Eibar
+Atletico Madrid,Sevilla
+Deportivo La Coruna,Valencia
+Real Betis,Real Madrid
+Levante,Las Palmas
+Barcelona,Atletico Madrid
+Eibar,Malaga
+Getafe,Athletic Club
+Villarreal,Granada
+Real Sociedad,Real Betis
+Sevilla,Levante
+Valencia,Sporting Gijon
+Las Palmas,Celta Vigo
+Real Madrid,Espanyol
+Deportivo La Coruna,Rayo Vallecano
+Malaga,Getafe
+Atletico Madrid,Eibar
+Rayo Vallecano,Las Palmas
+Athletic Club,Villarreal
+Sporting Gijon,Deportivo La Coruna
+Levante,Barcelona
+Real Betis,Valencia
+Celta Vigo,Sevilla
+Granada,Real Madrid
+Espanyol,Real Sociedad
+Sporting Gijon,Rayo Vallecano
+Real Madrid,Athletic Club
+Villarreal,Malaga
+Valencia,Espanyol
+Deportivo La Coruna,Real Betis
+Real Sociedad,Granada
+Sevilla,Las Palmas
+Getafe,Atletico Madrid
+Eibar,Levante
+Barcelona,Celta Vigo
+Sporting Gijon,Barcelona
+Levante,Getafe
+Las Palmas,Barcelona
+Espanyol,Deportivo La Coruna
+Real Betis,Sporting Gijon
+Celta Vigo,Eibar
+Rayo Vallecano,Sevilla
+Malaga,Real Madrid
+Athletic Club,Real Sociedad
+Granada,Valencia
+Atletico Madrid,Villarreal
+Eibar,Las Palmas
+Real Madrid,Atletico Madrid
+Getafe,Celta Vigo
+Sporting Gijon,Espanyol
+Real Betis,Rayo Vallecano
+Real Sociedad,Malaga
+Villarreal,Levante
+Valencia,Athletic Club
+Deportivo La Coruna,Granada
+Barcelona,Sevilla
+Atletico Madrid,Real Sociedad
+Las Palmas,Getafe
+Sevilla,Eibar
+Malaga,Valencia
+Celta Vigo,Villarreal
+Athletic Club,Deportivo La Coruna
+Levante,Real Madrid
+Granada,Sporting Gijon
+Espanyol,Real Betis
+Rayo Vallecano,Barcelona
+Real Madrid,Celta Vigo
+Villarreal,Las Palmas
+Getafe,Sevilla
+Deportivo La Coruna,Malaga
+Real Betis,Granada
+Eibar,Barcelona
+Sporting Gijon,Athletic Club
+Real Sociedad,Levante
+Valencia,Atletico Madrid
+Espanyol,Rayo Vallecano
+Malaga,Sporting Gijon
+Barcelona,Getafe
+Celta Vigo,Real Sociedad
+Atletico Madrid,Deportivo La Coruna
+Rayo Vallecano,Eibar
+Levante,Valencia
+Sevilla,Villarreal
+Athletic Club,Real Betis
+Las Palmas,Real Madrid
+Granada,Espanyol
+Getafe,Eibar
+Sporting Gijon,Atletico Madrid
+Real Sociedad,Las Palmas
+Granada,Rayo Vallecano
+Deportivo La Coruna,Levante
+Real Betis,Malaga
+Espanyol,Athletic Club
+Villarreal,Barcelona
+Valencia,Celta Vigo
+Real Madrid,Sevilla
+Rayo Vallecano,Getafe
+Atletico Madrid,Real Betis
+Las Palmas,Valencia
+Barcelona,Real Madrid
+Celta Vigo,Deportivo La Coruna
+Athletic Club,Granada
+Malaga,Espanyol
+Eibar,Villarreal
+Sevilla,Real Sociedad
+Levante,Sporting Gijon
+Granada,Malaga
+Real Madrid,Eibar
+Espanyol,Atletico Madrid
+Real Sociedad,Barcelona
+Real Betis,Levante
+Sporting Gijon,Celta Vigo
+Valencia,Sevilla
+Villarreal,Getafe
+Athletic Club,Rayo Vallecano
+Deportivo La Coruna,Las Palmas
+Levante,Espanyol
+Getafe,Real Madrid
+Las Palmas,Sporting Gijon
+Eibar,Real Sociedad
+Celta Vigo,Real Betis
+Malaga,Athletic Club
+Sevilla,Deportivo La Coruna
+Atletico Madrid,Granada
+Rayo Vallecano,Villarreal
+Barcelona,Valencia
+Espanyol,Celta Vigo
+Real Betis,Las Palmas
+Deportivo La Coruna,Barcelona
+Valencia,Eibar
+Athletic Club,Atletico Madrid
+Sporting Gijon,Sevilla
+Malaga,Rayo Vallecano
+Real Madrid,Villarreal
+Real Sociedad,Getafe
+Granada,Levante
+Las Palmas,Espanyol
+Rayo Vallecano,Real Madrid
+Atletico Madrid,Malaga
+Barcelona,Sporting Gijon
+Eibar,Deportivo La Coruna
+Levante,Athletic Club
+Sevilla,Real Betis
+Getafe,Valencia
+Villarreal,Real Sociedad
+Celta Vigo,Granada
+Sporting Gijon,Eibar
+Real Sociedad,Real Madrid
+Atletico Madrid,Rayo Vallecano
+Real Betis,Barcelona
+Granada,Las Palmas
+Athletic Club,Celta Vigo
+Espanyol,Sevilla
+Deportivo La Coruna,Getafe
+Valencia,Villarreal
+Malaga,Levante
+Las Palmas,Athletic Club
+Celta Vigo,Malaga
+Levante,Atletico Madrid
+Getafe,Sporting Gijon
+Villarreal,Deportivo La Coruna
+Real Sociedad,Rayo Vallecano
+Real Madrid,Valencia
+Eibar,Real Betis
+Barcelona,Espanyol
+Sevilla,Granada
+Valencia,Real Sociedad
+Deportivo La Coruna,Real Madrid
+Granada,Barcelona
+Athletic Club,Sevilla
+Atletico Madrid,Celta Vigo
+Malaga,Las Palmas
+Espanyol,Eibar
+Real Betis,Getafe
+Sporting Gijon,Villarreal
+Rayo Vallecano,Levante

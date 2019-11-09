@@ -1,0 +1,381 @@
+Home,Away
+Hull,Leicester
+Crystal Palace,West Bromwich Albion
+Everton,Tottenham
+Burnley,Swansea
+Middlesbrough,Stoke
+Southampton,Watford
+Manchester City,Sunderland
+Bournemouth,Manchester United
+Arsenal,Liverpool
+Chelsea,West Ham
+Manchester United,Southampton
+Stoke,Manchester City
+Burnley,Liverpool
+Swansea,Hull
+Tottenham,Crystal Palace
+Watford,Chelsea
+West Bromwich Albion,Everton
+Leicester,Arsenal
+Sunderland,Middlesbrough
+West Ham,Bournemouth
+Tottenham,Liverpool
+Watford,Arsenal
+Leicester,Swansea
+Southampton,Sunderland
+Chelsea,Burnley
+Crystal Palace,Bournemouth
+Everton,Stoke
+Hull,Manchester United
+West Bromwich Albion,Middlesbrough
+Manchester City,West Ham
+Manchester United,Manchester City
+Middlesbrough,Crystal Palace
+Stoke,Tottenham
+Arsenal,Southampton
+Bournemouth,West Bromwich Albion
+Burnley,Hull
+West Ham,Watford
+Liverpool,Leicester
+Swansea,Chelsea
+Sunderland,Everton
+Chelsea,Liverpool
+Hull,Arsenal
+Leicester,Burnley
+Manchester City,Bournemouth
+West Bromwich Albion,West Ham
+Everton,Middlesbrough
+Watford,Manchester United
+Crystal Palace,Stoke
+Southampton,Swansea
+Tottenham,Sunderland
+Swansea,Manchester City
+Manchester United,Leicester
+Middlesbrough,Tottenham
+Stoke,West Bromwich Albion
+Sunderland,Crystal Palace
+Liverpool,Hull
+Bournemouth,Everton
+Arsenal,Chelsea
+West Ham,Southampton
+Burnley,Watford
+Everton,Crystal Palace
+Swansea,Liverpool
+Sunderland,West Bromwich Albion
+Hull,Chelsea
+Watford,Bournemouth
+West Ham,Middlesbrough
+Manchester United,Stoke
+Leicester,Southampton
+Tottenham,Manchester City
+Burnley,Arsenal
+Chelsea,Leicester
+Arsenal,Swansea
+Bournemouth,Hull
+Manchester City,Everton
+Stoke,Sunderland
+West Bromwich Albion,Tottenham
+Crystal Palace,West Ham
+Middlesbrough,Watford
+Southampton,Burnley
+Liverpool,Manchester United
+Bournemouth,Tottenham
+West Ham,Sunderland
+Swansea,Watford
+Leicester,Crystal Palace
+Hull,Stoke
+Burnley,Everton
+Arsenal,Middlesbrough
+Liverpool,West Bromwich Albion
+Manchester City,Southampton
+Chelsea,Manchester United
+Sunderland,Arsenal
+Tottenham,Leicester
+Watford,Hull
+West Bromwich Albion,Manchester City
+Middlesbrough,Bournemouth
+Manchester United,Burnley
+Crystal Palace,Liverpool
+Everton,West Ham
+Southampton,Chelsea
+Stoke,Swansea
+Bournemouth,Sunderland
+Burnley,Crystal Palace
+Manchester City,Middlesbrough
+West Ham,Stoke
+Chelsea,Everton
+Arsenal,Tottenham
+Liverpool,Watford
+Hull,Southampton
+Swansea,Manchester United
+Leicester,West Bromwich Albion
+Manchester United,Arsenal
+Southampton,Liverpool
+Stoke,Bournemouth
+Sunderland,Hull
+Watford,Leicester
+Everton,Swansea
+Crystal Palace,Manchester City
+Tottenham,West Ham
+Middlesbrough,Chelsea
+West Bromwich Albion,Burnley
+Burnley,Manchester City
+Hull,West Bromwich Albion
+Swansea,Crystal Palace
+Liverpool,Sunderland
+Leicester,Middlesbrough
+Chelsea,Tottenham
+Watford,Stoke
+Arsenal,Bournemouth
+Southampton,Everton
+Manchester United,West Ham
+Sunderland,Leicester
+Manchester City,Chelsea
+Crystal Palace,Southampton
+Stoke,Burnley
+Tottenham,Swansea
+West Bromwich Albion,Watford
+West Ham,Arsenal
+Bournemouth,Liverpool
+Everton,Manchester United
+Middlesbrough,Hull
+Watford,Everton
+Hull,Crystal Palace
+Swansea,Sunderland
+Arsenal,Stoke
+Burnley,Bournemouth
+Leicester,Manchester City
+Chelsea,West Bromwich Albion
+Manchester United,Tottenham
+Southampton,Middlesbrough
+Liverpool,West Ham
+Bournemouth,Leicester
+Everton,Arsenal
+Middlesbrough,Liverpool
+Sunderland,Chelsea
+West Ham,Burnley
+Crystal Palace,Manchester United
+West Bromwich Albion,Swansea
+Manchester City,Watford
+Stoke,Southampton
+Tottenham,Hull
+Crystal Palace,Chelsea
+Middlesbrough,Swansea
+West Ham,Hull
+Stoke,Leicester
+Sunderland,Watford
+West Bromwich Albion,Manchester United
+Bournemouth,Southampton
+Manchester City,Arsenal
+Tottenham,Burnley
+Everton,Liverpool
+Leicester,Everton
+Watford,Crystal Palace
+Swansea,West Ham
+Manchester United,Sunderland
+Arsenal,West Bromwich Albion
+Burnley,Middlesbrough
+Chelsea,Bournemouth
+Hull,Manchester City
+Liverpool,Stoke
+Southampton,Tottenham
+Hull,Everton
+Leicester,West Ham
+Manchester United,Middlesbrough
+Burnley,Sunderland
+Chelsea,Stoke
+Southampton,West Bromwich Albion
+Swansea,Bournemouth
+Liverpool,Manchester City
+Watford,Tottenham
+Arsenal,Crystal Palace
+Everton,Southampton
+Manchester City,Burnley
+Middlesbrough,Leicester
+West Bromwich Albion,Hull
+Sunderland,Liverpool
+West Ham,Manchester United
+Bournemouth,Arsenal
+Crystal Palace,Swansea
+Stoke,Watford
+Tottenham,Chelsea
+Tottenham,West Bromwich Albion
+Watford,Middlesbrough
+Sunderland,Stoke
+Swansea,Arsenal
+Hull,Bournemouth
+Burnley,Southampton
+West Ham,Crystal Palace
+Leicester,Chelsea
+Manchester United,Liverpool
+Everton,Manchester City
+Liverpool,Swansea
+Middlesbrough,West Ham
+Bournemouth,Watford
+Crystal Palace,Everton
+Stoke,Manchester United
+West Bromwich Albion,Sunderland
+Manchester City,Tottenham
+Southampton,Leicester
+Arsenal,Burnley
+Chelsea,Hull
+Arsenal,Watford
+Bournemouth,Crystal Palace
+Burnley,Leicester
+Middlesbrough,West Bromwich Albion
+Sunderland,Tottenham
+Swansea,Southampton
+Liverpool,Chelsea
+West Ham,Manchester City
+Manchester United,Hull
+Stoke,Everton
+Chelsea,Arsenal
+Crystal Palace,Sunderland
+Everton,Bournemouth
+Hull,Liverpool
+Watford,Burnley
+West Bromwich Albion,Stoke
+Southampton,West Ham
+Tottenham,Middlesbrough
+Manchester City,Swansea
+Leicester,Manchester United
+Arsenal,Hull
+Manchester United,Watford
+Middlesbrough,Everton
+Stoke,Crystal Palace
+Sunderland,Southampton
+West Ham,West Bromwich Albion
+Liverpool,Tottenham
+Burnley,Chelsea
+Swansea,Leicester
+Bournemouth,Manchester City
+Chelsea,Swansea
+Crystal Palace,Middlesbrough
+Everton,Sunderland
+Hull,Burnley
+West Bromwich Albion,Bournemouth
+Watford,West Ham
+Tottenham,Stoke
+Leicester,Liverpool
+Manchester United,Bournemouth
+Leicester,Hull
+Stoke,Middlesbrough
+Swansea,Burnley
+Watford,Southampton
+West Bromwich Albion,Crystal Palace
+Liverpool,Arsenal
+Tottenham,Everton
+Sunderland,Manchester City
+West Ham,Chelsea
+Manchester City,Stoke
+Bournemouth,West Ham
+Everton,West Bromwich Albion
+Hull,Swansea
+Liverpool,Burnley
+West Bromwich Albion,Arsenal
+West Ham,Leicester
+Sunderland,Burnley
+Stoke,Chelsea
+Everton,Hull
+Crystal Palace,Watford
+Bournemouth,Swansea
+Middlesbrough,Manchester United
+Tottenham,Southampton
+Manchester City,Liverpool
+Liverpool,Everton
+Burnley,Tottenham
+Chelsea,Crystal Palace
+Hull,West Ham
+Leicester,Stoke
+Manchester United,West Bromwich Albion
+Watford,Sunderland
+Southampton,Bournemouth
+Swansea,Middlesbrough
+Arsenal,Manchester City
+Burnley,Stoke
+Watford,West Bromwich Albion
+Leicester,Sunderland
+Manchester United,Everton
+Arsenal,West Ham
+Hull,Middlesbrough
+Swansea,Tottenham
+Southampton,Crystal Palace
+Chelsea,Manchester City
+Liverpool,Bournemouth
+Tottenham,Watford
+Stoke,Liverpool
+West Bromwich Albion,Southampton
+West Ham,Swansea
+Middlesbrough,Burnley
+Manchester City,Hull
+Bournemouth,Chelsea
+Sunderland,Manchester United
+Everton,Leicester
+Crystal Palace,Arsenal
+Tottenham,Bournemouth
+Stoke,Hull
+Sunderland,West Ham
+Watford,Swansea
+Everton,Burnley
+Crystal Palace,Leicester
+Southampton,Manchester City
+West Bromwich Albion,Liverpool
+Manchester United,Chelsea
+Middlesbrough,Arsenal
+Bournemouth,Middlesbrough
+Hull,Watford
+Swansea,Stoke
+West Ham,Everton
+Burnley,Manchester United
+Liverpool,Crystal Palace
+Chelsea,Southampton
+Arsenal,Leicester
+Middlesbrough,Sunderland
+Crystal Palace,Tottenham
+Manchester City,Manchester United
+Southampton,Hull
+Stoke,West Ham
+Sunderland,Bournemouth
+West Bromwich Albion,Leicester
+Crystal Palace,Burnley
+Manchester United,Swansea
+Everton,Chelsea
+Middlesbrough,Manchester City
+Tottenham,Arsenal
+Watford,Liverpool
+West Ham,Tottenham
+Manchester City,Crystal Palace
+Bournemouth,Stoke
+Burnley,West Bromwich Albion
+Hull,Sunderland
+Leicester,Watford
+Swansea,Everton
+Liverpool,Southampton
+Arsenal,Manchester United
+Chelsea,Middlesbrough
+Southampton,Arsenal
+Everton,Watford
+West Bromwich Albion,Chelsea
+Manchester City,Leicester
+Bournemouth,Burnley
+Middlesbrough,Southampton
+Sunderland,Swansea
+Stoke,Arsenal
+Crystal Palace,Hull
+West Ham,Liverpool
+Tottenham,Manchester United
+Chelsea,Watford
+Arsenal,Sunderland
+Manchester City,West Bromwich Albion
+Southampton,Manchester United
+Leicester,Tottenham
+Arsenal,Everton
+Burnley,West Ham
+Chelsea,Sunderland
+Hull,Tottenham
+Leicester,Bournemouth
+Liverpool,Middlesbrough
+Manchester United,Crystal Palace
+Southampton,Stoke
+Swansea,West Bromwich Albion
+Watford,Manchester City

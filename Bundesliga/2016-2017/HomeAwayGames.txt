@@ -1,0 +1,307 @@
+Home,Away
+Bayern Munich,Werder Bremen
+Augsburg,Wolfsburg
+Hamburger SV,Ingolstadt
+Eintracht Frankfurt,Schalke 04
+FC Cologne,Darmstadt
+Borussia Dortmund,Mainz 05
+Borussia M.Gladbach,Bayer Leverkusen
+Hertha Berlin,Freiburg
+Hoffenheim,RasenBallsport Leipzig
+Schalke 04,Bayern Munich
+Wolfsburg,FC Cologne
+Ingolstadt,Hertha Berlin
+Darmstadt,Eintracht Frankfurt
+Freiburg,Borussia M.Gladbach
+Bayer Leverkusen,Hamburger SV
+RasenBallsport Leipzig,Borussia Dortmund
+Werder Bremen,Augsburg
+Mainz 05,Hoffenheim
+FC Cologne,Freiburg
+Hamburger SV,RasenBallsport Leipzig
+Hoffenheim,Wolfsburg
+Eintracht Frankfurt,Bayer Leverkusen
+Bayern Munich,Ingolstadt
+Borussia Dortmund,Darmstadt
+Borussia M.Gladbach,Werder Bremen
+Augsburg,Mainz 05
+Hertha Berlin,Schalke 04
+Wolfsburg,Borussia Dortmund
+Ingolstadt,Eintracht Frankfurt
+Darmstadt,Hoffenheim
+Freiburg,Hamburger SV
+RasenBallsport Leipzig,Borussia M.Gladbach
+Werder Bremen,Mainz 05
+Bayern Munich,Hertha Berlin
+Bayer Leverkusen,Augsburg
+Schalke 04,FC Cologne
+Borussia Dortmund,Freiburg
+Borussia M.Gladbach,Ingolstadt
+Mainz 05,Bayer Leverkusen
+Hamburger SV,Bayern Munich
+Augsburg,Darmstadt
+Eintracht Frankfurt,Hertha Berlin
+Werder Bremen,Wolfsburg
+Hoffenheim,Schalke 04
+FC Cologne,RasenBallsport Leipzig
+RasenBallsport Leipzig,Augsburg
+Bayern Munich,FC Cologne
+Hertha Berlin,Hamburger SV
+Ingolstadt,Hoffenheim
+Darmstadt,Werder Bremen
+Freiburg,Eintracht Frankfurt
+Bayer Leverkusen,Borussia Dortmund
+Wolfsburg,Mainz 05
+Schalke 04,Borussia M.Gladbach
+Borussia Dortmund,Hertha Berlin
+Borussia M.Gladbach,Hamburger SV
+FC Cologne,Ingolstadt
+Augsburg,Schalke 04
+Hoffenheim,Freiburg
+Eintracht Frankfurt,Bayern Munich
+Werder Bremen,Bayer Leverkusen
+Mainz 05,Darmstadt
+Wolfsburg,RasenBallsport Leipzig
+Hamburger SV,Eintracht Frankfurt
+Ingolstadt,Borussia Dortmund
+Darmstadt,Wolfsburg
+Freiburg,Augsburg
+Hertha Berlin,FC Cologne
+Bayer Leverkusen,Hoffenheim
+Bayern Munich,Borussia M.Gladbach
+RasenBallsport Leipzig,Werder Bremen
+Schalke 04,Mainz 05
+Borussia M.Gladbach,Eintracht Frankfurt
+Mainz 05,Ingolstadt
+Wolfsburg,Bayer Leverkusen
+Augsburg,Bayern Munich
+Werder Bremen,Freiburg
+Darmstadt,RasenBallsport Leipzig
+Borussia Dortmund,Schalke 04
+Hoffenheim,Hertha Berlin
+FC Cologne,Hamburger SV
+Hertha Berlin,Borussia M.Gladbach
+Hamburger SV,Borussia Dortmund
+Ingolstadt,Augsburg
+Bayern Munich,Hoffenheim
+Bayer Leverkusen,Darmstadt
+Freiburg,Wolfsburg
+Eintracht Frankfurt,FC Cologne
+RasenBallsport Leipzig,Mainz 05
+Schalke 04,Werder Bremen
+Bayer Leverkusen,RasenBallsport Leipzig
+Borussia M.Gladbach,FC Cologne
+Mainz 05,Freiburg
+Wolfsburg,Schalke 04
+Augsburg,Hertha Berlin
+Darmstadt,Ingolstadt
+Borussia Dortmund,Bayern Munich
+Hoffenheim,Hamburger SV
+Werder Bremen,Eintracht Frankfurt
+Freiburg,RasenBallsport Leipzig
+FC Cologne,Augsburg
+Borussia M.Gladbach,Hoffenheim
+Hamburger SV,Werder Bremen
+Ingolstadt,Wolfsburg
+Eintracht Frankfurt,Borussia Dortmund
+Bayern Munich,Bayer Leverkusen
+Schalke 04,Darmstadt
+Hertha Berlin,Mainz 05
+Mainz 05,Bayern Munich
+Wolfsburg,Hertha Berlin
+Borussia Dortmund,Borussia M.Gladbach
+Bayer Leverkusen,Freiburg
+Hoffenheim,FC Cologne
+Werder Bremen,Ingolstadt
+RasenBallsport Leipzig,Schalke 04
+Darmstadt,Hamburger SV
+Augsburg,Eintracht Frankfurt
+Eintracht Frankfurt,Hoffenheim
+Freiburg,Darmstadt
+FC Cologne,Borussia Dortmund
+Hamburger SV,Augsburg
+Ingolstadt,RasenBallsport Leipzig
+Bayern Munich,Wolfsburg
+Hertha Berlin,Werder Bremen
+Borussia M.Gladbach,Mainz 05
+Schalke 04,Bayer Leverkusen
+Hoffenheim,Borussia Dortmund
+Augsburg,Borussia M.Gladbach
+Werder Bremen,FC Cologne
+RasenBallsport Leipzig,Hertha Berlin
+Schalke 04,Freiburg
+Mainz 05,Hamburger SV
+Wolfsburg,Eintracht Frankfurt
+Darmstadt,Bayern Munich
+Bayer Leverkusen,Ingolstadt
+Eintracht Frankfurt,Mainz 05
+Borussia M.Gladbach,Wolfsburg
+Hamburger SV,Schalke 04
+Borussia Dortmund,Augsburg
+Ingolstadt,Freiburg
+Hoffenheim,Werder Bremen
+Hertha Berlin,Darmstadt
+FC Cologne,Bayer Leverkusen
+Bayern Munich,RasenBallsport Leipzig
+Freiburg,Bayern Munich
+Werder Bremen,Borussia Dortmund
+Schalke 04,Ingolstadt
+Wolfsburg,Hamburger SV
+Augsburg,Hoffenheim
+Darmstadt,Borussia M.Gladbach
+RasenBallsport Leipzig,Eintracht Frankfurt
+Bayer Leverkusen,Hertha Berlin
+Mainz 05,FC Cologne
+Schalke 04,Eintracht Frankfurt
+RasenBallsport Leipzig,Hoffenheim
+Wolfsburg,Augsburg
+Ingolstadt,Hamburger SV
+Werder Bremen,Bayern Munich
+Darmstadt,FC Cologne
+Bayer Leverkusen,Borussia M.Gladbach
+Freiburg,Hertha Berlin
+Mainz 05,Borussia Dortmund
+Hamburger SV,Bayer Leverkusen
+FC Cologne,Wolfsburg
+Hoffenheim,Mainz 05
+Bayern Munich,Schalke 04
+Borussia M.Gladbach,Freiburg
+Hertha Berlin,Ingolstadt
+Borussia Dortmund,RasenBallsport Leipzig
+Augsburg,Werder Bremen
+Eintracht Frankfurt,Darmstadt
+Mainz 05,Augsburg
+Bayer Leverkusen,Eintracht Frankfurt
+Darmstadt,Borussia Dortmund
+RasenBallsport Leipzig,Hamburger SV
+Ingolstadt,Bayern Munich
+Werder Bremen,Borussia M.Gladbach
+Schalke 04,Hertha Berlin
+Wolfsburg,Hoffenheim
+Freiburg,FC Cologne
+Augsburg,Bayer Leverkusen
+Eintracht Frankfurt,Ingolstadt
+Hoffenheim,Darmstadt
+Mainz 05,Werder Bremen
+Hertha Berlin,Bayern Munich
+Borussia Dortmund,Wolfsburg
+Hamburger SV,Freiburg
+Borussia M.Gladbach,RasenBallsport Leipzig
+FC Cologne,Schalke 04
+Wolfsburg,Werder Bremen
+Darmstadt,Augsburg
+RasenBallsport Leipzig,FC Cologne
+Freiburg,Borussia Dortmund
+Bayer Leverkusen,Mainz 05
+Bayern Munich,Hamburger SV
+Hertha Berlin,Eintracht Frankfurt
+Ingolstadt,Borussia M.Gladbach
+Schalke 04,Hoffenheim
+Augsburg,RasenBallsport Leipzig
+Mainz 05,Wolfsburg
+FC Cologne,Bayern Munich
+Werder Bremen,Darmstadt
+Hoffenheim,Ingolstadt
+Borussia Dortmund,Bayer Leverkusen
+Borussia M.Gladbach,Schalke 04
+Eintracht Frankfurt,Freiburg
+Hamburger SV,Hertha Berlin
+Bayer Leverkusen,Werder Bremen
+Bayern Munich,Eintracht Frankfurt
+Darmstadt,Mainz 05
+Freiburg,Hoffenheim
+RasenBallsport Leipzig,Wolfsburg
+Hertha Berlin,Borussia Dortmund
+Ingolstadt,FC Cologne
+Schalke 04,Augsburg
+Hamburger SV,Borussia M.Gladbach
+Borussia Dortmund,Ingolstadt
+Wolfsburg,Darmstadt
+FC Cologne,Hertha Berlin
+Augsburg,Freiburg
+Werder Bremen,RasenBallsport Leipzig
+Hoffenheim,Bayer Leverkusen
+Eintracht Frankfurt,Hamburger SV
+Mainz 05,Schalke 04
+Borussia M.Gladbach,Bayern Munich
+Hertha Berlin,Hoffenheim
+Hamburger SV,FC Cologne
+Bayern Munich,Augsburg
+Schalke 04,Borussia Dortmund
+Freiburg,Werder Bremen
+RasenBallsport Leipzig,Darmstadt
+Eintracht Frankfurt,Borussia M.Gladbach
+Ingolstadt,Mainz 05
+Bayer Leverkusen,Wolfsburg
+Borussia Dortmund,Hamburger SV
+FC Cologne,Eintracht Frankfurt
+Werder Bremen,Schalke 04
+Hoffenheim,Bayern Munich
+Darmstadt,Bayer Leverkusen
+Augsburg,Ingolstadt
+Mainz 05,RasenBallsport Leipzig
+Wolfsburg,Freiburg
+Borussia M.Gladbach,Hertha Berlin
+Eintracht Frankfurt,Werder Bremen
+Freiburg,Mainz 05
+RasenBallsport Leipzig,Bayer Leverkusen
+Schalke 04,Wolfsburg
+FC Cologne,Borussia M.Gladbach
+Hamburger SV,Hoffenheim
+Bayern Munich,Borussia Dortmund
+Hertha Berlin,Augsburg
+Ingolstadt,Darmstadt
+Borussia Dortmund,Eintracht Frankfurt
+Augsburg,FC Cologne
+Mainz 05,Hertha Berlin
+Wolfsburg,Ingolstadt
+RasenBallsport Leipzig,Freiburg
+Hoffenheim,Borussia M.Gladbach
+Bayer Leverkusen,Bayern Munich
+Werder Bremen,Hamburger SV
+Darmstadt,Schalke 04
+FC Cologne,Hoffenheim
+Bayern Munich,Mainz 05
+Hamburger SV,Darmstadt
+Hertha Berlin,Wolfsburg
+Eintracht Frankfurt,Augsburg
+Ingolstadt,Werder Bremen
+Borussia M.Gladbach,Borussia Dortmund
+Freiburg,Bayer Leverkusen
+Schalke 04,RasenBallsport Leipzig
+Bayer Leverkusen,Schalke 04
+Borussia Dortmund,FC Cologne
+Darmstadt,Freiburg
+Werder Bremen,Hertha Berlin
+RasenBallsport Leipzig,Ingolstadt
+Mainz 05,Borussia M.Gladbach
+Wolfsburg,Bayern Munich
+Augsburg,Hamburger SV
+Hoffenheim,Eintracht Frankfurt
+FC Cologne,Werder Bremen
+Eintracht Frankfurt,Wolfsburg
+Bayern Munich,Darmstadt
+Borussia Dortmund,Hoffenheim
+Borussia M.Gladbach,Augsburg
+Ingolstadt,Bayer Leverkusen
+Hertha Berlin,RasenBallsport Leipzig
+Hamburger SV,Mainz 05
+Freiburg,Schalke 04
+Bayer Leverkusen,FC Cologne
+Schalke 04,Hamburger SV
+Mainz 05,Eintracht Frankfurt
+Wolfsburg,Borussia M.Gladbach
+Augsburg,Borussia Dortmund
+Werder Bremen,Hoffenheim
+Darmstadt,Hertha Berlin
+Freiburg,Ingolstadt
+RasenBallsport Leipzig,Bayern Munich
+Borussia Dortmund,Werder Bremen
+Borussia M.Gladbach,Darmstadt
+Hertha Berlin,Bayer Leverkusen
+FC Cologne,Mainz 05
+Hamburger SV,Wolfsburg
+Ingolstadt,Schalke 04
+Hoffenheim,Augsburg
+Eintracht Frankfurt,RasenBallsport Leipzig
+Bayern Munich,Freiburg

@@ -1,0 +1,381 @@
+Teams
+AS Roma - Parma
+Atalanta - Sassuolo
+Cagliari - Udinese
+Fiorentina - Genoa
+Inter - Empoli
+Spal - AC Milan
+Sampdoria - Juventus
+Torino - Lazio
+Bologna - Napoli
+Frosinone - Chievo
+Lazio - Bologna
+Juventus - Atalanta
+Napoli - Inter
+AC Milan - Frosinone
+Empoli - Torino
+Parma - Fiorentina
+Chievo - Sampdoria
+Sassuolo - AS Roma
+Genoa - Cagliari
+Udinese - Spal
+Inter - Chievo
+Bologna - Parma
+AS Roma - Juventus
+Spal - Napoli
+Frosinone - Udinese
+Sampdoria - Empoli
+Torino - Sassuolo
+Fiorentina - AC Milan
+Cagliari - Lazio
+Atalanta - Genoa
+AC Milan - Bologna
+Napoli - Cagliari
+Genoa - AS Roma
+Lazio - Atalanta
+Parma - Sampdoria
+Sassuolo - Frosinone
+Empoli - Fiorentina
+Udinese - Inter
+Chievo - Spal
+Juventus - Torino
+Fiorentina - Sassuolo
+Atalanta - Udinese
+Torino - AC Milan
+Sampdoria - Lazio
+Chievo - Parma
+Spal - Genoa
+Frosinone - Napoli
+Inter - Juventus
+AS Roma - Cagliari
+Bologna - Empoli
+Napoli - Atalanta
+Inter - AS Roma
+Juventus - Fiorentina
+Bologna - Sampdoria
+Cagliari - Frosinone
+Empoli - Spal
+Genoa - Torino
+Lazio - Chievo
+Udinese - Sassuolo
+Parma - AC Milan
+Lazio - Udinese
+Atalanta - Empoli
+Frosinone - Inter
+Chievo - Napoli
+Fiorentina - Bologna
+Sampdoria - Genoa
+Sassuolo - Parma
+Torino - Cagliari
+AC Milan - Lazio
+AS Roma - Udinese
+Spal - Juventus
+Bologna - Chievo
+Napoli - Genoa
+Inter - Atalanta
+Lazio - Sassuolo
+Cagliari - Spal
+Udinese - Empoli
+Fiorentina - Frosinone
+Sampdoria - AS Roma
+Juventus - AC Milan
+Parma - Torino
+Atalanta - Bologna
+Sassuolo - Chievo
+AS Roma - Fiorentina
+Frosinone - Parma
+Genoa - Inter
+Spal - Lazio
+Torino - Sampdoria
+Empoli - Napoli
+Cagliari - Juventus
+AC Milan - Udinese
+Inter - Lazio
+Bologna - Sassuolo
+AS Roma - Napoli
+Fiorentina - Torino
+Frosinone - Spal
+Parma - Atalanta
+Sampdoria - AC Milan
+Juventus - Empoli
+Udinese - Genoa
+Chievo - Cagliari
+AC Milan - Inter
+Napoli - Udinese
+Atalanta - Chievo
+Empoli - Frosinone
+Lazio - Parma
+Genoa - Juventus
+Torino - Bologna
+Spal - AS Roma
+Sassuolo - Sampdoria
+Cagliari - Fiorentina
+AS Roma - Empoli
+Fiorentina - Lazio
+Sassuolo - Napoli
+Frosinone - Torino
+Inter - Spal
+Sampdoria - Atalanta
+Bologna - Cagliari
+Chievo - AC Milan
+Parma - Genoa
+Juventus - Udinese
+Napoli - Juventus
+Atalanta - Fiorentina
+Genoa - Frosinone
+Spal - Sampdoria
+Udinese - Bologna
+Torino - Chievo
+Lazio - AS Roma
+AC Milan - Sassuolo
+Empoli - Parma
+Cagliari - Inter
+Fiorentina - Inter
+Parma - Napoli
+Bologna - Juventus
+Chievo - Genoa
+Sassuolo - Spal
+Sampdoria - Cagliari
+Frosinone - AS Roma
+Torino - Atalanta
+AC Milan - Empoli
+AS Roma - Bologna
+Napoli - Torino
+Inter - Sampdoria
+Empoli - Sassuolo
+Genoa - Lazio
+Udinese - Chievo
+Spal - Fiorentina
+Atalanta - AC Milan
+Cagliari - Parma
+Juventus - Frosinone
+AC Milan - Cagliari
+Sassuolo - Juventus
+Atalanta - Spal
+Sampdoria - Frosinone
+Torino - Udinese
+Bologna - Genoa
+Parma - Inter
+Fiorentina - Napoli
+Chievo - AS Roma
+Lazio - Empoli
+Cagliari - Atalanta
+Frosinone - Lazio
+AS Roma - AC Milan
+Inter - Bologna
+Genoa - Sassuolo
+Udinese - Fiorentina
+Spal - Torino
+Juventus - Parma
+Napoli - Sampdoria
+Empoli - Chievo
+Empoli - Genoa
+Lazio - Juventus
+Torino - Inter
+Atalanta - AS Roma
+Bologna - Frosinone
+Parma - Spal
+Chievo - Fiorentina
+AC Milan - Napoli
+Sampdoria - Udinese
+Sassuolo - Cagliari
+Juventus - Chievo
+Genoa - AC Milan
+Napoli - Lazio
+Cagliari - Empoli
+Fiorentina - Sampdoria
+Spal - Bologna
+Frosinone - Atalanta
+Inter - Sassuolo
+Udinese - Parma
+AS Roma - Torino
+AC Milan - Spal
+Napoli - Bologna
+Chievo - Frosinone
+Empoli - Inter
+Genoa - Fiorentina
+Lazio - Torino
+Parma - AS Roma
+Sassuolo - Atalanta
+Udinese - Cagliari
+Juventus - Sampdoria
+Inter - Napoli
+AS Roma - Sassuolo
+Spal - Udinese
+Torino - Empoli
+Atalanta - Juventus
+Bologna - Lazio
+Cagliari - Genoa
+Fiorentina - Parma
+Sampdoria - Chievo
+Frosinone - AC Milan
+Juventus - AS Roma
+Chievo - Inter
+Parma - Bologna
+AC Milan - Fiorentina
+Empoli - Sampdoria
+Genoa - Atalanta
+Napoli - Spal
+Sassuolo - Torino
+Udinese - Frosinone
+Lazio - Cagliari
+Bologna - AC Milan
+Atalanta - Lazio
+AS Roma - Genoa
+Cagliari - Napoli
+Fiorentina - Empoli
+Frosinone - Sassuolo
+Sampdoria - Parma
+Spal - Chievo
+Torino - Juventus
+Inter - Udinese
+AC Milan - Torino
+Genoa - Spal
+Empoli - Bologna
+Parma - Chievo
+Udinese - Atalanta
+Sassuolo - Fiorentina
+Lazio - Sampdoria
+Cagliari - AS Roma
+Napoli - Frosinone
+Juventus - Inter
+Atalanta - Napoli
+AS Roma - Inter
+Chievo - Lazio
+Frosinone - Cagliari
+Sassuolo - Udinese
+Torino - Genoa
+AC Milan - Parma
+Sampdoria - Bologna
+Fiorentina - Juventus
+Spal - Empoli
+Cagliari - Torino
+Genoa - Sampdoria
+Lazio - AC Milan
+Bologna - Fiorentina
+Empoli - Atalanta
+Napoli - Chievo
+Parma - Sassuolo
+Inter - Frosinone
+Juventus - Spal
+Udinese - AS Roma
+AC Milan - Juventus
+Sassuolo - Lazio
+AS Roma - Sampdoria
+Chievo - Bologna
+Empoli - Udinese
+Atalanta - Inter
+Genoa - Napoli
+Spal - Cagliari
+Torino - Parma
+Frosinone - Fiorentina
+Udinese - AC Milan
+Bologna - Atalanta
+Chievo - Sassuolo
+Parma - Frosinone
+Sampdoria - Torino
+Lazio - Spal
+Juventus - Cagliari
+Fiorentina - AS Roma
+Inter - Genoa
+Napoli - Empoli
+AC Milan - Genoa
+Lazio - Inter
+Napoli - AS Roma
+AC Milan - Sampdoria
+Cagliari - Chievo
+Genoa - Udinese
+Spal - Frosinone
+Sassuolo - Bologna
+Torino - Fiorentina
+Empoli - Juventus
+Atalanta - Parma
+Sampdoria - Sassuolo
+Inter - AC Milan
+Fiorentina - Cagliari
+Bologna - Torino
+Chievo - Atalanta
+Parma - Lazio
+Frosinone - Empoli
+Udinese - Napoli
+Juventus - Genoa
+AS Roma - Spal
+Spal - Inter
+Napoli - Sassuolo
+AC Milan - Chievo
+Atalanta - Sampdoria
+Lazio - Fiorentina
+Genoa - Parma
+Empoli - AS Roma
+Udinese - Juventus
+Cagliari - Bologna
+Torino - Frosinone
+Sampdoria - Spal
+Sassuolo - AC Milan
+Parma - Empoli
+Chievo - Torino
+Fiorentina - Atalanta
+Frosinone - Genoa
+Bologna - Udinese
+Inter - Cagliari
+Juventus - Napoli
+AS Roma - Lazio
+Empoli - AC Milan
+Spal - Sassuolo
+AS Roma - Frosinone
+Atalanta - Torino
+Cagliari - Sampdoria
+Genoa - Chievo
+Juventus - Bologna
+Napoli - Parma
+Udinese - Lazio
+Inter - Fiorentina
+Frosinone - Juventus
+AC Milan - Atalanta
+Bologna - AS Roma
+Chievo - Udinese
+Lazio - Genoa
+Torino - Napoli
+Sampdoria - Inter
+Fiorentina - Spal
+Parma - Cagliari
+Sassuolo - Empoli
+Sampdoria - Fiorentina
+Spal - Atalanta
+Cagliari - AC Milan
+Empoli - Lazio
+Genoa - Bologna
+Juventus - Sassuolo
+Udinese - Torino
+AS Roma - Chievo
+Frosinone - Sampdoria
+Napoli - Fiorentina
+Inter - Parma
+Atalanta - Cagliari
+Chievo - Empoli
+Lazio - Frosinone
+Sampdoria - Napoli
+Sassuolo - Genoa
+Torino - Spal
+Fiorentina - Udinese
+Parma - Juventus
+Bologna - Inter
+AC Milan - AS Roma
+AS Roma - Atalanta
+Cagliari - Sassuolo
+Fiorentina - Chievo
+Frosinone - Bologna
+Genoa - Empoli
+Inter - Torino
+Udinese - Sampdoria
+Spal - Parma
+Napoli - AC Milan
+Juventus - Lazio
+Atalanta - Frosinone
+Bologna - Spal
+Empoli - Cagliari
+Parma - Udinese
+Sassuolo - Inter
+Torino - AS Roma
+Lazio - Napoli
+Chievo - Juventus

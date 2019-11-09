@@ -1,0 +1,241 @@
+Home,Away
+Rubin Kazan,Spartak Moscow
+Ural,Mordovya
+Arsenal Tula,Zenit St. Petersburg
+CSKA Moscow,Torpedo Moscow
+Dinamo Moscow,FC Rostov
+Kuban Krasnodar,FC Ufa
+Lokomotiv Moscow,FC Krasnodar
+FK Akhmat,Amkar
+Amkar,FC Ufa
+Kuban Krasnodar,FC Rostov
+Mordovya,CSKA Moscow
+Zenit St. Petersburg,Torpedo Moscow
+FK Akhmat,Rubin Kazan
+Dinamo Moscow,Spartak Moscow
+Ural,FC Krasnodar
+Arsenal Tula,Lokomotiv Moscow
+Torpedo Moscow,Amkar
+FC Ufa,Dinamo Moscow
+Ural,Zenit St. Petersburg
+Arsenal Tula,Rubin Kazan
+CSKA Moscow,FK Akhmat
+Lokomotiv Moscow,FC Rostov
+FC Krasnodar,Spartak Moscow
+Mordovya,Kuban Krasnodar
+Ural,Torpedo Moscow
+Zenit St. Petersburg,FC Ufa
+CSKA Moscow,Spartak Moscow
+Arsenal Tula,Dinamo Moscow
+Rubin Kazan,Lokomotiv Moscow
+FC Rostov,FC Krasnodar
+FK Akhmat,Mordovya
+Kuban Krasnodar,Amkar
+FK Akhmat,Arsenal Tula
+FC Ufa,Spartak Moscow
+Zenit St. Petersburg,Amkar
+Rubin Kazan,CSKA Moscow
+Dinamo Moscow,Ural
+Torpedo Moscow,FC Krasnodar
+Kuban Krasnodar,Lokomotiv Moscow
+FC Rostov,Mordovya
+Ural,FK Akhmat
+Mordovya,Torpedo Moscow
+Amkar,Spartak Moscow
+Arsenal Tula,Kuban Krasnodar
+CSKA Moscow,FC Rostov
+Rubin Kazan,FC Ufa
+Lokomotiv Moscow,Zenit St. Petersburg
+FC Krasnodar,Dinamo Moscow
+CSKA Moscow,Arsenal Tula
+Lokomotiv Moscow,Mordovya
+Zenit St. Petersburg,Dinamo Moscow
+FC Rostov,Rubin Kazan
+Spartak Moscow,Torpedo Moscow
+FC Krasnodar,FC Ufa
+Amkar,Ural
+FK Akhmat,Kuban Krasnodar
+Arsenal Tula,Mordovya
+FC Ufa,Ural
+FC Rostov,Zenit St. Petersburg
+Kuban Krasnodar,Rubin Kazan
+Spartak Moscow,FK Akhmat
+CSKA Moscow,Lokomotiv Moscow
+Amkar,FC Krasnodar
+Torpedo Moscow,Dinamo Moscow
+Ural,CSKA Moscow
+Mordovya,FC Ufa
+Zenit St. Petersburg,Spartak Moscow
+Dinamo Moscow,Kuban Krasnodar
+Lokomotiv Moscow,Amkar
+FC Krasnodar,Arsenal Tula
+FK Akhmat,FC Rostov
+Rubin Kazan,Torpedo Moscow
+CSKA Moscow,Kuban Krasnodar
+FC Krasnodar,Zenit St. Petersburg
+Lokomotiv Moscow,FK Akhmat
+Ural,Spartak Moscow
+Arsenal Tula,FC Rostov
+FC Ufa,Torpedo Moscow
+Rubin Kazan,Mordovya
+Ural,Arsenal Tula
+Amkar,FC Rostov
+Torpedo Moscow,Kuban Krasnodar
+Spartak Moscow,Lokomotiv Moscow
+FC Ufa,CSKA Moscow
+Zenit St. Petersburg,Mordovya
+FC Krasnodar,FK Akhmat
+Dinamo Moscow,Rubin Kazan
+FC Rostov,Ural
+CSKA Moscow,Zenit St. Petersburg
+Lokomotiv Moscow,Dinamo Moscow
+Mordovya,FC Krasnodar
+Kuban Krasnodar,Spartak Moscow
+Torpedo Moscow,Arsenal Tula
+Rubin Kazan,Amkar
+FK Akhmat,FC Ufa
+Ural,Kuban Krasnodar
+Amkar,Mordovya
+Torpedo Moscow,Lokomotiv Moscow
+Zenit St. Petersburg,FK Akhmat
+Dinamo Moscow,CSKA Moscow
+FC Ufa,FC Rostov
+FC Krasnodar,Rubin Kazan
+Spartak Moscow,Arsenal Tula
+Ural,Rubin Kazan
+Torpedo Moscow,FC Rostov
+FC Krasnodar,CSKA Moscow
+Zenit St. Petersburg,Kuban Krasnodar
+Dinamo Moscow,FK Akhmat
+Arsenal Tula,Amkar
+Spartak Moscow,Mordovya
+Lokomotiv Moscow,FC Ufa
+FC Rostov,Amkar
+Arsenal Tula,Ural
+CSKA Moscow,FC Ufa
+Mordovya,Zenit St. Petersburg
+Kuban Krasnodar,Torpedo Moscow
+Lokomotiv Moscow,Spartak Moscow
+Rubin Kazan,Dinamo Moscow
+FK Akhmat,FC Krasnodar
+Arsenal Tula,FC Ufa
+CSKA Moscow,Amkar
+Rubin Kazan,Zenit St. Petersburg
+Lokomotiv Moscow,Ural
+Kuban Krasnodar,FC Krasnodar
+FK Akhmat,Torpedo Moscow
+Mordovya,Dinamo Moscow
+Spartak Moscow,FC Rostov
+Zenit St. Petersburg,FC Krasnodar
+Kuban Krasnodar,CSKA Moscow
+FK Akhmat,Lokomotiv Moscow
+Dinamo Moscow,Amkar
+Mordovya,Rubin Kazan
+Torpedo Moscow,FC Ufa
+FC Rostov,Arsenal Tula
+Spartak Moscow,Ural
+FK Akhmat,CSKA Moscow
+Zenit St. Petersburg,Ural
+Spartak Moscow,FC Krasnodar
+Dinamo Moscow,FC Ufa
+FC Rostov,Lokomotiv Moscow
+Amkar,Torpedo Moscow
+Rubin Kazan,Arsenal Tula
+Kuban Krasnodar,Mordovya
+FC Krasnodar,Ural
+FC Ufa,Amkar
+CSKA Moscow,Mordovya
+Lokomotiv Moscow,Arsenal Tula
+Spartak Moscow,Dinamo Moscow
+Torpedo Moscow,Zenit St. Petersburg
+Rubin Kazan,FK Akhmat
+FC Rostov,Kuban Krasnodar
+FC Ufa,FC Krasnodar
+Ural,Amkar
+Rubin Kazan,FC Rostov
+Arsenal Tula,CSKA Moscow
+Torpedo Moscow,Spartak Moscow
+Dinamo Moscow,Zenit St. Petersburg
+Mordovya,Lokomotiv Moscow
+Kuban Krasnodar,FK Akhmat
+Amkar,Rubin Kazan
+Dinamo Moscow,Lokomotiv Moscow
+FC Krasnodar,Mordovya
+Spartak Moscow,Kuban Krasnodar
+Zenit St. Petersburg,CSKA Moscow
+Ural,FC Rostov
+FC Ufa,FK Akhmat
+Arsenal Tula,Torpedo Moscow
+Mordovya,Amkar
+Rubin Kazan,FC Krasnodar
+FK Akhmat,Zenit St. Petersburg
+Kuban Krasnodar,Ural
+Lokomotiv Moscow,Torpedo Moscow
+CSKA Moscow,Dinamo Moscow
+Arsenal Tula,Spartak Moscow
+FC Rostov,FC Ufa
+FC Krasnodar,Kuban Krasnodar
+Zenit St. Petersburg,Rubin Kazan
+FC Ufa,Arsenal Tula
+Dinamo Moscow,Mordovya
+Ural,Lokomotiv Moscow
+Amkar,CSKA Moscow
+Torpedo Moscow,FK Akhmat
+FC Rostov,Spartak Moscow
+FC Ufa,Lokomotiv Moscow
+Mordovya,Spartak Moscow
+Rubin Kazan,Ural
+CSKA Moscow,FC Krasnodar
+FK Akhmat,Dinamo Moscow
+Kuban Krasnodar,Zenit St. Petersburg
+Amkar,Arsenal Tula
+FC Rostov,Torpedo Moscow
+FC Ufa,Kuban Krasnodar
+Mordovya,Ural
+Amkar,FK Akhmat
+Torpedo Moscow,CSKA Moscow
+FC Krasnodar,Lokomotiv Moscow
+Spartak Moscow,Rubin Kazan
+FC Rostov,Dinamo Moscow
+Zenit St. Petersburg,Arsenal Tula
+Amkar,Dinamo Moscow
+Spartak Moscow,Zenit St. Petersburg
+FC Rostov,FK Akhmat
+Kuban Krasnodar,Dinamo Moscow
+Amkar,Lokomotiv Moscow
+Torpedo Moscow,Rubin Kazan
+FC Ufa,Mordovya
+Arsenal Tula,FC Krasnodar
+CSKA Moscow,Ural
+Ural,FC Ufa
+Rubin Kazan,Kuban Krasnodar
+Lokomotiv Moscow,CSKA Moscow
+Dinamo Moscow,Torpedo Moscow
+Zenit St. Petersburg,FC Rostov
+FK Akhmat,Spartak Moscow
+Mordovya,Arsenal Tula
+FC Krasnodar,Amkar
+Mordovya,FC Rostov
+Amkar,Kuban Krasnodar
+Arsenal Tula,FK Akhmat
+Lokomotiv Moscow,Rubin Kazan
+Spartak Moscow,CSKA Moscow
+FC Ufa,Zenit St. Petersburg
+FC Krasnodar,Torpedo Moscow
+Ural,Dinamo Moscow
+Amkar,Zenit St. Petersburg
+Torpedo Moscow,Ural
+Spartak Moscow,FC Ufa
+FC Krasnodar,FC Rostov
+Mordovya,FK Akhmat
+Dinamo Moscow,Arsenal Tula
+Lokomotiv Moscow,Kuban Krasnodar
+CSKA Moscow,Rubin Kazan
+Zenit St. Petersburg,Lokomotiv Moscow
+Dinamo Moscow,FC Krasnodar
+Kuban Krasnodar,Arsenal Tula
+Spartak Moscow,Amkar
+FK Akhmat,Ural
+FC Ufa,Rubin Kazan
+Torpedo Moscow,Mordovya
+FC Rostov,CSKA Moscow

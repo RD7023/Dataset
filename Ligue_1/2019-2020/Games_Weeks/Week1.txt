@@ -1,0 +1,11 @@
+HomeTeam,HomeGoals,HomeXG,AwayTeam,AwayGoals,AwayXG
+Monaco,0,0.56,Lyon,3,0.83
+Marseille,0,0.87,Reims,2,1.30
+Brest,1,2.33,Toulouse,1,1.43
+Montpellier,0,2.56,Rennes,1,1.17
+Nice,2,1.87,Amiens,1,0.60
+Angers,3,1.52,Bordeaux,1,1.30
+Dijon,1,2.15,Saint-Etienne,2,0.92
+Lille,2,1.21,Nantes,1,0.52
+Strasbourg,1,1.61,Metz,1,0.25
+Paris Saint Germain,3,3.62,Nimes,0,0.31

@@ -1,0 +1,60 @@
+Marseille,Toulouse               
+Nantes,Monaco                    
+Nice,Reims                       
+Montpellier,Dijon                
+Angers,Nimes                     
+Lille,Rennes                     
+Saint-Etienne,Guingamp           
+Lyon,Amiens                      
+Bordeaux,Strasbourg              
+Paris Saint Germain,Caen         
+Reims,Lyon                       
+Guingamp,Paris Saint Germain     
+Monaco,Lille                     
+Rennes,Angers                    
+Amiens,Montpellier               
+Caen,Nice                        
+Dijon,Nantes                     
+Strasbourg,Saint-Etienne         
+Toulouse,Bordeaux                
+Nimes,Marseille                  
+Lyon,Strasbourg                  
+Paris Saint Germain,Angers       
+Nice,Dijon                       
+Toulouse,Nimes                   
+Montpellier,Saint-Etienne        
+Nantes,Caen                      
+Amiens,Reims                     
+Lille,Guingamp                   
+Bordeaux,Monaco                  
+Marseille,Rennes                 
+Lyon,Nice                        
+Nimes,Paris Saint Germain        
+Angers,Lille                     
+Dijon,Caen                       
+Guingamp,Toulouse                
+Reims,Montpellier                
+Strasbourg,Nantes                
+Saint-Etienne,Amiens             
+Rennes,Bordeaux                  
+Monaco,Marseille                 
+Nice,Rennes                      
+Paris Saint Germain,Saint-Etienne
+Caen,Lyon                        
+Amiens,Lille                     
+Dijon,Angers                     
+Montpellier,Strasbourg           
+Toulouse,Monaco                  
+Nantes,Reims                     
+Bordeaux,Nimes                   
+Marseille,Guingamp               
+Monaco,Nimes
+Lille,Nantes
+Angers,Toulouse
+Montpellier,Nice
+Reims,Dijon
+Saint-Etienne,Caen
+Strasbourg,Amiens
+Rennes,Paris Saint Germain
+Guingamp,Bordeaux
+Lyon,Marseille

@@ -1,0 +1,307 @@
+Team Names
+B. Monchengladbach - Dortmund
+Bayern Munich - Eintracht Frankfurt
+Dusseldorf - Hannover
+Freiburg - Nurnberg
+Hertha Berlin - Bayer Leverkusen
+Mainz - Hoffenheim
+Schalke - Stuttgart
+Werder Bremen - RB Leipzig
+Wolfsburg - Augsburg
+Eintracht Frankfurt - Mainz
+Augsburg - Hertha Berlin
+Bayer Leverkusen - Schalke
+Dortmund - Dusseldorf
+Hannover - Freiburg
+Hoffenheim - Werder Bremen
+Nurnberg - B. Monchengladbach
+RB Leipzig - Bayern Munich
+Stuttgart - Wolfsburg
+Bayer Leverkusen - Eintracht Frankfurt
+Freiburg - Dusseldorf
+Schalke - Augsburg
+Werder Bremen - Dortmund
+B. Monchengladbach - Hoffenheim
+Bayern Munich - Hannover
+Hertha Berlin - Stuttgart
+Wolfsburg - Nurnberg
+Mainz - RB Leipzig
+Nurnberg - Bayern Munich
+Hoffenheim - Wolfsburg
+Stuttgart - B. Monchengladbach
+Dortmund - Schalke
+Dusseldorf - Werder Bremen
+Eintracht Frankfurt - Hertha Berlin
+Hannover - Mainz
+RB Leipzig - Freiburg
+Augsburg - Bayer Leverkusen
+Wolfsburg - Eintracht Frankfurt
+Hertha Berlin - Hannover
+Freiburg - Dortmund
+Schalke - Hoffenheim
+B. Monchengladbach - RB Leipzig
+Augsburg - Stuttgart
+Bayer Leverkusen - Nurnberg
+Bayern Munich - Werder Bremen
+Mainz - Dusseldorf
+Eintracht Frankfurt - Augsburg
+Dusseldorf - Bayern Munich
+Hoffenheim - Hertha Berlin
+Dortmund - Mainz
+Hannover - B. Monchengladbach
+RB Leipzig - Wolfsburg
+Stuttgart - Bayer Leverkusen
+Werder Bremen - Freiburg
+Nurnberg - Schalke
+B. Monchengladbach - Werder Bremen
+Augsburg - Hoffenheim
+Bayern Munich - Dortmund
+Bayer Leverkusen - RB Leipzig
+Hertha Berlin - Dusseldorf
+Schalke - Eintracht Frankfurt
+Stuttgart - Nurnberg
+Wolfsburg - Hannover
+Mainz - Freiburg
+Eintracht Frankfurt - Stuttgart
+Hannover - Schalke
+RB Leipzig - Hertha Berlin
+Dortmund - Wolfsburg
+Dusseldorf - B. Monchengladbach
+Freiburg - Bayern Munich
+Nurnberg - Augsburg
+Werder Bremen - Mainz
+Hoffenheim - Bayer Leverkusen
+Bayern Munich - Mainz
+Eintracht Frankfurt - Nurnberg
+Bayer Leverkusen - Werder Bremen
+Hertha Berlin - Dortmund
+Augsburg - Hannover
+Schalke - RB Leipzig
+Stuttgart - Hoffenheim
+Wolfsburg - Dusseldorf
+B. Monchengladbach - Freiburg
+Dusseldorf - Eintracht Frankfurt
+Hannover - Bayer Leverkusen
+Hoffenheim - Nurnberg
+Mainz - B. Monchengladbach
+Bayern Munich - Wolfsburg
+Dortmund - Stuttgart
+Freiburg - Hertha Berlin
+RB Leipzig - Augsburg
+Werder Bremen - Schalke
+Wolfsburg - Werder Bremen
+Stuttgart - Hannover
+B. Monchengladbach - Bayern Munich
+Bayer Leverkusen - Freiburg
+Eintracht Frankfurt - Hoffenheim
+Hertha Berlin - Mainz
+Nurnberg - RB Leipzig
+Schalke - Dusseldorf
+Augsburg - Dortmund
+RB Leipzig - Hoffenheim
+Dortmund - Bayer Leverkusen
+Hannover - Eintracht Frankfurt
+Dusseldorf - Nurnberg
+B. Monchengladbach - Wolfsburg
+Bayern Munich - Hertha Berlin
+Freiburg - Augsburg
+Mainz - Schalke
+Werder Bremen - Stuttgart
+Nurnberg - Dortmund
+Bayer Leverkusen - Dusseldorf
+Eintracht Frankfurt - B. Monchengladbach
+Hertha Berlin - Werder Bremen
+Hoffenheim - Hannover
+Schalke - Freiburg
+Stuttgart - RB Leipzig
+Wolfsburg - Mainz
+Augsburg - Bayern Munich
+Dusseldorf - Stuttgart
+Werder Bremen - Augsburg
+Bayern Munich - Schalke
+B. Monchengladbach - Hertha Berlin
+Dortmund - Hoffenheim
+Freiburg - Wolfsburg
+Hannover - Nurnberg
+RB Leipzig - Eintracht Frankfurt
+Mainz - Bayer Leverkusen
+Stuttgart - Freiburg
+Augsburg - Mainz
+Schalke - B. Monchengladbach
+Bayer Leverkusen - Bayern Munich
+Eintracht Frankfurt - Dortmund
+Hertha Berlin - Wolfsburg
+Hoffenheim - Dusseldorf
+Nurnberg - Werder Bremen
+Hannover - RB Leipzig
+Dusseldorf - RB Leipzig
+Bayern Munich - Stuttgart
+Werder Bremen - Eintracht Frankfurt
+B. Monchengladbach - Augsburg
+Dortmund - Hannover
+Freiburg - Hoffenheim
+Mainz - Nurnberg
+Wolfsburg - Bayer Leverkusen
+Hertha Berlin - Schalke
+Schalke - Wolfsburg
+Nurnberg - Hertha Berlin
+RB Leipzig - Dortmund
+Hannover - Werder Bremen
+Augsburg - Dusseldorf
+Bayer Leverkusen - B. Monchengladbach
+Eintracht Frankfurt - Freiburg
+Stuttgart - Mainz
+Hoffenheim - Bayern Munich
+Hoffenheim - Mainz
+Augsburg - Wolfsburg
+Eintracht Frankfurt - Bayern Munich
+Bayer Leverkusen - Hertha Berlin
+Hannover - Dusseldorf
+Nurnberg - Freiburg
+RB Leipzig - Werder Bremen
+Stuttgart - Schalke
+Dortmund - B. Monchengladbach
+Bayern Munich - RB Leipzig
+Freiburg - Hannover
+Mainz - Eintracht Frankfurt
+Werder Bremen - Hoffenheim
+Schalke - Bayer Leverkusen
+Dusseldorf - Dortmund
+Hertha Berlin - Augsburg
+Wolfsburg - Stuttgart
+B. Monchengladbach - Nurnberg
+Eintracht Frankfurt - Bayer Leverkusen
+RB Leipzig - Mainz
+Dortmund - Werder Bremen
+Augsburg - Schalke
+Dusseldorf - Freiburg
+Hannover - Bayern Munich
+Hoffenheim - B. Monchengladbach
+Stuttgart - Hertha Berlin
+Nurnberg - Wolfsburg
+B. Monchengladbach - Stuttgart
+Mainz - Hannover
+Hertha Berlin - Eintracht Frankfurt
+Bayer Leverkusen - Augsburg
+Bayern Munich - Nurnberg
+Freiburg - RB Leipzig
+Schalke - Dortmund
+Wolfsburg - Hoffenheim
+Werder Bremen - Dusseldorf
+Nurnberg - Bayer Leverkusen
+Eintracht Frankfurt - Wolfsburg
+RB Leipzig - B. Monchengladbach
+Hoffenheim - Schalke
+Dortmund - Freiburg
+Hannover - Hertha Berlin
+Stuttgart - Augsburg
+Werder Bremen - Bayern Munich
+Dusseldorf - Mainz
+B. Monchengladbach - Hannover
+Freiburg - Werder Bremen
+Schalke - Nurnberg
+Augsburg - Eintracht Frankfurt
+Bayern Munich - Dusseldorf
+Hertha Berlin - Hoffenheim
+Mainz - Dortmund
+Wolfsburg - RB Leipzig
+Bayer Leverkusen - Stuttgart
+Eintracht Frankfurt - Schalke
+RB Leipzig - Bayer Leverkusen
+Dortmund - Bayern Munich
+Dusseldorf - Hertha Berlin
+Freiburg - Mainz
+Hoffenheim - Augsburg
+Nurnberg - Stuttgart
+Werder Bremen - B. Monchengladbach
+Hannover - Wolfsburg
+Mainz - Werder Bremen
+B. Monchengladbach - Dusseldorf
+Hertha Berlin - RB Leipzig
+Augsburg - Nurnberg
+Bayer Leverkusen - Hoffenheim
+Bayern Munich - Freiburg
+Schalke - Hannover
+Wolfsburg - Dortmund
+Stuttgart - Eintracht Frankfurt
+Werder Bremen - Bayer Leverkusen
+RB Leipzig - Schalke
+Nurnberg - Eintracht Frankfurt
+Hoffenheim - Stuttgart
+Dortmund - Hertha Berlin
+Dusseldorf - Wolfsburg
+Hannover - Augsburg
+Mainz - Bayern Munich
+Freiburg - B. Monchengladbach
+B. Monchengladbach - Mainz
+Hertha Berlin - Freiburg
+Schalke - Werder Bremen
+Augsburg - RB Leipzig
+Bayer Leverkusen - Hannover
+Nurnberg - Hoffenheim
+Stuttgart - Dortmund
+Wolfsburg - Bayern Munich
+Eintracht Frankfurt - Dusseldorf
+RB Leipzig - Nurnberg
+Hoffenheim - Eintracht Frankfurt
+Freiburg - Bayer Leverkusen
+Bayern Munich - B. Monchengladbach
+Dortmund - Augsburg
+Dusseldorf - Schalke
+Hannover - Stuttgart
+Mainz - Hertha Berlin
+Werder Bremen - Wolfsburg
+Augsburg - Freiburg
+Eintracht Frankfurt - Hannover
+Bayer Leverkusen - Dortmund
+Hoffenheim - RB Leipzig
+Nurnberg - Dusseldorf
+Schalke - Mainz
+Stuttgart - Werder Bremen
+Wolfsburg - B. Monchengladbach
+Hertha Berlin - Bayern Munich
+B. Monchengladbach - Eintracht Frankfurt
+Dortmund - Nurnberg
+Mainz - Wolfsburg
+RB Leipzig - Stuttgart
+Dusseldorf - Bayer Leverkusen
+Bayern Munich - Augsburg
+Freiburg - Schalke
+Hannover - Hoffenheim
+Werder Bremen - Hertha Berlin
+Eintracht Frankfurt - RB Leipzig
+Bayer Leverkusen - Mainz
+Schalke - Bayern Munich
+Augsburg - Werder Bremen
+Hertha Berlin - B. Monchengladbach
+Hoffenheim - Dortmund
+Nurnberg - Hannover
+Wolfsburg - Freiburg
+Stuttgart - Dusseldorf
+Freiburg - Stuttgart
+Werder Bremen - Nurnberg
+B. Monchengladbach - Schalke
+Bayern Munich - Bayer Leverkusen
+Dusseldorf - Hoffenheim
+Mainz - Augsburg
+RB Leipzig - Hannover
+Wolfsburg - Hertha Berlin
+Dortmund - Eintracht Frankfurt
+Schalke - Hertha Berlin
+RB Leipzig - Dusseldorf
+Stuttgart - Bayern Munich
+Augsburg - B. Monchengladbach
+Bayer Leverkusen - Wolfsburg
+Eintracht Frankfurt - Werder Bremen
+Hoffenheim - Freiburg
+Nurnberg - Mainz
+Hannover - Dortmund
+Dortmund - RB Leipzig
+Mainz - Stuttgart
+B. Monchengladbach - Bayer Leverkusen
+Dusseldorf - Augsburg
+Freiburg - Eintracht Frankfurt
+Hertha Berlin - Nurnberg
+Werder Bremen - Hannover
+Wolfsburg - Schalke
+Bayern Munich - Hoffenheim

@@ -1,0 +1,11 @@
+Home,Away
+Monaco,Nimes
+Lille,Nantes
+Angers,Toulouse
+Montpellier,Nice
+Reims,Dijon
+Saint-Etienne,Caen
+Strasbourg,Amiens
+Rennes,Paris Saint Germain
+Guingamp,Bordeaux
+Lyon,Marseille

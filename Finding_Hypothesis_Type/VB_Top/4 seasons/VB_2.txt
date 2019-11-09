@@ -1,0 +1,8 @@
+Liga: Serie_A   ; powers: p2345.m; epowers: p12.m; lnpowers: p1.m; |27.135
+Liga: Serie_A   ; powers: p2345.m; epowers: p12.m; lnpowers: p23.m; |27.1275
+Liga: Serie_A   ; powers: p134.m; epowers: p12.m; lnpowers: p123.m; |26.7025
+Liga: Serie_A   ; powers: p234.m; epowers: p12.m; lnpowers: p123.m; |26.1175
+Liga: Serie_A   ; powers: p1345.m; epowers: p12.m; lnpowers: p3.m; |26.1
+Liga: Serie_A   ; powers: p1345.m; epowers: p12.m; lnpowers: p1.m; |25.7575
+Liga: Serie_A   ; powers: p1345.m; epowers: p12.m; lnpowers: p12.m; |25.74
+Liga: Serie_A   ; powers: p235.m; epowers: p12.m; lnpowers: p123.m; |25.7

@@ -1,0 +1,307 @@
+Home,Away
+Bayern Munich,Wolfsburg
+Hoffenheim,Augsburg
+Hannover 96,Schalke 04
+Hertha Berlin,Werder Bremen
+Eintracht Frankfurt,Freiburg
+FC Cologne,Hamburger SV
+Borussia Dortmund,Bayer Leverkusen
+Paderborn,Mainz 05
+Borussia M.Gladbach,VfB Stuttgart
+Augsburg,Borussia Dortmund
+Werder Bremen,Hoffenheim
+VfB Stuttgart,FC Cologne
+Hamburger SV,Paderborn
+Bayer Leverkusen,Hertha Berlin
+Wolfsburg,Eintracht Frankfurt
+Schalke 04,Bayern Munich
+Mainz 05,Hannover 96
+Freiburg,Borussia M.Gladbach
+Bayer Leverkusen,Werder Bremen
+Hoffenheim,Wolfsburg
+Bayern Munich,VfB Stuttgart
+Borussia Dortmund,Freiburg
+Hertha Berlin,Mainz 05
+Paderborn,FC Cologne
+Borussia M.Gladbach,Schalke 04
+Eintracht Frankfurt,Augsburg
+Hannover 96,Hamburger SV
+Freiburg,Hertha Berlin
+VfB Stuttgart,Hoffenheim
+Hamburger SV,Bayern Munich
+Schalke 04,Eintracht Frankfurt
+Paderborn,Hannover 96
+Augsburg,Werder Bremen
+Mainz 05,Borussia Dortmund
+Wolfsburg,Bayer Leverkusen
+FC Cologne,Borussia M.Gladbach
+Hoffenheim,Freiburg
+Bayern Munich,Paderborn
+Werder Bremen,Schalke 04
+Eintracht Frankfurt,Mainz 05
+Borussia Dortmund,VfB Stuttgart
+Bayer Leverkusen,Augsburg
+Borussia M.Gladbach,Hamburger SV
+Hannover 96,FC Cologne
+Hertha Berlin,Wolfsburg
+Mainz 05,Hoffenheim
+Freiburg,Bayer Leverkusen
+VfB Stuttgart,Hannover 96
+Schalke 04,Borussia Dortmund
+FC Cologne,Bayern Munich
+Paderborn,Borussia M.Gladbach
+Wolfsburg,Werder Bremen
+Augsburg,Hertha Berlin
+Hamburger SV,Eintracht Frankfurt
+Hertha Berlin,VfB Stuttgart
+Werder Bremen,Freiburg
+Bayern Munich,Hannover 96
+Borussia Dortmund,Hamburger SV
+Bayer Leverkusen,Paderborn
+Hoffenheim,Schalke 04
+Eintracht Frankfurt,FC Cologne
+Wolfsburg,Augsburg
+Borussia M.Gladbach,Mainz 05
+Bayern Munich,Werder Bremen
+Mainz 05,Augsburg
+Hannover 96,Borussia M.Gladbach
+Freiburg,Wolfsburg
+VfB Stuttgart,Bayer Leverkusen
+FC Cologne,Borussia Dortmund
+Schalke 04,Hertha Berlin
+Hamburger SV,Hoffenheim
+Paderborn,Eintracht Frankfurt
+Werder Bremen,FC Cologne
+Eintracht Frankfurt,VfB Stuttgart
+Augsburg,Freiburg
+Hoffenheim,Paderborn
+Hertha Berlin,Hamburger SV
+Borussia Dortmund,Hannover 96
+Bayer Leverkusen,Schalke 04
+Wolfsburg,Mainz 05
+Borussia M.Gladbach,Bayern Munich
+Schalke 04,Augsburg
+Mainz 05,Werder Bremen
+Hannover 96,Eintracht Frankfurt
+VfB Stuttgart,Wolfsburg
+Hamburger SV,Bayer Leverkusen
+Bayern Munich,Borussia Dortmund
+Borussia M.Gladbach,Hoffenheim
+FC Cologne,Freiburg
+Paderborn,Hertha Berlin
+Hertha Berlin,Hannover 96
+Augsburg,Paderborn
+Hoffenheim,FC Cologne
+Bayer Leverkusen,Mainz 05
+Eintracht Frankfurt,Bayern Munich
+Freiburg,Schalke 04
+Werder Bremen,VfB Stuttgart
+Wolfsburg,Hamburger SV
+Borussia Dortmund,Borussia M.Gladbach
+Bayern Munich,Hoffenheim
+Schalke 04,Wolfsburg
+Borussia M.Gladbach,Eintracht Frankfurt
+Mainz 05,Freiburg
+Hannover 96,Bayer Leverkusen
+Paderborn,Borussia Dortmund
+FC Cologne,Hertha Berlin
+Hamburger SV,Werder Bremen
+VfB Stuttgart,Augsburg
+Freiburg,VfB Stuttgart
+Augsburg,Hamburger SV
+Schalke 04,Mainz 05
+Bayer Leverkusen,FC Cologne
+Hertha Berlin,Bayern Munich
+Werder Bremen,Paderborn
+Hoffenheim,Hannover 96
+Wolfsburg,Borussia M.Gladbach
+Eintracht Frankfurt,Borussia Dortmund
+Borussia Dortmund,Hoffenheim
+Borussia M.Gladbach,Hertha Berlin
+Hannover 96,Wolfsburg
+VfB Stuttgart,Schalke 04
+Paderborn,Freiburg
+FC Cologne,Augsburg
+Bayern Munich,Bayer Leverkusen
+Hamburger SV,Mainz 05
+Eintracht Frankfurt,Werder Bremen
+Hoffenheim,Eintracht Frankfurt
+Hertha Berlin,Borussia Dortmund
+Werder Bremen,Hannover 96
+Augsburg,Bayern Munich
+Schalke 04,FC Cologne
+Freiburg,Hamburger SV
+Mainz 05,VfB Stuttgart
+Bayer Leverkusen,Borussia M.Gladbach
+Wolfsburg,Paderborn
+Hannover 96,Augsburg
+Hamburger SV,VfB Stuttgart
+FC Cologne,Mainz 05
+Bayern Munich,Freiburg
+Eintracht Frankfurt,Hertha Berlin
+Borussia Dortmund,Wolfsburg
+Borussia M.Gladbach,Werder Bremen
+Hoffenheim,Bayer Leverkusen
+Paderborn,Schalke 04
+Mainz 05,Bayern Munich
+Augsburg,Borussia M.Gladbach
+Werder Bremen,Borussia Dortmund
+Schalke 04,Hamburger SV
+Bayer Leverkusen,Eintracht Frankfurt
+VfB Stuttgart,Paderborn
+Wolfsburg,FC Cologne
+Hertha Berlin,Hoffenheim
+Freiburg,Hannover 96
+Wolfsburg,Bayern Munich
+Mainz 05,Paderborn
+Freiburg,Eintracht Frankfurt
+VfB Stuttgart,Borussia M.Gladbach
+Hamburger SV,FC Cologne
+Schalke 04,Hannover 96
+Bayer Leverkusen,Borussia Dortmund
+Werder Bremen,Hertha Berlin
+Augsburg,Hoffenheim
+Hannover 96,Mainz 05
+Eintracht Frankfurt,Wolfsburg
+Bayern Munich,Schalke 04
+Borussia M.Gladbach,Freiburg
+Borussia Dortmund,Augsburg
+FC Cologne,VfB Stuttgart
+Paderborn,Hamburger SV
+Hertha Berlin,Bayer Leverkusen
+Hoffenheim,Werder Bremen
+Schalke 04,Borussia M.Gladbach
+FC Cologne,Paderborn
+Freiburg,Borussia Dortmund
+VfB Stuttgart,Bayern Munich
+Mainz 05,Hertha Berlin
+Wolfsburg,Hoffenheim
+Hamburger SV,Hannover 96
+Werder Bremen,Bayer Leverkusen
+Augsburg,Eintracht Frankfurt
+Borussia Dortmund,Mainz 05
+Borussia M.Gladbach,FC Cologne
+Bayer Leverkusen,Wolfsburg
+Hoffenheim,VfB Stuttgart
+Werder Bremen,Augsburg
+Bayern Munich,Hamburger SV
+Eintracht Frankfurt,Schalke 04
+Hertha Berlin,Freiburg
+Hannover 96,Paderborn
+VfB Stuttgart,Borussia Dortmund
+Freiburg,Hoffenheim
+Augsburg,Bayer Leverkusen
+Mainz 05,Eintracht Frankfurt
+Schalke 04,Werder Bremen
+Paderborn,Bayern Munich
+FC Cologne,Hannover 96
+Hamburger SV,Borussia M.Gladbach
+Wolfsburg,Hertha Berlin
+Bayern Munich,FC Cologne
+Borussia Dortmund,Schalke 04
+Bayer Leverkusen,Freiburg
+Hoffenheim,Mainz 05
+Hannover 96,VfB Stuttgart
+Hertha Berlin,Augsburg
+Eintracht Frankfurt,Hamburger SV
+Borussia M.Gladbach,Paderborn
+Werder Bremen,Wolfsburg
+VfB Stuttgart,Hertha Berlin
+Hamburger SV,Borussia Dortmund
+Augsburg,Wolfsburg
+Hannover 96,Bayern Munich
+Freiburg,Werder Bremen
+Schalke 04,Hoffenheim
+Mainz 05,Borussia M.Gladbach
+FC Cologne,Eintracht Frankfurt
+Paderborn,Bayer Leverkusen
+Bayer Leverkusen,VfB Stuttgart
+Augsburg,Mainz 05
+Hoffenheim,Hamburger SV
+Hertha Berlin,Schalke 04
+Werder Bremen,Bayern Munich
+Eintracht Frankfurt,Paderborn
+Borussia Dortmund,FC Cologne
+Wolfsburg,Freiburg
+Borussia M.Gladbach,Hannover 96
+Hamburger SV,Hertha Berlin
+FC Cologne,Werder Bremen
+Paderborn,Hoffenheim
+Hannover 96,Borussia Dortmund
+Freiburg,Augsburg
+VfB Stuttgart,Eintracht Frankfurt
+Schalke 04,Bayer Leverkusen
+Mainz 05,Wolfsburg
+Bayern Munich,Borussia M.Gladbach
+Werder Bremen,Mainz 05
+Eintracht Frankfurt,Hannover 96
+Freiburg,FC Cologne
+Hoffenheim,Borussia M.Gladbach
+Bayer Leverkusen,Hamburger SV
+Wolfsburg,VfB Stuttgart
+Borussia Dortmund,Bayern Munich
+Augsburg,Schalke 04
+Hertha Berlin,Paderborn
+Hannover 96,Hertha Berlin
+Bayern Munich,Eintracht Frankfurt
+Schalke 04,Freiburg
+Borussia M.Gladbach,Borussia Dortmund
+Mainz 05,Bayer Leverkusen
+Paderborn,Augsburg
+Hamburger SV,Wolfsburg
+FC Cologne,Hoffenheim
+VfB Stuttgart,Werder Bremen
+Eintracht Frankfurt,Borussia M.Gladbach
+Freiburg,Mainz 05
+Hoffenheim,Bayern Munich
+Hertha Berlin,FC Cologne
+Borussia Dortmund,Paderborn
+Bayer Leverkusen,Hannover 96
+Augsburg,VfB Stuttgart
+Werder Bremen,Hamburger SV
+Wolfsburg,Schalke 04
+Mainz 05,Schalke 04
+Hannover 96,Hoffenheim
+VfB Stuttgart,Freiburg
+Hamburger SV,Augsburg
+FC Cologne,Bayer Leverkusen
+Borussia Dortmund,Eintracht Frankfurt
+Bayern Munich,Hertha Berlin
+Paderborn,Werder Bremen
+Borussia M.Gladbach,Wolfsburg
+Schalke 04,VfB Stuttgart
+Wolfsburg,Hannover 96
+Augsburg,FC Cologne
+Hoffenheim,Borussia Dortmund
+Werder Bremen,Eintracht Frankfurt
+Freiburg,Paderborn
+Bayer Leverkusen,Bayern Munich
+Mainz 05,Hamburger SV
+Hertha Berlin,Borussia M.Gladbach
+Hamburger SV,Freiburg
+Bayern Munich,Augsburg
+Borussia Dortmund,Hertha Berlin
+Borussia M.Gladbach,Bayer Leverkusen
+Hannover 96,Werder Bremen
+Eintracht Frankfurt,Hoffenheim
+VfB Stuttgart,Mainz 05
+Paderborn,Wolfsburg
+FC Cologne,Schalke 04
+Schalke 04,Paderborn
+Bayer Leverkusen,Hoffenheim
+Wolfsburg,Borussia Dortmund
+Augsburg,Hannover 96
+Mainz 05,FC Cologne
+Werder Bremen,Borussia M.Gladbach
+Hertha Berlin,Eintracht Frankfurt
+VfB Stuttgart,Hamburger SV
+Freiburg,Bayern Munich
+FC Cologne,Wolfsburg
+Hamburger SV,Schalke 04
+Eintracht Frankfurt,Bayer Leverkusen
+Hannover 96,Freiburg
+Hoffenheim,Hertha Berlin
+Borussia M.Gladbach,Augsburg
+Bayern Munich,Mainz 05
+Borussia Dortmund,Werder Bremen
+Paderborn,VfB Stuttgart

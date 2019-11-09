@@ -1,0 +1,381 @@
+Teams
+Eibar - Barcelona
+Real Madrid - Betis
+Alaves - Girona
+Celta Vigo - Rayo Vallecano
+Huesca - Leganes
+Espanyol - Real Sociedad
+Getafe - Villarreal
+Sevilla - Ath Bilbao
+Valladolid - Valencia
+Levante - Atl. Madrid
+Ath Bilbao - Celta Vigo
+Atl. Madrid - Sevilla
+Barcelona - Getafe
+Betis - Huesca
+Girona - Levante
+Leganes - Espanyol
+Rayo Vallecano - Valladolid
+Real Sociedad - Real Madrid
+Valencia - Alaves
+Villarreal - Eibar
+Huesca - Valencia
+Valladolid - Ath Bilbao
+Real Madrid - Villarreal
+Eibar - Betis
+Getafe - Girona
+Celta Vigo - Barcelona
+Alaves - Real Sociedad
+Espanyol - Atl. Madrid
+Levante - Rayo Vallecano
+Sevilla - Leganes
+Betis - Espanyol
+Rayo Vallecano - Real Madrid
+Villarreal - Huesca
+Real Sociedad - Getafe
+Girona - Sevilla
+Valencia - Eibar
+Barcelona - Levante
+Leganes - Celta Vigo
+Atl. Madrid - Valladolid
+Ath Bilbao - Alaves
+Getafe - Real Madrid
+Real Sociedad - Villarreal
+Sevilla - Rayo Vallecano
+Levante - Betis
+Espanyol - Celta Vigo
+Leganes - Ath Bilbao
+Atl. Madrid - Valencia
+Alaves - Barcelona
+Valladolid - Girona
+Huesca - Eibar
+Betis - Valencia
+Villarreal - Leganes
+Real Madrid - Ath Bilbao
+Getafe - Sevilla
+Levante - Espanyol
+Barcelona - Real Sociedad
+Rayo Vallecano - Huesca
+Eibar - Atl. Madrid
+Celta Vigo - Girona
+Alaves - Valladolid
+Leganes - Real Madrid
+Valencia - Levante
+Girona - Villarreal
+Real Sociedad - Eibar
+Ath Bilbao - Rayo Vallecano
+Valladolid - Getafe
+Sevilla - Betis
+Atl. Madrid - Celta Vigo
+Huesca - Barcelona
+Espanyol - Alaves
+Betis - Villarreal
+Celta Vigo - Real Sociedad
+Levante - Huesca
+Valladolid - Sevilla
+Getafe - Ath Bilbao
+Alaves - Leganes
+Barcelona - Atl. Madrid
+Rayo Vallecano - Valencia
+Real Madrid - Eibar
+Girona - Espanyol
+Real Sociedad - Betis
+Leganes - Valladolid
+Sevilla - Alaves
+Valencia - Real Madrid
+Eibar - Rayo Vallecano
+Huesca - Celta Vigo
+Ath Bilbao - Levante
+Villarreal - Barcelona
+Espanyol - Getafe
+Atl. Madrid - Girona
+Real Madrid - Huesca
+Valladolid - Real Sociedad
+Sevilla - Valencia
+Rayo Vallecano - Betis
+Levante - Eibar
+Alaves - Atl. Madrid
+Celta Vigo - Villarreal
+Barcelona - Espanyol
+Getafe - Leganes
+Girona - Ath Bilbao
+Betis - Barcelona
+Valencia - Getafe
+Villarreal - Rayo Vallecano
+Espanyol - Sevilla
+Eibar - Valladolid
+Leganes - Girona
+Ath Bilbao - Atl. Madrid
+Real Madrid - Celta Vigo
+Huesca - Alaves
+Real Sociedad - Levante
+Valladolid - Real Madrid
+Levante - Villarreal
+Sevilla - Real Sociedad
+Girona - Valencia
+Celta Vigo - Betis
+Getafe - Huesca
+Barcelona - Rayo Vallecano
+Atl. Madrid - Leganes
+Alaves - Eibar
+Ath Bilbao - Espanyol
+Leganes - Levante
+Valencia - Ath Bilbao
+Real Sociedad - Atl. Madrid
+Betis - Getafe
+Eibar - Celta Vigo
+Real Madrid - Barcelona
+Huesca - Sevilla
+Villarreal - Alaves
+Espanyol - Valladolid
+Rayo Vallecano - Girona
+Girona - Real Sociedad
+Levante - Real Madrid
+Valladolid - Betis
+Atl. Madrid - Villarreal
+Leganes - Valencia
+Ath Bilbao - Eibar
+Alaves - Celta Vigo
+Sevilla - Barcelona
+Getafe - Rayo Vallecano
+Espanyol - Huesca
+Huesca - Ath Bilbao
+Betis - Alaves
+Villarreal - Sevilla
+Valencia - Espanyol
+Real Madrid - Girona
+Barcelona - Valladolid
+Real Sociedad - Leganes
+Rayo Vallecano - Atl. Madrid
+Celta Vigo - Levante
+Eibar - Getafe
+Alaves - Levante
+Ath Bilbao - Barcelona
+Sevilla - Eibar
+Valencia - Real Sociedad
+Leganes - Betis
+Girona - Huesca
+Espanyol - Rayo Vallecano
+Atl. Madrid - Real Madrid
+Getafe - Celta Vigo
+Valladolid - Villarreal
+Rayo Vallecano - Leganes
+Real Madrid - Alaves
+Eibar - Girona
+Betis - Atl. Madrid
+Villarreal - Espanyol
+Celta Vigo - Sevilla
+Barcelona - Valencia
+Real Sociedad - Ath Bilbao
+Levante - Getafe
+Huesca - Valladolid
+Alaves - Rayo Vallecano
+Espanyol - Real Madrid
+Ath Bilbao - Betis
+Real Sociedad - Huesca
+Girona - Barcelona
+Valladolid - Celta Vigo
+Valencia - Villarreal
+Leganes - Eibar
+Atl. Madrid - Getafe
+Sevilla - Levante
+Eibar - Espanyol
+Barcelona - Leganes
+Levante - Valladolid
+Rayo Vallecano - Real Sociedad
+Villarreal - Ath Bilbao
+Betis - Girona
+Celta Vigo - Valencia
+Huesca - Atl. Madrid
+Real Madrid - Sevilla
+Getafe - Alaves
+Real Sociedad - Espanyol
+Betis - Real Madrid
+Barcelona - Eibar
+Ath Bilbao - Sevilla
+Atl. Madrid - Levante
+Villarreal - Getafe
+Girona - Alaves
+Valencia - Valladolid
+Leganes - Huesca
+Rayo Vallecano - Celta Vigo
+Celta Vigo - Ath Bilbao
+Getafe - Barcelona
+Real Madrid - Real Sociedad
+Sevilla - Atl. Madrid
+Eibar - Villarreal
+Huesca - Betis
+Alaves - Valencia
+Valladolid - Rayo Vallecano
+Espanyol - Leganes
+Levante - Girona
+Villarreal - Real Madrid
+Rayo Vallecano - Levante
+Leganes - Sevilla
+Valencia - Huesca
+Ath Bilbao - Valladolid
+Barcelona - Celta Vigo
+Atl. Madrid - Espanyol
+Betis - Eibar
+Real Sociedad - Alaves
+Girona - Getafe
+Alaves - Ath Bilbao
+Levante - Barcelona
+Huesca - Villarreal
+Espanyol - Betis
+Sevilla - Girona
+Eibar - Valencia
+Real Madrid - Rayo Vallecano
+Valladolid - Atl. Madrid
+Getafe - Real Sociedad
+Celta Vigo - Leganes
+Ath Bilbao - Girona
+Betis - Rayo Vallecano
+Real Sociedad - Valladolid
+Huesca - Real Madrid
+Eibar - Levante
+Espanyol - Barcelona
+Villarreal - Celta Vigo
+Valencia - Sevilla
+Atl. Madrid - Alaves
+Leganes - Getafe
+Levante - Ath Bilbao
+Alaves - Sevilla
+Barcelona - Villarreal
+Girona - Atl. Madrid
+Betis - Real Sociedad
+Real Madrid - Valencia
+Getafe - Espanyol
+Valladolid - Leganes
+Celta Vigo - Huesca
+Rayo Vallecano - Eibar
+Real Sociedad - Celta Vigo
+Villarreal - Betis
+Espanyol - Girona
+Sevilla - Valladolid
+Ath Bilbao - Getafe
+Atl. Madrid - Barcelona
+Huesca - Levante
+Valencia - Rayo Vallecano
+Eibar - Real Madrid
+Leganes - Alaves
+Celta Vigo - Real Madrid
+Rayo Vallecano - Villarreal
+Sevilla - Espanyol
+Barcelona - Betis
+Alaves - Huesca
+Girona - Leganes
+Atl. Madrid - Ath Bilbao
+Getafe - Valencia
+Valladolid - Eibar
+Levante - Real Sociedad
+Espanyol - Ath Bilbao
+Betis - Celta Vigo
+Huesca - Getafe
+Real Sociedad - Sevilla
+Villarreal - Levante
+Eibar - Alaves
+Rayo Vallecano - Barcelona
+Valencia - Girona
+Real Madrid - Valladolid
+Leganes - Atl. Madrid
+Sevilla - Huesca
+Alaves - Villarreal
+Barcelona - Real Madrid
+Getafe - Betis
+Atl. Madrid - Real Sociedad
+Celta Vigo - Eibar
+Levante - Leganes
+Ath Bilbao - Valencia
+Girona - Rayo Vallecano
+Valladolid - Espanyol
+Rayo Vallecano - Ath Bilbao
+Real Sociedad - Girona
+Betis - Valladolid
+Huesca - Espanyol
+Eibar - Ath Bilbao
+Rayo Vallecano - Getafe
+Barcelona - Sevilla
+Villarreal - Atl. Madrid
+Valencia - Leganes
+Real Madrid - Levante
+Celta Vigo - Alaves
+Valencia - Barcelona
+Espanyol - Villarreal
+Sevilla - Celta Vigo
+Atl. Madrid - Betis
+Valladolid - Huesca
+Leganes - Rayo Vallecano
+Alaves - Real Madrid
+Getafe - Levante
+Girona - Eibar
+Ath Bilbao - Real Sociedad
+Celta Vigo - Getafe
+Betis - Leganes
+Levante - Alaves
+Villarreal - Valladolid
+Huesca - Girona
+Real Madrid - Atl. Madrid
+Eibar - Sevilla
+Barcelona - Ath Bilbao
+Real Sociedad - Valencia
+Rayo Vallecano - Espanyol
+Girona - Betis
+Alaves - Getafe
+Valladolid - Levante
+Sevilla - Real Madrid
+Valencia - Celta Vigo
+Ath Bilbao - Villarreal
+Leganes - Barcelona
+Atl. Madrid - Huesca
+Real Sociedad - Rayo Vallecano
+Espanyol - Eibar
+Barcelona - Girona
+Betis - Ath Bilbao
+Villarreal - Valencia
+Levante - Sevilla
+Real Madrid - Espanyol
+Getafe - Atl. Madrid
+Celta Vigo - Valladolid
+Eibar - Leganes
+Rayo Vallecano - Alaves
+Huesca - Real Sociedad
+Girona - Celta Vigo
+Sevilla - Getafe
+Valladolid - Alaves
+Espanyol - Levante
+Leganes - Villarreal
+Ath Bilbao - Real Madrid
+Valencia - Betis
+Real Sociedad - Barcelona
+Atl. Madrid - Eibar
+Huesca - Rayo Vallecano
+Betis - Sevilla
+Barcelona - Huesca
+Alaves - Espanyol
+Levante - Valencia
+Real Madrid - Leganes
+Celta Vigo - Atl. Madrid
+Eibar - Real Sociedad
+Villarreal - Girona
+Getafe - Valladolid
+Ath Bilbao - Huesca
+Levante - Celta Vigo
+Girona - Real Madrid
+Sevilla - Villarreal
+Espanyol - Valencia
+Valladolid - Barcelona
+Atl. Madrid - Rayo Vallecano
+Alaves - Betis
+Leganes - Real Sociedad
+Getafe - Eibar
+Ath Bilbao - Leganes
+Valencia - Atl. Madrid
+Real Madrid - Getafe
+Rayo Vallecano - Sevilla
+Eibar - Huesca
+Barcelona - Alaves
+Villarreal - Real Sociedad
+Celta Vigo - Espanyol
+Betis - Levante
+Girona - Valladolid

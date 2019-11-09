@@ -1,0 +1,381 @@
+Home,Away
+Juventus,Cagliari
+Verona,Napoli
+Atalanta,Roma
+Bologna,Torino
+Inter,Fiorentina
+Lazio,SPAL 2013
+Sampdoria,Benevento
+Sassuolo,Genoa
+Udinese,Chievo
+Crotone,AC Milan
+Genoa,Juventus
+Benevento,Bologna
+Roma,Inter
+Torino,Sassuolo
+SPAL 2013,Udinese
+AC Milan,Cagliari
+Napoli,Atalanta
+Chievo,Lazio
+Crotone,Verona
+Fiorentina,Sampdoria
+Juventus,Chievo
+Inter,SPAL 2013
+Atalanta,Sassuolo
+Cagliari,Crotone
+Verona,Fiorentina
+Udinese,Genoa
+Lazio,AC Milan
+Benevento,Torino
+Bologna,Napoli
+Crotone,Inter
+Fiorentina,Bologna
+Roma,Verona
+Sassuolo,Juventus
+AC Milan,Udinese
+Napoli,Benevento
+SPAL 2013,Cagliari
+Torino,Sampdoria
+Chievo,Atalanta
+Genoa,Lazio
+Bologna,Inter
+Benevento,Roma
+Atalanta,Crotone
+Cagliari,Sassuolo
+Genoa,Chievo
+Verona,Sampdoria
+Juventus,Fiorentina
+Lazio,Napoli
+AC Milan,SPAL 2013
+Udinese,Torino
+Roma,Udinese
+SPAL 2013,Napoli
+Juventus,Torino
+Sampdoria,AC Milan
+Cagliari,Chievo
+Crotone,Benevento
+Verona,Lazio
+Inter,Genoa
+Sassuolo,Bologna
+Fiorentina,Atalanta
+Udinese,Sampdoria
+Genoa,Bologna
+Napoli,Cagliari
+Benevento,Inter
+Chievo,Fiorentina
+Lazio,Sassuolo
+SPAL 2013,Crotone
+Torino,Verona
+AC Milan,Roma
+Atalanta,Juventus
+Juventus,Lazio
+Roma,Napoli
+Fiorentina,Udinese
+Bologna,SPAL 2013
+Cagliari,Genoa
+Crotone,Torino
+Sampdoria,Atalanta
+Sassuolo,Chievo
+Inter,AC Milan
+Verona,Benevento
+Sampdoria,Crotone
+Napoli,Inter
+Atalanta,Bologna
+Benevento,Fiorentina
+AC Milan,Genoa
+SPAL 2013,Sassuolo
+Torino,Roma
+Udinese,Juventus
+Chievo,Verona
+Lazio,Cagliari
+Inter,Sampdoria
+Atalanta,Verona
+Bologna,Lazio
+Cagliari,Benevento
+Chievo,AC Milan
+Fiorentina,Torino
+Genoa,Napoli
+Juventus,SPAL 2013
+Roma,Crotone
+Sassuolo,Udinese
+AC Milan,Juventus
+Roma,Bologna
+Benevento,Lazio
+Crotone,Fiorentina
+Napoli,Sassuolo
+Sampdoria,Chievo
+SPAL 2013,Genoa
+Udinese,Atalanta
+Torino,Cagliari
+Verona,Inter
+Bologna,Crotone
+Genoa,Sampdoria
+Inter,Torino
+Cagliari,Verona
+Chievo,Napoli
+Fiorentina,Roma
+Juventus,Benevento
+Atalanta,SPAL 2013
+Sassuolo,AC Milan
+Roma,Lazio
+Napoli,AC Milan
+Crotone,Genoa
+Benevento,Sassuolo
+Sampdoria,Juventus
+SPAL 2013,Fiorentina
+Torino,Chievo
+Udinese,Cagliari
+Inter,Atalanta
+Verona,Bologna
+Bologna,Sampdoria
+Chievo,SPAL 2013
+Sassuolo,Verona
+Cagliari,Inter
+Genoa,Roma
+AC Milan,Torino
+Udinese,Napoli
+Lazio,Fiorentina
+Juventus,Crotone
+Atalanta,Benevento
+Roma,SPAL 2013
+Napoli,Juventus
+Torino,Atalanta
+Benevento,AC Milan
+Bologna,Cagliari
+Fiorentina,Sassuolo
+Inter,Chievo
+Sampdoria,Lazio
+Crotone,Udinese
+Verona,Genoa
+Cagliari,Sampdoria
+Juventus,Inter
+Chievo,Roma
+Napoli,Fiorentina
+SPAL 2013,Verona
+Udinese,Benevento
+Sassuolo,Crotone
+AC Milan,Bologna
+Lazio,Torino
+Genoa,Atalanta
+Inter,Udinese
+Torino,Napoli
+Roma,Cagliari
+Verona,AC Milan
+Bologna,Juventus
+Crotone,Chievo
+Fiorentina,Genoa
+Sampdoria,Sassuolo
+Benevento,SPAL 2013
+Atalanta,Lazio
+Chievo,Bologna
+Cagliari,Fiorentina
+Lazio,Crotone
+Genoa,Benevento
+Napoli,Sampdoria
+Sassuolo,Inter
+SPAL 2013,Torino
+Udinese,Verona
+AC Milan,Atalanta
+Juventus,Roma
+Crotone,Napoli
+Fiorentina,AC Milan
+Atalanta,Cagliari
+Benevento,Chievo
+Bologna,Udinese
+Roma,Sassuolo
+Sampdoria,SPAL 2013
+Torino,Genoa
+Inter,Lazio
+Verona,Juventus
+Chievo,Udinese
+Fiorentina,Inter
+Torino,Bologna
+AC Milan,Crotone
+Napoli,Verona
+SPAL 2013,Lazio
+Benevento,Sampdoria
+Genoa,Sassuolo
+Roma,Atalanta
+Cagliari,Juventus
+Atalanta,Napoli
+Bologna,Benevento
+Lazio,Chievo
+Verona,Crotone
+Sampdoria,Fiorentina
+Udinese,SPAL 2013
+Sassuolo,Torino
+Cagliari,AC Milan
+Inter,Roma
+Juventus,Genoa
+Lazio,Udinese
+Sampdoria,Roma
+Sassuolo,Atalanta
+Torino,Benevento
+Napoli,Bologna
+Crotone,Cagliari
+Fiorentina,Verona
+SPAL 2013,Inter
+Chievo,Juventus
+AC Milan,Lazio
+Roma,Sampdoria
+Genoa,Udinese
+Sampdoria,Torino
+Inter,Crotone
+Verona,Roma
+Atalanta,Chievo
+Bologna,Fiorentina
+Udinese,AC Milan
+Juventus,Sassuolo
+Cagliari,SPAL 2013
+Benevento,Napoli
+Lazio,Genoa
+Fiorentina,Juventus
+SPAL 2013,AC Milan
+Crotone,Atalanta
+Napoli,Lazio
+Sassuolo,Cagliari
+Inter,Bologna
+Chievo,Genoa
+Sampdoria,Verona
+Torino,Udinese
+Roma,Benevento
+Udinese,Roma
+Chievo,Cagliari
+Genoa,Inter
+Torino,Juventus
+Bologna,Sassuolo
+Napoli,SPAL 2013
+Benevento,Crotone
+Atalanta,Fiorentina
+AC Milan,Sampdoria
+Lazio,Verona
+Bologna,Genoa
+Inter,Benevento
+Crotone,SPAL 2013
+Sampdoria,Udinese
+Verona,Torino
+Sassuolo,Lazio
+Fiorentina,Chievo
+Roma,AC Milan
+Cagliari,Napoli
+SPAL 2013,Bologna
+Lazio,Juventus
+Napoli,Roma
+Roma,Torino
+Verona,Chievo
+Fiorentina,Benevento
+Bologna,Atalanta
+Cagliari,Lazio
+Crotone,Sampdoria
+Sassuolo,SPAL 2013
+Juventus,Udinese
+Genoa,AC Milan
+Inter,Napoli
+Juventus,Atalanta
+Udinese,Sassuolo
+SPAL 2013,Juventus
+Sampdoria,Inter
+Verona,Atalanta
+Benevento,Cagliari
+AC Milan,Chievo
+Torino,Fiorentina
+Crotone,Roma
+Lazio,Bologna
+Napoli,Genoa
+Bologna,Roma
+Lazio,Benevento
+Fiorentina,Crotone
+Inter,Verona
+Sassuolo,Napoli
+Chievo,Sampdoria
+Genoa,SPAL 2013
+Atalanta,Udinese
+Cagliari,Torino
+Juventus,AC Milan
+Genoa,Cagliari
+Udinese,Fiorentina
+Atalanta,Sampdoria
+Benevento,Verona
+Torino,Crotone
+AC Milan,Inter
+Chievo,Sassuolo
+Benevento,Juventus
+SPAL 2013,Atalanta
+Roma,Fiorentina
+Sampdoria,Genoa
+Torino,Inter
+Crotone,Bologna
+Verona,Cagliari
+Napoli,Chievo
+Udinese,Lazio
+AC Milan,Sassuolo
+Cagliari,Udinese
+Genoa,Crotone
+Chievo,Torino
+Atalanta,Inter
+Fiorentina,SPAL 2013
+Sassuolo,Benevento
+Bologna,Verona
+AC Milan,Napoli
+Juventus,Sampdoria
+Lazio,Roma
+Inter,Cagliari
+Benevento,Atalanta
+Sampdoria,Bologna
+SPAL 2013,Chievo
+Roma,Genoa
+Crotone,Juventus
+Fiorentina,Lazio
+Torino,AC Milan
+Verona,Sassuolo
+Napoli,Udinese
+SPAL 2013,Roma
+Sassuolo,Fiorentina
+AC Milan,Benevento
+Cagliari,Bologna
+Udinese,Crotone
+Chievo,Inter
+Lazio,Sampdoria
+Atalanta,Torino
+Juventus,Napoli
+Genoa,Verona
+Roma,Chievo
+Inter,Juventus
+Crotone,Sassuolo
+Sampdoria,Cagliari
+Atalanta,Genoa
+Bologna,AC Milan
+Benevento,Udinese
+Verona,SPAL 2013
+Fiorentina,Napoli
+Torino,Lazio
+AC Milan,Verona
+Juventus,Bologna
+Udinese,Inter
+Lazio,Atalanta
+SPAL 2013,Benevento
+Chievo,Crotone
+Genoa,Fiorentina
+Napoli,Torino
+Sassuolo,Sampdoria
+Cagliari,Roma
+Benevento,Genoa
+Inter,Sassuolo
+Fiorentina,Cagliari
+Bologna,Chievo
+Crotone,Lazio
+Torino,SPAL 2013
+Verona,Udinese
+Atalanta,AC Milan
+Roma,Juventus
+Sampdoria,Napoli
+Juventus,Verona
+Cagliari,Atalanta
+Chievo,Benevento
+Udinese,Bologna
+Napoli,Crotone
+AC Milan,Fiorentina
+Lazio,Inter
+Sassuolo,Roma
+SPAL 2013,Sampdoria
+Genoa,Torino

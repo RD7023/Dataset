@@ -1,0 +1,381 @@
+Home,Away
+Malaga,Athletic Club
+Sevilla,Valencia
+Granada,Deportivo La Coruna
+Almeria,Espanyol
+Eibar,Real Sociedad
+Barcelona,Elche
+Celta Vigo,Getafe
+Levante,Villarreal
+Real Madrid,Cordoba
+Rayo Vallecano,Atletico Madrid
+Getafe,Almeria
+Valencia,Malaga
+Cordoba,Celta Vigo
+Athletic Club,Levante
+Atletico Madrid,Eibar
+Espanyol,Sevilla
+Villarreal,Barcelona
+Deportivo La Coruna,Rayo Vallecano
+Real Sociedad,Real Madrid
+Elche,Granada
+Almeria,Cordoba
+Barcelona,Athletic Club
+Malaga,Levante
+Real Madrid,Atletico Madrid
+Celta Vigo,Real Sociedad
+Rayo Vallecano,Elche
+Valencia,Espanyol
+Sevilla,Getafe
+Granada,Villarreal
+Eibar,Deportivo La Coruna
+Elche,Eibar
+Deportivo La Coruna,Real Madrid
+Athletic Club,Granada
+Atletico Madrid,Celta Vigo
+Espanyol,Malaga
+Real Sociedad,Almeria
+Villarreal,Rayo Vallecano
+Cordoba,Sevilla
+Levante,Barcelona
+Getafe,Valencia
+Real Madrid,Elche
+Celta Vigo,Deportivo La Coruna
+Eibar,Villarreal
+Rayo Vallecano,Athletic Club
+Almeria,Atletico Madrid
+Sevilla,Real Sociedad
+Granada,Levante
+Malaga,Barcelona
+Espanyol,Getafe
+Valencia,Cordoba
+Elche,Celta Vigo
+Villarreal,Real Madrid
+Barcelona,Granada
+Atletico Madrid,Sevilla
+Athletic Club,Eibar
+Levante,Rayo Vallecano
+Getafe,Malaga
+Deportivo La Coruna,Almeria
+Real Sociedad,Valencia
+Cordoba,Espanyol
+Getafe,Cordoba
+Valencia,Atletico Madrid
+Rayo Vallecano,Barcelona
+Eibar,Levante
+Almeria,Elche
+Malaga,Granada
+Sevilla,Deportivo La Coruna
+Celta Vigo,Villarreal
+Espanyol,Real Sociedad
+Real Madrid,Athletic Club
+Granada,Rayo Vallecano
+Levante,Real Madrid
+Athletic Club,Celta Vigo
+Barcelona,Eibar
+Cordoba,Malaga
+Atletico Madrid,Espanyol
+Deportivo La Coruna,Valencia
+Elche,Sevilla
+Villarreal,Almeria
+Real Sociedad,Getafe
+Celta Vigo,Levante
+Almeria,Athletic Club
+Real Madrid,Barcelona
+Valencia,Elche
+Cordoba,Real Sociedad
+Eibar,Granada
+Malaga,Rayo Vallecano
+Espanyol,Deportivo La Coruna
+Sevilla,Villarreal
+Getafe,Atletico Madrid
+Deportivo La Coruna,Getafe
+Granada,Real Madrid
+Atletico Madrid,Cordoba
+Barcelona,Celta Vigo
+Real Sociedad,Malaga
+Athletic Club,Sevilla
+Villarreal,Valencia
+Levante,Almeria
+Elche,Espanyol
+Rayo Vallecano,Eibar
+Cordoba,Deportivo La Coruna
+Almeria,Barcelona
+Getafe,Elche
+Real Madrid,Rayo Vallecano
+Malaga,Eibar
+Celta Vigo,Granada
+Sevilla,Levante
+Espanyol,Villarreal
+Valencia,Athletic Club
+Real Sociedad,Atletico Madrid
+Athletic Club,Espanyol
+Atletico Madrid,Malaga
+Eibar,Real Madrid
+Barcelona,Sevilla
+Deportivo La Coruna,Real Sociedad
+Rayo Vallecano,Celta Vigo
+Levante,Valencia
+Elche,Cordoba
+Villarreal,Getafe
+Granada,Almeria
+Real Sociedad,Elche
+Getafe,Athletic Club
+Espanyol,Levante
+Malaga,Real Madrid
+Celta Vigo,Eibar
+Atletico Madrid,Deportivo La Coruna
+Sevilla,Granada
+Cordoba,Villarreal
+Valencia,Barcelona
+Almeria,Rayo Vallecano
+Elche,Atletico Madrid
+Athletic Club,Cordoba
+Real Madrid,Celta Vigo
+Deportivo La Coruna,Malaga
+Rayo Vallecano,Sevilla
+Barcelona,Espanyol
+Villarreal,Real Sociedad
+Granada,Valencia
+Eibar,Almeria
+Levante,Getafe
+Almeria,Real Madrid
+Getafe,Barcelona
+Valencia,Rayo Vallecano
+Cordoba,Levante
+Malaga,Celta Vigo
+Espanyol,Granada
+Sevilla,Eibar
+Atletico Madrid,Villarreal
+Real Sociedad,Athletic Club
+Deportivo La Coruna,Elche
+Celta Vigo,Almeria
+Barcelona,Cordoba
+Levante,Real Sociedad
+Eibar,Valencia
+Rayo Vallecano,Espanyol
+Villarreal,Deportivo La Coruna
+Granada,Getafe
+Elche,Malaga
+Athletic Club,Atletico Madrid
+Atletico Madrid,Levante
+Sevilla,Celta Vigo
+Elche,Villarreal
+Deportivo La Coruna,Athletic Club
+Malaga,Almeria
+Getafe,Rayo Vallecano
+Valencia,Real Madrid
+Espanyol,Eibar
+Real Sociedad,Barcelona
+Cordoba,Granada
+Levante,Deportivo La Coruna
+Real Madrid,Espanyol
+Malaga,Villarreal
+Celta Vigo,Valencia
+Eibar,Getafe
+Almeria,Sevilla
+Athletic Club,Elche
+Granada,Real Sociedad
+Barcelona,Atletico Madrid
+Rayo Vallecano,Cordoba
+Cordoba,Eibar
+Real Sociedad,Rayo Vallecano
+Valencia,Almeria
+Villarreal,Athletic Club
+Espanyol,Celta Vigo
+Getafe,Real Madrid
+Atletico Madrid,Granada
+Deportivo La Coruna,Barcelona
+Elche,Levante
+Sevilla,Malaga
+Cordoba,Real Madrid
+Elche,Barcelona
+Atletico Madrid,Rayo Vallecano
+Real Sociedad,Eibar
+Villarreal,Levante
+Deportivo La Coruna,Granada
+Athletic Club,Malaga
+Espanyol,Almeria
+Valencia,Sevilla
+Getafe,Celta Vigo
+Rayo Vallecano,Deportivo La Coruna
+Real Madrid,Real Sociedad
+Eibar,Atletico Madrid
+Granada,Elche
+Celta Vigo,Cordoba
+Levante,Athletic Club
+Almeria,Getafe
+Sevilla,Espanyol
+Barcelona,Villarreal
+Malaga,Valencia
+Real Madrid,Sevilla
+Deportivo La Coruna,Eibar
+Atletico Madrid,Real Madrid
+Villarreal,Granada
+Levante,Malaga
+Real Sociedad,Celta Vigo
+Cordoba,Almeria
+Getafe,Sevilla
+Espanyol,Valencia
+Athletic Club,Barcelona
+Elche,Rayo Vallecano
+Almeria,Real Sociedad
+Sevilla,Cordoba
+Real Madrid,Deportivo La Coruna
+Granada,Athletic Club
+Malaga,Espanyol
+Valencia,Getafe
+Barcelona,Levante
+Rayo Vallecano,Villarreal
+Celta Vigo,Atletico Madrid
+Eibar,Elche
+Getafe,Espanyol
+Barcelona,Malaga
+Cordoba,Valencia
+Atletico Madrid,Almeria
+Deportivo La Coruna,Celta Vigo
+Real Sociedad,Sevilla
+Athletic Club,Rayo Vallecano
+Villarreal,Eibar
+Elche,Real Madrid
+Levante,Granada
+Espanyol,Cordoba
+Granada,Barcelona
+Rayo Vallecano,Levante
+Almeria,Deportivo La Coruna
+Malaga,Getafe
+Valencia,Real Sociedad
+Eibar,Athletic Club
+Sevilla,Atletico Madrid
+Real Madrid,Villarreal
+Celta Vigo,Elche
+Levante,Eibar
+Deportivo La Coruna,Sevilla
+Athletic Club,Real Madrid
+Elche,Almeria
+Granada,Malaga
+Barcelona,Rayo Vallecano
+Real Sociedad,Espanyol
+Villarreal,Celta Vigo
+Atletico Madrid,Valencia
+Cordoba,Getafe
+Valencia,Deportivo La Coruna
+Espanyol,Atletico Madrid
+Eibar,Barcelona
+Rayo Vallecano,Granada
+Celta Vigo,Athletic Club
+Almeria,Villarreal
+Malaga,Cordoba
+Sevilla,Elche
+Real Madrid,Levante
+Getafe,Real Sociedad
+Elche,Valencia
+Atletico Madrid,Getafe
+Rayo Vallecano,Malaga
+Levante,Celta Vigo
+Athletic Club,Almeria
+Granada,Eibar
+Deportivo La Coruna,Espanyol
+Villarreal,Sevilla
+Real Sociedad,Cordoba
+Barcelona,Real Madrid
+Eibar,Rayo Vallecano
+Sevilla,Athletic Club
+Cordoba,Atletico Madrid
+Almeria,Levante
+Malaga,Real Sociedad
+Real Madrid,Granada
+Valencia,Villarreal
+Getafe,Deportivo La Coruna
+Celta Vigo,Barcelona
+Espanyol,Elche
+Atletico Madrid,Real Sociedad
+Levante,Sevilla
+Eibar,Malaga
+Barcelona,Almeria
+Deportivo La Coruna,Cordoba
+Granada,Celta Vigo
+Rayo Vallecano,Real Madrid
+Athletic Club,Valencia
+Elche,Getafe
+Villarreal,Espanyol
+Real Madrid,Eibar
+Malaga,Atletico Madrid
+Sevilla,Barcelona
+Almeria,Granada
+Celta Vigo,Rayo Vallecano
+Getafe,Villarreal
+Espanyol,Athletic Club
+Real Sociedad,Deportivo La Coruna
+Cordoba,Elche
+Valencia,Levante
+Levante,Espanyol
+Barcelona,Valencia
+Deportivo La Coruna,Atletico Madrid
+Real Madrid,Malaga
+Athletic Club,Getafe
+Rayo Vallecano,Almeria
+Granada,Sevilla
+Villarreal,Cordoba
+Eibar,Celta Vigo
+Elche,Real Sociedad
+Cordoba,Athletic Club
+Espanyol,Barcelona
+Atletico Madrid,Elche
+Getafe,Levante
+Real Sociedad,Villarreal
+Malaga,Deportivo La Coruna
+Almeria,Eibar
+Sevilla,Rayo Vallecano
+Celta Vigo,Real Madrid
+Valencia,Granada
+Barcelona,Getafe
+Athletic Club,Real Sociedad
+Levante,Cordoba
+Eibar,Sevilla
+Real Madrid,Almeria
+Celta Vigo,Malaga
+Elche,Deportivo La Coruna
+Villarreal,Atletico Madrid
+Rayo Vallecano,Valencia
+Granada,Espanyol
+Real Sociedad,Levante
+Cordoba,Barcelona
+Atletico Madrid,Athletic Club
+Sevilla,Real Madrid
+Deportivo La Coruna,Villarreal
+Espanyol,Rayo Vallecano
+Getafe,Granada
+Valencia,Eibar
+Malaga,Elche
+Almeria,Celta Vigo
+Eibar,Espanyol
+Granada,Cordoba
+Barcelona,Real Sociedad
+Real Madrid,Valencia
+Athletic Club,Deportivo La Coruna
+Levante,Atletico Madrid
+Villarreal,Elche
+Almeria,Malaga
+Celta Vigo,Sevilla
+Rayo Vallecano,Getafe
+Villarreal,Malaga
+Elche,Athletic Club
+Deportivo La Coruna,Levante
+Atletico Madrid,Barcelona
+Real Sociedad,Granada
+Cordoba,Rayo Vallecano
+Getafe,Eibar
+Espanyol,Real Madrid
+Valencia,Celta Vigo
+Sevilla,Almeria
+Levante,Elche
+Barcelona,Deportivo La Coruna
+Granada,Atletico Madrid
+Athletic Club,Villarreal
+Malaga,Sevilla
+Almeria,Valencia
+Rayo Vallecano,Real Sociedad
+Eibar,Cordoba
+Celta Vigo,Espanyol
+Real Madrid,Getafe

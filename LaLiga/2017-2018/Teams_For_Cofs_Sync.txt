@@ -1,0 +1,381 @@
+Teams
+Barcelona - Real Sociedad
+Atl. Madrid - Eibar
+Ath Bilbao - Espanyol
+Valencia - Dep. La Coruna
+Villarreal - Real Madrid
+Malaga - Getafe
+Sevilla - Alaves
+Las Palmas - Girona
+Leganes - Betis
+Celta Vigo - Levante
+Levante - Barcelona
+Espanyol - Malaga
+Real Madrid - Celta Vigo
+Alaves - Ath Bilbao
+Betis - Sevilla
+Dep. La Coruna - Villarreal
+Eibar - Las Palmas
+Getafe - Atl. Madrid
+Girona - Valencia
+Real Sociedad - Leganes
+Sevilla - Real Madrid
+Barcelona - Villarreal
+Leganes - Levante
+Barcelona - Real Madrid
+Las Palmas - Getafe
+Atl. Madrid - Espanyol
+Malaga - Alaves
+Villarreal - Valencia
+Celta Vigo - Dep. La Coruna
+Ath Bilbao - Betis
+Girona - Eibar
+Sevilla - Real Sociedad
+Betis - Malaga
+Dep. La Coruna - Barcelona
+Valencia - Eibar
+Alaves - Atl. Madrid
+Getafe - Girona
+Villarreal - Celta Vigo
+Real Madrid - Leganes
+Real Sociedad - Ath Bilbao
+Espanyol - Las Palmas
+Levante - Sevilla
+Ath Bilbao - Levante
+Atl. Madrid - Betis
+Las Palmas - Alaves
+Malaga - Real Sociedad
+Girona - Espanyol
+Celta Vigo - Valencia
+Eibar - Getafe
+Leganes - Dep. La Coruna
+Betis - Las Palmas
+Levante - Malaga
+Alaves - Girona
+Real Sociedad - Atl. Madrid
+Real Madrid - Ath Bilbao
+Espanyol - Eibar
+Valencia - Getafe
+Villarreal - Leganes
+Celta Vigo - Barcelona
+Dep. La Coruna - Sevilla
+Malaga - Real Madrid
+Getafe - Espanyol
+Atl. Madrid - Levante
+Eibar - Alaves
+Ath Bilbao - Dep. La Coruna
+Leganes - Celta Vigo
+Las Palmas - Real Sociedad
+Barcelona - Valencia
+Sevilla - Villarreal
+Girona - Betis
+Villarreal - Ath Bilbao
+Valencia - Espanyol
+Real Sociedad - Girona
+Real Madrid - Atl. Madrid
+Levante - Las Palmas
+Barcelona - Leganes
+Betis - Eibar
+Celta Vigo - Sevilla
+Alaves - Getafe
+Dep. La Coruna - Malaga
+Getafe - Betis
+Atl. Madrid - Dep. La Coruna
+Eibar - Real Sociedad
+Malaga - Villarreal
+Leganes - Valencia
+Espanyol - Alaves
+Sevilla - Barcelona
+Las Palmas - Real Madrid
+Ath Bilbao - Celta Vigo
+Girona - Levante
+Real Madrid - Girona
+Celta Vigo - Malaga
+Villarreal - Atl. Madrid
+Barcelona - Ath Bilbao
+Leganes - Sevilla
+Betis - Espanyol
+Real Sociedad - Getafe
+Valencia - Alaves
+Dep. La Coruna - Las Palmas
+Levante - Eibar
+Alaves - Betis
+Ath Bilbao - Leganes
+Las Palmas - Villarreal
+Atl. Madrid - Celta Vigo
+Espanyol - Real Sociedad
+Malaga - Barcelona
+Getafe - Levante
+Sevilla - Valencia
+Eibar - Real Madrid
+Girona - Dep. La Coruna
+Celta Vigo - Las Palmas
+Valencia - Betis
+Real Sociedad - Alaves
+Barcelona - Atl. Madrid
+Levante - Espanyol
+Real Madrid - Getafe
+Dep. La Coruna - Eibar
+Leganes - Malaga
+Sevilla - Ath Bilbao
+Villarreal - Girona
+Alaves - Levante
+Las Palmas - Barcelona
+Betis - Real Sociedad
+Atl. Madrid - Leganes
+Eibar - Villarreal
+Ath Bilbao - Valencia
+Getafe - Dep. La Coruna
+Malaga - Sevilla
+Girona - Celta Vigo
+Espanyol - Real Madrid
+Levante - Betis
+Sevilla - Atl. Madrid
+Valencia - Real Sociedad
+Ath Bilbao - Malaga
+Villarreal - Getafe
+Barcelona - Girona
+Leganes - Las Palmas
+Real Madrid - Alaves
+Celta Vigo - Eibar
+Dep. La Coruna - Espanyol
+Leganes - Real Madrid
+Getafe - Celta Vigo
+Betis - Real Madrid
+Espanyol - Villarreal
+Atl. Madrid - Ath Bilbao
+Real Sociedad - Levante
+Malaga - Valencia
+Alaves - Dep. La Coruna
+Eibar - Barcelona
+Las Palmas - Sevilla
+Girona - Leganes
+Dep. La Coruna - Betis
+Valencia - Levante
+Celta Vigo - Espanyol
+Barcelona - Getafe
+Sevilla - Girona
+Real Madrid - Real Sociedad
+Leganes - Eibar
+Malaga - Atl. Madrid
+Villarreal - Alaves
+Ath Bilbao - Las Palmas
+Las Palmas - Malaga
+Atl. Madrid - Valencia
+Girona - Ath Bilbao
+Espanyol - Barcelona
+Getafe - Leganes
+Levante - Real Madrid
+Alaves - Celta Vigo
+Betis - Villarreal
+Eibar - Sevilla
+Real Sociedad - Dep. La Coruna
+Celta Vigo - Betis
+Barcelona - Alaves
+Sevilla - Getafe
+Atl. Madrid - Las Palmas
+Leganes - Espanyol
+Villarreal - Real Sociedad
+Malaga - Girona
+Valencia - Real Madrid
+Dep. La Coruna - Levante
+Ath Bilbao - Eibar
+Eibar - Malaga
+Betis - Barcelona
+Real Sociedad - Celta Vigo
+Real Madrid - Dep. La Coruna
+Alaves - Leganes
+Las Palmas - Valencia
+Villarreal - Levante
+Atl. Madrid - Girona
+Espanyol - Sevilla
+Getafe - Ath Bilbao
+Betis - Leganes
+Real Sociedad - Barcelona
+Espanyol - Ath Bilbao
+Alaves - Sevilla
+Levante - Celta Vigo
+Dep. La Coruna - Valencia
+Eibar - Atl. Madrid
+Real Madrid - Villarreal
+Girona - Las Palmas
+Getafe - Malaga
+Malaga - Espanyol
+Celta Vigo - Real Madrid
+Ath Bilbao - Alaves
+Villarreal - Dep. La Coruna
+Barcelona - Levante
+Leganes - Real Sociedad
+Sevilla - Betis
+Las Palmas - Eibar
+Valencia - Girona
+Atl. Madrid - Getafe
+Dep. La Coruna - Celta Vigo
+Valencia - Villarreal
+Real Madrid - Barcelona
+Espanyol - Atl. Madrid
+Betis - Ath Bilbao
+Alaves - Malaga
+Eibar - Girona
+Real Sociedad - Sevilla
+Getafe - Las Palmas
+Levante - Leganes
+Malaga - Betis
+Barcelona - Dep. La Coruna
+Las Palmas - Espanyol
+Celta Vigo - Villarreal
+Girona - Getafe
+Atl. Madrid - Alaves
+Eibar - Valencia
+Ath Bilbao - Real Sociedad
+Sevilla - Levante
+Espanyol - Girona
+Villarreal - Barcelona
+Levante - Ath Bilbao
+Betis - Atl. Madrid
+Real Sociedad - Malaga
+Valencia - Celta Vigo
+Dep. La Coruna - Leganes
+Real Madrid - Sevilla
+Getafe - Eibar
+Alaves - Las Palmas
+Girona - Alaves
+Las Palmas - Betis
+Eibar - Espanyol
+Getafe - Valencia
+Leganes - Villarreal
+Ath Bilbao - Real Madrid
+Sevilla - Dep. La Coruna
+Atl. Madrid - Real Sociedad
+Barcelona - Celta Vigo
+Malaga - Levante
+Espanyol - Getafe
+Valencia - Barcelona
+Villarreal - Sevilla
+Real Sociedad - Las Palmas
+Dep. La Coruna - Ath Bilbao
+Levante - Atl. Madrid
+Betis - Girona
+Real Madrid - Malaga
+Alaves - Eibar
+Celta Vigo - Leganes
+Eibar - Betis
+Ath Bilbao - Villarreal
+Las Palmas - Levante
+Espanyol - Valencia
+Malaga - Dep. La Coruna
+Atl. Madrid - Real Madrid
+Sevilla - Celta Vigo
+Leganes - Barcelona
+Getafe - Alaves
+Girona - Real Sociedad
+Real Madrid - Las Palmas
+Real Sociedad - Eibar
+Villarreal - Malaga
+Celta Vigo - Ath Bilbao
+Levante - Girona
+Barcelona - Sevilla
+Alaves - Espanyol
+Dep. La Coruna - Atl. Madrid
+Valencia - Leganes
+Betis - Getafe
+Espanyol - Betis
+Las Palmas - Dep. La Coruna
+Malaga - Celta Vigo
+Eibar - Levante
+Girona - Real Madrid
+Getafe - Real Sociedad
+Sevilla - Leganes
+Ath Bilbao - Barcelona
+Atl. Madrid - Villarreal
+Alaves - Valencia
+Dep. La Coruna - Girona
+Real Sociedad - Espanyol
+Real Madrid - Eibar
+Leganes - Ath Bilbao
+Celta Vigo - Atl. Madrid
+Villarreal - Las Palmas
+Barcelona - Malaga
+Valencia - Sevilla
+Betis - Alaves
+Levante - Getafe
+Las Palmas - Celta Vigo
+Betis - Valencia
+Malaga - Leganes
+Girona - Villarreal
+Eibar - Dep. La Coruna
+Atl. Madrid - Barcelona
+Alaves - Real Sociedad
+Getafe - Real Madrid
+Ath Bilbao - Sevilla
+Espanyol - Levante
+Real Madrid - Espanyol
+Valencia - Ath Bilbao
+Villarreal - Eibar
+Barcelona - Las Palmas
+Real Sociedad - Betis
+Leganes - Atl. Madrid
+Levante - Alaves
+Sevilla - Malaga
+Dep. La Coruna - Getafe
+Celta Vigo - Girona
+Betis - Levante
+Real Sociedad - Valencia
+Eibar - Celta Vigo
+Las Palmas - Leganes
+Getafe - Villarreal
+Espanyol - Dep. La Coruna
+Girona - Barcelona
+Malaga - Ath Bilbao
+Alaves - Real Madrid
+Atl. Madrid - Sevilla
+Levante - Real Sociedad
+Celta Vigo - Getafe
+Villarreal - Espanyol
+Real Madrid - Betis
+Sevilla - Las Palmas
+Dep. La Coruna - Alaves
+Ath Bilbao - Atl. Madrid
+Leganes - Girona
+Barcelona - Eibar
+Valencia - Malaga
+Espanyol - Celta Vigo
+Real Sociedad - Real Madrid
+Las Palmas - Ath Bilbao
+Girona - Sevilla
+Alaves - Villarreal
+Atl. Madrid - Malaga
+Betis - Dep. La Coruna
+Getafe - Barcelona
+Levante - Valencia
+Eibar - Leganes
+Malaga - Las Palmas
+Villarreal - Betis
+Celta Vigo - Alaves
+Ath Bilbao - Girona
+Dep. La Coruna - Real Sociedad
+Barcelona - Espanyol
+Sevilla - Eibar
+Valencia - Atl. Madrid
+Real Madrid - Levante
+Leganes - Getafe
+Real Madrid - Valencia
+Getafe - Sevilla
+Eibar - Ath Bilbao
+Espanyol - Leganes
+Las Palmas - Atl. Madrid
+Girona - Malaga
+Levante - Dep. La Coruna
+Alaves - Barcelona
+Betis - Celta Vigo
+Real Sociedad - Villarreal
+Malaga - Eibar
+Levante - Villarreal
+Dep. La Coruna - Real Madrid
+Barcelona - Betis
+Ath Bilbao - Getafe
+Sevilla - Espanyol
+Girona - Atl. Madrid
+Celta Vigo - Real Sociedad
+Valencia - Las Palmas
+Leganes - Alaves
