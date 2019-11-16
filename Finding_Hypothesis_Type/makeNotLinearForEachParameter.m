@@ -20,7 +20,7 @@ function retval = makeNotLinearForEachParameter (X, HomeAverG_powers, HomeAverXG
          retval=[retval log(1 + Xth).^lnpowers(1,j)];
        endfor
        for j=1:length(sqrtpowers),
-         retval=[retval Xth.^(lnpowers(1,j)*0.5)];
+         retval=[retval Xth.^(sqrtpowers(1,j)*0.5)];
        endfor
    endif
    if (i==2)
@@ -40,7 +40,7 @@ function retval = makeNotLinearForEachParameter (X, HomeAverG_powers, HomeAverXG
          retval=[retval log(1 + Xth).^lnpowers(1,j)];
        endfor
        for j=1:length(sqrtpowers),
-         retval=[retval Xth.^(lnpowers(1,j)*0.5)];
+         retval=[retval Xth.^(sqrtpowers(1,j)*0.5)];
        endfor
      endif
      if (i==3)
@@ -60,7 +60,7 @@ function retval = makeNotLinearForEachParameter (X, HomeAverG_powers, HomeAverXG
          retval=[retval log(1 + Xth).^lnpowers(1,j)];
        endfor
        for j=1:length(sqrtpowers),
-         retval=[retval Xth.^(lnpowers(1,j)*0.5)];
+         retval=[retval Xth.^(sqrtpowers(1,j)*0.5)];
        endfor
       endif  
      if (i==4)
@@ -80,7 +80,7 @@ function retval = makeNotLinearForEachParameter (X, HomeAverG_powers, HomeAverXG
          retval=[retval log(1 + Xth).^lnpowers(1,j)];
        endfor
        for j=1:length(sqrtpowers),
-         retval=[retval Xth.^(lnpowers(1,j)*0.5)];
+         retval=[retval Xth.^(sqrtpowers(1,j)*0.5)];
        endfor
       endif
      if (i==5)
@@ -100,7 +100,7 @@ function retval = makeNotLinearForEachParameter (X, HomeAverG_powers, HomeAverXG
          retval=[retval log(1 + Xth).^lnpowers(1,j)];
        endfor
        for j=1:length(sqrtpowers),
-        retval=[retval Xth.^(lnpowers(1,j)*0.5)];
+        retval=[retval Xth.^(sqrtpowers(1,j)*0.5)];
        endfor
       endif
      if (i==6)
@@ -119,7 +119,7 @@ function retval = makeNotLinearForEachParameter (X, HomeAverG_powers, HomeAverXG
          retval=[retval log(1 + Xth).^lnpowers(1,j)];
        endfor
        for j=1:length(sqrtpowers),
-         retval=[retval Xth.^(lnpowers(1,j)*0.5)];
+         retval=[retval Xth.^(sqrtpowers(1,j)*0.5)];
        endfor
     endif
  endfor 
