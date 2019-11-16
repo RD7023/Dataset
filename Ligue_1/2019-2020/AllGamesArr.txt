@@ -117,13 +117,23 @@ Amiens,Brest
 Bordeaux,Nantes               
 Nice,Reims                    
 Saint-Etienne,Monaco          
-Nice,Bordeaux
-Brest,Paris Saint Germain
-Monaco,Dijon
-Lille,Metz
-Reims,Angers
-Strasbourg,Nimes
-Rennes,Amiens
-Montpellier,Toulouse
-Nantes,Saint-Etienne
-Marseille,Lyon
+Nice,Bordeaux                 
+Brest,Paris Saint Germain     
+Monaco,Dijon                             
+Lille,Metz                    
+Reims,Angers                  
+Strasbourg,Nimes              
+Rennes,Amiens                 
+Montpellier,Toulouse          
+Nantes,Saint-Etienne          
+Marseille,Lyon                
+Paris Saint Germain,Lille
+Lyon,Nice
+Brest,Nantes
+Metz,Reims
+Amiens,Strasbourg
+Angers,Nimes
+Dijon,Rennes
+Bordeaux,Monaco
+Saint-Etienne,Montpellier
+Toulouse,Marseille

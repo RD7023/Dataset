@@ -1,0 +1,21 @@
+HomeTeam,HomeGoals,HomeXG,AwayTeam,AwayGoals,AwayXG
+Nice,1,1.55,Bordeaux,1,1.74
+Brest,1,1.13,Paris Saint Germain,2,2.54
+Monaco,1,2.01,Dijon,0,1.23
+Lille,0,1.66,Metz,0,0.14
+Reims,0,0.45,Angers,0,0.68
+Strasbourg,4,3.34,Nimes,1,0.73
+Rennes,3,3.41,Amiens,1,0.47
+Montpellier,3,1.42,Toulouse,0,0.25
+Nantes,2,0.93,Saint-Etienne,3,0.85
+Marseille,2,1.16,Lyon,1,1.10
+Nice,1,1.55,Bordeaux,1,1.74
+Brest,1,1.13,Paris Saint Germain,2,2.54
+Monaco,1,2.01,Dijon,0,1.23
+Lille,0,1.66,Metz,0,0.14
+Reims,0,0.45,Angers,0,0.68
+Strasbourg,4,3.34,Nimes,1,0.73
+Rennes,3,3.41,Amiens,1,0.47
+Montpellier,3,1.42,Toulouse,0,0.25
+Nantes,2,0.93,Saint-Etienne,3,0.85
+Marseille,2,1.16,Lyon,1,1.10
