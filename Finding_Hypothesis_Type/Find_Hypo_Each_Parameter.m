@@ -1,5 +1,8 @@
 ligasArr=['Bundesliga';'LaLiga';'Ligue_1';'Serie_A']; 
-path='C:\Users\ZBook\Desktop\Dataset';
+
+PC='ZBook'
+
+path=['C:\Users\' PC '\Desktop\Dataset'];
 
 powersArr = dir([path '\Finding_Hypothesis_Type\powers']);
 epowersArr = dir([path '\Finding_Hypothesis_Type\epowers']);
@@ -154,13 +157,13 @@ league = deblank(ligasArr(cligas,:));
 years = '2018-2019';
 
 %Get prices
-Team_Price = fileread(['C:\Users\ZBook\Desktop\Dataset\' league '\' years '\teams_prices.txt']);
+Team_Price = fileread(['C:\Users\' PC '\Desktop\Dataset\' league '\' years '\teams_prices.txt']);
 Team_PriceArr=strsplit(Team_Price,"\n");
 
 
-way=['C:\Users\ZBook\Desktop\Dataset\' league '\' years '\Games_Data'];
-wayHomeAway=['C:\Users\ZBook\Desktop\Dataset\' league '\' years];
-wayDataSet=['C:\Users\ZBook\Desktop\Dataset\TrainingSets\' type '\' seasons_before 'seasons'];
+way=['C:\Users\' PC '\Desktop\Dataset\' league '\' years '\Games_Data'];
+wayHomeAway=['C:\Users\' PC '\Desktop\Dataset\' league '\' years];
+wayDataSet=['C:\Users\' PC '\Desktop\Dataset\TrainingSets\' type '\' seasons_before 'seasons'];
 
 HomeTrainingSet=['Home_' league '_' seasons_before 'seasons_Hist' numberType];
 AwayTrainingSet=['Away_' league '_' seasons_before 'seasons_Hist' numberType];
@@ -445,7 +448,7 @@ sum=sum-betsNumber;
 resRow=['Liga: ' ligasArr(cligas,:) '; HomeAverG_powers: ' powersArr(pwi_AverG,1).name  '; HomeAverXG_powers: ' powersArr(pwi_AverXG,1).name  '; AwayAverGA_powers: ' powersArr(pwi_AverGA,1).name  '; AwayAverXGA_powers: ' powersArr(pwi_AverXGA,1).name  '; HomePrice_powers: ' powersArr( pwi_PriceHome,1).name  '; AwayPrice_powers: ' powersArr(pwi_PriceAway,1).name '; HomeAverG_epowers: ' epowersArr(ei_AverG,1).name  '; HomeAverXG_epowers: ' epowersArr(ei_AverXG,1).name  '; AwayAverGA_epowers: ' epowersArr(ei_AverGA,1).name  '; AwayAverXGA_epowers: ' epowersArr(ei_AverXGA,1).name  '; HomePrice_epowers: ' epowersArr(ei_PriceHome,1).name '; AwayPrice_epowers: ' epowersArr(ei_PriceAway,1).name '; HomeAverG_lnpowers: ' epowersArr(lni_AverG,1).name '; HomeAverXG_lnpowers: ' lnpowersArr(lni_AverXG,1).name  '; AwayAverGA_lnpowers: ' lnpowersArr(lni_AverGA,1).name  '; AwayAverXGA_lnpowers: ' lnpowersArr(lni_AverXGA,1).name  '; HomePrice_lnpowers: ' lnpowersArr(lni_PriceHome,1).name  '; AwayPrice_lnpowers: ' lnpowersArr(lni_PriceAway,1).name '; SUM: ' num2str(sum)]
 
 
-fid = fopen (['C:\Users\ZBook\Desktop\Dataset\Finding_Hypothesis_Type\Results.txt'], "a");
+fid = fopen (['C:\Users\' PC '\Desktop\Dataset\Finding_Hypothesis_Type\Results.txt'], "a");
       fdisp (fid, resRow);
 fclose(fid);
 
