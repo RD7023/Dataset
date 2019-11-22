@@ -44,6 +44,9 @@ for sqrti_AverG=start_of_cycle:length(sqrtpowersArr),
  sqrtpowers_AverG = load([path '\Finding_Hypothesis_Type\sqrtpowers\' sqrtpowersArr(sqrti_AverG,1).name]);
  sqrtpowers_AverG = struct2cell(sqrtpowers_AverG)(1,1){1,1}';
  
+ if length(powers_AverG)+length(lnpowers_AverG)+length(epowers_AverG)+length(sqrtpowers_AverG)==0,
+  continue
+ endif
  
 %%AverXG
 for pwi_AverXG=start_of_cycle:length(powersArr),
@@ -60,10 +63,13 @@ for ei_AverXG=start_of_cycle:length(epowersArr),
  epowers_AverXG = struct2cell(epowers_AverXG)(1,1){1,1}';
 
 
-
 for sqrti_AverXG=start_of_cycle:length(sqrtpowersArr),
  sqrtpowers_AverXG = load([path '\Finding_Hypothesis_Type\sqrtpowers\' sqrtpowersArr(sqrti_AverG,1).name]);
  sqrtpowers_AverXG = struct2cell(sqrtpowers_AverXG)(1,1){1,1}'; 
+
+if length(powers_AverXG)+length(lnpowers_AverXG)+length(epowers_AverXG)+length(sqrtpowers_AverXG)==0,
+  continue
+  endif
  
 %%AverGA
 for pwi_AverGA=start_of_cycle:length(powersArr),
@@ -75,16 +81,20 @@ for lni_AverGA=start_of_cycle:length(lnpowersArr),
  lnpowers_AverGA = load([path '\Finding_Hypothesis_Type\lnpowers\' lnpowersArr(lni_AverGA,1).name]);
  lnpowers_AverGA = struct2cell(lnpowers_AverGA)(1,1){1,1}';
 
+ 
 for ei_AverGA=start_of_cycle:length(epowersArr),
  epowers_AverGA = load([path '\Finding_Hypothesis_Type\epowers\' epowersArr(ei_AverGA,1).name]);
  epowers_AverGA = struct2cell(epowers_AverGA)(1,1){1,1}';
-
 
 
 for sqrti_AverGA=start_of_cycle:length(sqrtpowersArr),
  sqrtpowers_AverGA = load([path '\Finding_Hypothesis_Type\sqrtpowers\' sqrtpowersArr(sqrti_AverGA,1).name]);
  sqrtpowers_AverGA = struct2cell(sqrtpowers_AverGA)(1,1){1,1}';  
 
+  if length(powers_AverGA)+length(lnpowers_AverGA)+length(epowers_AverGA)+length(sqrtpowers_AverGA)==0,
+  continue
+  endif
+ 
 %%AverXGA
 
 for pwi_AverXGA=start_of_cycle:length(powersArr),
@@ -104,7 +114,9 @@ for sqrti_AverXGA=xgaSqrtFlag:xgaSqrtFlag,
  sqrtpowers_AverXGA = load([path '\Finding_Hypothesis_Type\sqrtpowers\' sqrtpowersArr(sqrti_AverXGA,1).name]);
  sqrtpowers_AverXGA = struct2cell(sqrtpowers_AverXGA)(1,1){1,1}';   
  
-
+ if length(powers_AverXGA)+length(lnpowers_AverXGA)+length(epowers_AverXGA)+length(sqrtpowers_AverXGA)==0,
+  continue
+  endif
 %PriceHome
 for lni_PriceHome=3:3,
  lnpowers_PriceHome = load([path '\Finding_Hypothesis_Type\lnpowers\' lnpowersArr(lni_PriceHome,1).name]);
@@ -141,9 +153,7 @@ for sqrti_PriceAway=3:3,
  sqrtpowers_PriceAway = struct2cell(sqrtpowers_PriceAway)(1,1){1,1}';  
   
  
-if length(sqrtpowers_AverG)+length(powers_AverG)+length(epowers_AverG)+length(lnpowers_AverG)+length(sqrtpowers_AverXG)+length(powers_AverXG)+length(epowers_AverXG)+length(lnpowers_AverXG)+length(sqrtpowers_AverGA)+length(powers_AverGA)+length(epowers_AverGA)+length(lnpowers_AverGA)+length(sqrtpowers_AverXGA)+length(powers_AverXGA)+length(epowers_AverXGA)+length(lnpowers_AverXGA)+length(sqrtpowers_PriceHome)+length(powers_PriceHome)+length(epowers_PriceHome)+length(lnpowers_PriceHome)+length(sqrtpowers_PriceAway)+length(powers_PriceAway)+length(epowers_PriceAway)+length(lnpowers_PriceAway)==0,
- continue
-endif 
+
  
  
  
