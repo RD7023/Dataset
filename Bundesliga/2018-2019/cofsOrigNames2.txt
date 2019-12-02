@@ -1,0 +1,307 @@
+ddd
+Borussia M.Gladbach - Borussia Dortmund
+Bayern Munich - Eintracht Frankfurt
+Fortuna Duesseldorf - Hannover 96
+Freiburg - Nuernberg
+Hertha Berlin - Bayer Leverkusen
+Mainz 05 - Hoffenheim
+Schalke 04 - VfB Stuttgart
+Werder Bremen - RasenBallsport Leipzig
+Wolfsburg - Augsburg
+Eintracht Frankfurt - Mainz 05
+Augsburg - Hertha Berlin
+Bayer Leverkusen - Schalke 04
+Borussia Dortmund - Fortuna Duesseldorf
+Hannover 96 - Freiburg
+Hoffenheim - Werder Bremen
+Nuernberg - Borussia M.Gladbach
+RasenBallsport Leipzig - Bayern Munich
+VfB Stuttgart - Wolfsburg
+Bayer Leverkusen - Eintracht Frankfurt
+Freiburg - Fortuna Duesseldorf
+Schalke 04 - Augsburg
+Werder Bremen - Borussia Dortmund
+Borussia M.Gladbach - Hoffenheim
+Bayern Munich - Hannover 96
+Hertha Berlin - VfB Stuttgart
+Wolfsburg - Nuernberg
+Mainz 05 - RasenBallsport Leipzig
+Nuernberg - Bayern Munich
+Hoffenheim - Wolfsburg
+VfB Stuttgart - Borussia M.Gladbach
+Borussia Dortmund - Schalke 04
+Fortuna Duesseldorf - Werder Bremen
+Eintracht Frankfurt - Hertha Berlin
+Hannover 96 - Mainz 05
+RasenBallsport Leipzig - Freiburg
+Augsburg - Bayer Leverkusen
+Wolfsburg - Eintracht Frankfurt
+Hertha Berlin - Hannover 96
+Freiburg - Borussia Dortmund
+Schalke 04 - Hoffenheim
+Borussia M.Gladbach - RasenBallsport Leipzig
+Augsburg - VfB Stuttgart
+Bayer Leverkusen - Nuernberg
+Bayern Munich - Werder Bremen
+Mainz 05 - Fortuna Duesseldorf
+Eintracht Frankfurt - Augsburg
+Fortuna Duesseldorf - Bayern Munich
+Hoffenheim - Hertha Berlin
+Borussia Dortmund - Mainz 05
+Hannover 96 - Borussia M.Gladbach
+RasenBallsport Leipzig - Wolfsburg
+VfB Stuttgart - Bayer Leverkusen
+Werder Bremen - Freiburg
+Nuernberg - Schalke 04
+Borussia M.Gladbach - Werder Bremen
+Augsburg - Hoffenheim
+Bayern Munich - Borussia Dortmund
+Bayer Leverkusen - RasenBallsport Leipzig
+Hertha Berlin - Fortuna Duesseldorf
+Schalke 04 - Eintracht Frankfurt
+VfB Stuttgart - Nuernberg
+Wolfsburg - Hannover 96
+Mainz 05 - Freiburg
+Eintracht Frankfurt - VfB Stuttgart
+Hannover 96 - Schalke 04
+RasenBallsport Leipzig - Hertha Berlin
+Borussia Dortmund - Wolfsburg
+Fortuna Duesseldorf - Borussia M.Gladbach
+Freiburg - Bayern Munich
+Nuernberg - Augsburg
+Werder Bremen - Mainz 05
+Hoffenheim - Bayer Leverkusen
+Bayern Munich - Mainz 05
+Eintracht Frankfurt - Nuernberg
+Bayer Leverkusen - Werder Bremen
+Hertha Berlin - Borussia Dortmund
+Augsburg - Hannover 96
+Schalke 04 - RasenBallsport Leipzig
+VfB Stuttgart - Hoffenheim
+Wolfsburg - Fortuna Duesseldorf
+Borussia M.Gladbach - Freiburg
+Fortuna Duesseldorf - Eintracht Frankfurt
+Hannover 96 - Bayer Leverkusen
+Hoffenheim - Nuernberg
+Mainz 05 - Borussia M.Gladbach
+Bayern Munich - Wolfsburg
+Borussia Dortmund - VfB Stuttgart
+Freiburg - Hertha Berlin
+RasenBallsport Leipzig - Augsburg
+Werder Bremen - Schalke 04
+Wolfsburg - Werder Bremen
+VfB Stuttgart - Hannover 96
+Borussia M.Gladbach - Bayern Munich
+Bayer Leverkusen - Freiburg
+Eintracht Frankfurt - Hoffenheim
+Hertha Berlin - Mainz 05
+Nuernberg - RasenBallsport Leipzig
+Schalke 04 - Fortuna Duesseldorf
+Augsburg - Borussia Dortmund
+RasenBallsport Leipzig - Hoffenheim
+Borussia Dortmund - Bayer Leverkusen
+Hannover 96 - Eintracht Frankfurt
+Fortuna Duesseldorf - Nuernberg
+Borussia M.Gladbach - Wolfsburg
+Bayern Munich - Hertha Berlin
+Freiburg - Augsburg
+Mainz 05 - Schalke 04
+Werder Bremen - VfB Stuttgart
+Nuernberg - Borussia Dortmund
+Bayer Leverkusen - Fortuna Duesseldorf
+Eintracht Frankfurt - Borussia M.Gladbach
+Hertha Berlin - Werder Bremen
+Hoffenheim - Hannover 96
+Schalke 04 - Freiburg
+VfB Stuttgart - RasenBallsport Leipzig
+Wolfsburg - Mainz 05
+Augsburg - Bayern Munich
+Fortuna Duesseldorf - VfB Stuttgart
+Werder Bremen - Augsburg
+Bayern Munich - Schalke 04
+Borussia M.Gladbach - Hertha Berlin
+Borussia Dortmund - Hoffenheim
+Freiburg - Wolfsburg
+Hannover 96 - Nuernberg
+RasenBallsport Leipzig - Eintracht Frankfurt
+Mainz 05 - Bayer Leverkusen
+VfB Stuttgart - Freiburg
+Augsburg - Mainz 05
+Schalke 04 - Borussia M.Gladbach
+Bayer Leverkusen - Bayern Munich
+Eintracht Frankfurt - Borussia Dortmund
+Hertha Berlin - Wolfsburg
+Hoffenheim - Fortuna Duesseldorf
+Nuernberg - Werder Bremen
+Hannover 96 - RasenBallsport Leipzig
+Fortuna Duesseldorf - RasenBallsport Leipzig
+Bayern Munich - VfB Stuttgart
+Werder Bremen - Eintracht Frankfurt
+Borussia M.Gladbach - Augsburg
+Borussia Dortmund - Hannover 96
+Freiburg - Hoffenheim
+Mainz 05 - Nuernberg
+Wolfsburg - Bayer Leverkusen
+Hertha Berlin - Schalke 04
+Schalke 04 - Wolfsburg
+Nuernberg - Hertha Berlin
+RasenBallsport Leipzig - Borussia Dortmund
+Hannover 96 - Werder Bremen
+Augsburg - Fortuna Duesseldorf
+Bayer Leverkusen - Borussia M.Gladbach
+Eintracht Frankfurt - Freiburg
+VfB Stuttgart - Mainz 05
+Hoffenheim - Bayern Munich
+Hoffenheim - Mainz 05
+Augsburg - Wolfsburg
+Eintracht Frankfurt - Bayern Munich
+Bayer Leverkusen - Hertha Berlin
+Hannover 96 - Fortuna Duesseldorf
+Nuernberg - Freiburg
+RasenBallsport Leipzig - Werder Bremen
+VfB Stuttgart - Schalke 04
+Borussia Dortmund - Borussia M.Gladbach
+Bayern Munich - RasenBallsport Leipzig
+Freiburg - Hannover 96
+Mainz 05 - Eintracht Frankfurt
+Werder Bremen - Hoffenheim
+Schalke 04 - Bayer Leverkusen
+Fortuna Duesseldorf - Borussia Dortmund
+Hertha Berlin - Augsburg
+Wolfsburg - VfB Stuttgart
+Borussia M.Gladbach - Nuernberg
+Eintracht Frankfurt - Bayer Leverkusen
+RasenBallsport Leipzig - Mainz 05
+Borussia Dortmund - Werder Bremen
+Augsburg - Schalke 04
+Fortuna Duesseldorf - Freiburg
+Hannover 96 - Bayern Munich
+Hoffenheim - Borussia M.Gladbach
+VfB Stuttgart - Hertha Berlin
+Nuernberg - Wolfsburg
+Borussia M.Gladbach - VfB Stuttgart
+Mainz 05 - Hannover 96
+Hertha Berlin - Eintracht Frankfurt
+Bayer Leverkusen - Augsburg
+Bayern Munich - Nuernberg
+Freiburg - RasenBallsport Leipzig
+Schalke 04 - Borussia Dortmund
+Wolfsburg - Hoffenheim
+Werder Bremen - Fortuna Duesseldorf
+Nuernberg - Bayer Leverkusen
+Eintracht Frankfurt - Wolfsburg
+RasenBallsport Leipzig - Borussia M.Gladbach
+Hoffenheim - Schalke 04
+Borussia Dortmund - Freiburg
+Hannover 96 - Hertha Berlin
+VfB Stuttgart - Augsburg
+Werder Bremen - Bayern Munich
+Fortuna Duesseldorf - Mainz 05
+Borussia M.Gladbach - Hannover 96
+Freiburg - Werder Bremen
+Schalke 04 - Nuernberg
+Augsburg - Eintracht Frankfurt
+Bayern Munich - Fortuna Duesseldorf
+Hertha Berlin - Hoffenheim
+Mainz 05 - Borussia Dortmund
+Wolfsburg - RasenBallsport Leipzig
+Bayer Leverkusen - VfB Stuttgart
+Eintracht Frankfurt - Schalke 04
+RasenBallsport Leipzig - Bayer Leverkusen
+Borussia Dortmund - Bayern Munich
+Fortuna Duesseldorf - Hertha Berlin
+Freiburg - Mainz 05
+Hoffenheim - Augsburg
+Nuernberg - VfB Stuttgart
+Werder Bremen - Borussia M.Gladbach
+Hannover 96 - Wolfsburg
+Mainz 05 - Werder Bremen
+Borussia M.Gladbach - Fortuna Duesseldorf
+Hertha Berlin - RasenBallsport Leipzig
+Augsburg - Nuernberg
+Bayer Leverkusen - Hoffenheim
+Bayern Munich - Freiburg
+Schalke 04 - Hannover 96
+Wolfsburg - Borussia Dortmund
+VfB Stuttgart - Eintracht Frankfurt
+Werder Bremen - Bayer Leverkusen
+RasenBallsport Leipzig - Schalke 04
+Nuernberg - Eintracht Frankfurt
+Hoffenheim - VfB Stuttgart
+Borussia Dortmund - Hertha Berlin
+Fortuna Duesseldorf - Wolfsburg
+Hannover 96 - Augsburg
+Mainz 05 - Bayern Munich
+Freiburg - Borussia M.Gladbach
+Borussia M.Gladbach - Mainz 05
+Hertha Berlin - Freiburg
+Schalke 04 - Werder Bremen
+Augsburg - RasenBallsport Leipzig
+Bayer Leverkusen - Hannover 96
+Nuernberg - Hoffenheim
+VfB Stuttgart - Borussia Dortmund
+Wolfsburg - Bayern Munich
+Eintracht Frankfurt - Fortuna Duesseldorf
+RasenBallsport Leipzig - Nuernberg
+Hoffenheim - Eintracht Frankfurt
+Freiburg - Bayer Leverkusen
+Bayern Munich - Borussia M.Gladbach
+Borussia Dortmund - Augsburg
+Fortuna Duesseldorf - Schalke 04
+Hannover 96 - VfB Stuttgart
+Mainz 05 - Hertha Berlin
+Werder Bremen - Wolfsburg
+Augsburg - Freiburg
+Eintracht Frankfurt - Hannover 96
+Bayer Leverkusen - Borussia Dortmund
+Hoffenheim - RasenBallsport Leipzig
+Nuernberg - Fortuna Duesseldorf
+Schalke 04 - Mainz 05
+VfB Stuttgart - Werder Bremen
+Wolfsburg - Borussia M.Gladbach
+Hertha Berlin - Bayern Munich
+Borussia M.Gladbach - Eintracht Frankfurt
+Borussia Dortmund - Nuernberg
+Mainz 05 - Wolfsburg
+RasenBallsport Leipzig - VfB Stuttgart
+Fortuna Duesseldorf - Bayer Leverkusen
+Bayern Munich - Augsburg
+Freiburg - Schalke 04
+Hannover 96 - Hoffenheim
+Werder Bremen - Hertha Berlin
+Eintracht Frankfurt - RasenBallsport Leipzig
+Bayer Leverkusen - Mainz 05
+Schalke 04 - Bayern Munich
+Augsburg - Werder Bremen
+Hertha Berlin - Borussia M.Gladbach
+Hoffenheim - Borussia Dortmund
+Nuernberg - Hannover 96
+Wolfsburg - Freiburg
+VfB Stuttgart - Fortuna Duesseldorf
+Freiburg - VfB Stuttgart
+Werder Bremen - Nuernberg
+Borussia M.Gladbach - Schalke 04
+Bayern Munich - Bayer Leverkusen
+Fortuna Duesseldorf - Hoffenheim
+Mainz 05 - Augsburg
+RasenBallsport Leipzig - Hannover 96
+Wolfsburg - Hertha Berlin
+Borussia Dortmund - Eintracht Frankfurt
+Schalke 04 - Hertha Berlin
+RasenBallsport Leipzig - Fortuna Duesseldorf
+VfB Stuttgart - Bayern Munich
+Augsburg - Borussia M.Gladbach
+Bayer Leverkusen - Wolfsburg
+Eintracht Frankfurt - Werder Bremen
+Hoffenheim - Freiburg
+Nuernberg - Mainz 05
+Hannover 96 - Borussia Dortmund
+Borussia Dortmund - RasenBallsport Leipzig
+Mainz 05 - VfB Stuttgart
+Borussia M.Gladbach - Bayer Leverkusen
+Fortuna Duesseldorf - Augsburg
+Freiburg - Eintracht Frankfurt
+Hertha Berlin - Nuernberg
+Werder Bremen - Hannover 96
+Wolfsburg - Schalke 04
+Bayern Munich - Hoffenheim

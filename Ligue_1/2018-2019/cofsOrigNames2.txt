@@ -1,0 +1,381 @@
+ddd
+Amiens - Guingamp
+Angers - Saint-Etienne
+Caen - Bordeaux
+Dijon - Toulouse
+Marseille - Montpellier
+Nantes - Strasbourg
+Nice - Monaco
+Nimes - Lyon
+Reims - Paris Saint Germain
+Rennes - Lille
+Bordeaux - Reims
+Guingamp - Nimes
+Lille - Angers
+Lyon - Caen
+Monaco - Amiens
+Montpellier - Nantes
+Paris Saint Germain - Dijon
+Saint-Etienne - Nice
+Strasbourg - Rennes
+Toulouse - Marseille
+Marseille - Lyon
+Lille - Bordeaux
+Rennes - Guingamp
+Amiens - Toulouse
+Caen - Reims
+Dijon - Strasbourg
+Nice - Nantes
+Nimes - Monaco
+Angers - Paris Saint Germain
+Saint-Etienne - Montpellier
+Lyon - Lille
+Monaco - Saint-Etienne
+Montpellier - Amiens
+Nantes - Dijon
+Toulouse - Rennes
+Bordeaux - Angers
+Guingamp - Caen
+Reims - Nimes
+Paris Saint Germain - Nice
+Strasbourg - Marseille
+Rennes - Monaco
+Montpellier - Paris Saint Germain
+Marseille - Nantes
+Saint-Etienne - Toulouse
+Angers - Reims
+Caen - Dijon
+Amiens - Strasbourg
+Lille - Nimes
+Nice - Guingamp
+Bordeaux - Lyon
+Paris Saint Germain - Monaco
+Reims - Saint-Etienne
+Nantes - Amiens
+Toulouse - Lille
+Nice - Caen
+Nimes - Bordeaux
+Strasbourg - Montpellier
+Guingamp - Marseille
+Lyon - Angers
+Dijon - Rennes
+Nantes - Paris Saint Germain
+Lille - Paris Saint Germain
+Saint-Etienne - Bordeaux
+Montpellier - Toulouse
+Rennes - Nice
+Caen - Angers
+Monaco - Reims
+Strasbourg - Guingamp
+Marseille - Nimes
+Nantes - Lyon
+Dijon - Amiens
+Nimes - Rennes
+Paris Saint Germain - Strasbourg
+Nice - Montpellier
+Reims - Lille
+Toulouse - Nantes
+Amiens - Saint-Etienne
+Angers - Rennes
+Guingamp - Monaco
+Nimes - Caen
+Lyon - Dijon
+Bordeaux - Marseille
+Montpellier - Guingamp
+Strasbourg - Reims
+Saint-Etienne - Nimes
+Toulouse - Paris Saint Germain
+Nantes - Lille
+Amiens - Bordeaux
+Dijon - Nice
+Monaco - Caen
+Marseille - Angers
+Rennes - Lyon
+Paris Saint Germain - Marseille
+Bordeaux - Rennes
+Reims - Nantes
+Lyon - Montpellier
+Angers - Amiens
+Caen - Saint-Etienne
+Guingamp - Dijon
+Nimes - Strasbourg
+Lille - Monaco
+Nice - Toulouse
+Dijon - Paris Saint Germain
+Marseille - Nice
+Rennes - Caen
+Montpellier - Angers
+Saint-Etienne - Lille
+Toulouse - Guingamp
+Amiens - Nimes
+Dijon - Reims
+Monaco - Bordeaux
+Strasbourg - Lyon
+Bordeaux - Montpellier
+Marseille - Saint-Etienne
+Lyon - Toulouse
+Guingamp - Nantes
+Lille - Dijon
+Nice - Strasbourg
+Angers - Monaco
+Reims - Amiens
+Caen - Paris Saint Germain
+Monaco - Lyon
+Rennes - Marseille
+Montpellier - Reims
+Nantes - Bordeaux
+Toulouse - Caen
+Amiens - Nice
+Guingamp - Angers
+Paris Saint Germain - Nimes
+Strasbourg - Lille
+Dijon - Saint-Etienne
+Paris Saint Germain - Montpellier
+Bordeaux - Guingamp
+Saint-Etienne - Paris Saint Germain
+Reims - Rennes
+Bordeaux - Toulouse
+Caen - Strasbourg
+Lille - Montpellier
+Angers - Nice
+Monaco - Nantes
+Marseille - Amiens
+Lyon - Guingamp
+Nimes - Dijon
+Caen - Nantes
+Saint-Etienne - Strasbourg
+Nice - Lyon
+Guingamp - Lille
+Rennes - Saint-Etienne
+Montpellier - Monaco
+Nantes - Nimes
+Toulouse - Reims
+Amiens - Caen
+Strasbourg - Angers
+Paris Saint Germain - Bordeaux
+Dijon - Marseille
+Marseille - Bordeaux
+Lyon - Paris Saint Germain
+Nimes - Montpellier
+Reims - Marseille
+Angers - Dijon
+Monaco - Toulouse
+Rennes - Amiens
+Lille - Nice
+Nantes - Saint-Etienne
+Paris Saint Germain - Rennes
+Toulouse - Angers
+Amiens - Lyon
+Montpellier - Caen
+Dijon - Monaco
+Guingamp - Reims
+Nice - Nimes
+Strasbourg - Bordeaux
+Marseille - Lille
+Nimes - Angers
+Saint-Etienne - Lyon
+Bordeaux - Dijon
+Angers - Nantes
+Caen - Marseille
+Rennes - Montpellier
+Monaco - Strasbourg
+Nimes - Toulouse
+Reims - Nice
+Paris Saint Germain - Guingamp
+Lille - Amiens
+Saint-Etienne - Marseille
+Guingamp - Rennes
+Monaco - Nice
+Nimes - Nantes
+Toulouse - Lyon
+Angers - Bordeaux
+Marseille - Monaco
+Dijon - Montpellier
+Toulouse - Strasbourg
+Nantes - Rennes
+Guingamp - Saint-Etienne
+Nice - Bordeaux
+Amiens - Paris Saint Germain
+Lyon - Reims
+Caen - Lille
+Amiens - Angers
+Nantes - Montpellier
+Bordeaux - Amiens
+Angers - Marseille
+Lille - Toulouse
+Monaco - Guingamp
+Montpellier - Lyon
+Paris Saint Germain - Nantes
+Reims - Caen
+Rennes - Nimes
+Saint-Etienne - Dijon
+Strasbourg - Nice
+Caen - Toulouse
+Lyon - Monaco
+Nice - Saint-Etienne
+Nimes - Lille
+Reims - Strasbourg
+Lille - Reims
+Strasbourg - Caen
+Guingamp - Amiens
+Rennes - Dijon
+Strasbourg - Paris Saint Germain
+Bordeaux - Saint-Etienne
+Caen - Nimes
+Dijon - Guingamp
+Lyon - Rennes
+Nantes - Marseille
+Reims - Toulouse
+Montpellier - Lille
+Amiens - Monaco
+Nice - Angers
+Bordeaux - Paris Saint Germain
+Marseille - Reims
+Rennes - Strasbourg
+Toulouse - Dijon
+Angers - Caen
+Guingamp - Nice
+Monaco - Montpellier
+Nimes - Amiens
+Lille - Lyon
+Saint-Etienne - Nantes
+Amiens - Marseille
+Nice - Lille
+Montpellier - Rennes
+Caen - Monaco
+Dijon - Bordeaux
+Nantes - Angers
+Reims - Guingamp
+Strasbourg - Nimes
+Paris Saint Germain - Toulouse
+Lyon - Saint-Etienne
+Monaco - Paris Saint Germain
+Marseille - Dijon
+Rennes - Nantes
+Bordeaux - Caen
+Angers - Montpellier
+Nimes - Nice
+Saint-Etienne - Reims
+Toulouse - Amiens
+Guingamp - Lyon
+Lille - Strasbourg
+Montpellier - Marseille
+Saint-Etienne - Angers
+Nantes - Guingamp
+Caen - Rennes
+Dijon - Nimes
+Nice - Amiens
+Reims - Monaco
+Strasbourg - Toulouse
+Lyon - Bordeaux
+Paris Saint Germain - Lille
+Marseille - Paris Saint Germain
+Bordeaux - Nice
+Rennes - Reims
+Amiens - Nantes
+Guingamp - Strasbourg
+Lille - Caen
+Monaco - Dijon
+Toulouse - Montpellier
+Angers - Lyon
+Nimes - Saint-Etienne
+Nice - Marseille
+Saint-Etienne - Rennes
+Montpellier - Bordeaux
+Caen - Guingamp
+Dijon - Lille
+Nantes - Toulouse
+Reims - Angers
+Strasbourg - Monaco
+Paris Saint Germain - Amiens
+Lyon - Nimes
+Paris Saint Germain - Lyon
+Marseille - Caen
+Monaco - Rennes
+Bordeaux - Nantes
+Guingamp - Montpellier
+Nimes - Reims
+Amiens - Dijon
+Angers - Strasbourg
+Lille - Saint-Etienne
+Toulouse - Nice
+Lille - Marseille
+Montpellier - Nimes
+Rennes - Toulouse
+Angers - Guingamp
+Caen - Amiens
+Lyon - Nantes
+Reims - Bordeaux
+Strasbourg - Dijon
+Nice - Paris Saint Germain
+Saint-Etienne - Monaco
+Paris Saint Germain - Reims
+Amiens - Rennes
+Bordeaux - Lille
+Caen - Montpellier
+Dijon - Lyon
+Marseille - Strasbourg
+Nimes - Guingamp
+Toulouse - Saint-Etienne
+Monaco - Angers
+Nantes - Nice
+Lyon - Marseille
+Guingamp - Bordeaux
+Rennes - Paris Saint Germain
+Angers - Toulouse
+Montpellier - Nice
+Reims - Dijon
+Saint-Etienne - Caen
+Strasbourg - Amiens
+Lille - Nantes
+Monaco - Nimes
+Marseille - Guingamp
+Bordeaux - Nimes
+Nantes - Reims
+Amiens - Lille
+Dijon - Angers
+Montpellier - Strasbourg
+Toulouse - Monaco
+Caen - Lyon
+Paris Saint Germain - Saint-Etienne
+Nice - Rennes
+Monaco - Marseille
+Rennes - Bordeaux
+Saint-Etienne - Amiens
+Guingamp - Toulouse
+Reims - Montpellier
+Strasbourg - Nantes
+Angers - Lille
+Dijon - Caen
+Nimes - Paris Saint Germain
+Lyon - Nice
+Marseille - Rennes
+Bordeaux - Monaco
+Lille - Guingamp
+Amiens - Reims
+Montpellier - Saint-Etienne
+Nantes - Caen
+Nice - Dijon
+Toulouse - Nimes
+Paris Saint Germain - Angers
+Lyon - Strasbourg
+Nimes - Marseille
+Toulouse - Bordeaux
+Strasbourg - Saint-Etienne
+Amiens - Montpellier
+Caen - Nice
+Dijon - Nantes
+Monaco - Lille
+Rennes - Angers
+Guingamp - Paris Saint Germain
+Reims - Lyon
+Paris Saint Germain - Caen
+Bordeaux - Strasbourg
+Lyon - Amiens
+Angers - Nimes
+Lille - Rennes
+Montpellier - Dijon
+Nice - Reims
+Saint-Etienne - Guingamp
+Nantes - Monaco
+Marseille - Toulouse

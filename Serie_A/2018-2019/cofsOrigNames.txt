@@ -1,0 +1,380 @@
+dddRoma - Parma Calcio 1913
+dddAtalanta - Sassuolo
+dddCagliari - Udinese
+dddFiorentina - Genoa
+dddInter - Empoli
+dddSPAL 2013 - AC Milan
+dddSampdoria - Juventus
+dddTorino - Lazio
+dddBologna - Napoli
+dddFrosinone - Chievo
+dddLazio - Bologna
+dddJuventus - Atalanta
+dddNapoli - Inter
+dddAC Milan - Frosinone
+dddEmpoli - Torino
+dddParma Calcio 1913 - Fiorentina
+dddChievo - Sampdoria
+dddSassuolo - Roma
+dddGenoa - Cagliari
+dddUdinese - SPAL 2013
+dddInter - Chievo
+dddBologna - Parma Calcio 1913
+dddRoma - Juventus
+dddSPAL 2013 - Napoli
+dddFrosinone - Udinese
+dddSampdoria - Empoli
+dddTorino - Sassuolo
+dddFiorentina - AC Milan
+dddCagliari - Lazio
+dddAtalanta - Genoa
+dddAC Milan - Bologna
+dddNapoli - Cagliari
+dddGenoa - Roma
+dddLazio - Atalanta
+dddParma Calcio 1913 - Sampdoria
+dddSassuolo - Frosinone
+dddEmpoli - Fiorentina
+dddUdinese - Inter
+dddChievo - SPAL 2013
+dddJuventus - Torino
+dddFiorentina - Sassuolo
+dddAtalanta - Udinese
+dddTorino - AC Milan
+dddSampdoria - Lazio
+dddChievo - Parma Calcio 1913
+dddSPAL 2013 - Genoa
+dddFrosinone - Napoli
+dddInter - Juventus
+dddRoma - Cagliari
+dddBologna - Empoli
+dddNapoli - Atalanta
+dddInter - Roma
+dddJuventus - Fiorentina
+dddBologna - Sampdoria
+dddCagliari - Frosinone
+dddEmpoli - SPAL 2013
+dddGenoa - Torino
+dddLazio - Chievo
+dddUdinese - Sassuolo
+dddParma Calcio 1913 - AC Milan
+dddLazio - Udinese
+dddAtalanta - Empoli
+dddFrosinone - Inter
+dddChievo - Napoli
+dddFiorentina - Bologna
+dddSampdoria - Genoa
+dddSassuolo - Parma Calcio 1913
+dddTorino - Cagliari
+dddAC Milan - Lazio
+dddRoma - Udinese
+dddSPAL 2013 - Juventus
+dddBologna - Chievo
+dddNapoli - Genoa
+dddInter - Atalanta
+dddLazio - Sassuolo
+dddCagliari - SPAL 2013
+dddUdinese - Empoli
+dddFiorentina - Frosinone
+dddSampdoria - Roma
+dddJuventus - AC Milan
+dddParma Calcio 1913 - Torino
+dddAtalanta - Bologna
+dddSassuolo - Chievo
+dddRoma - Fiorentina
+dddFrosinone - Parma Calcio 1913
+dddGenoa - Inter
+dddSPAL 2013 - Lazio
+dddTorino - Sampdoria
+dddEmpoli - Napoli
+dddCagliari - Juventus
+dddAC Milan - Udinese
+dddInter - Lazio
+dddBologna - Sassuolo
+dddRoma - Napoli
+dddFiorentina - Torino
+dddFrosinone - SPAL 2013
+dddParma Calcio 1913 - Atalanta
+dddSampdoria - AC Milan
+dddJuventus - Empoli
+dddUdinese - Genoa
+dddChievo - Cagliari
+dddAC Milan - Inter
+dddNapoli - Udinese
+dddAtalanta - Chievo
+dddEmpoli - Frosinone
+dddLazio - Parma Calcio 1913
+dddGenoa - Juventus
+dddTorino - Bologna
+dddSPAL 2013 - Roma
+dddSassuolo - Sampdoria
+dddCagliari - Fiorentina
+dddRoma - Empoli
+dddFiorentina - Lazio
+dddSassuolo - Napoli
+dddFrosinone - Torino
+dddInter - SPAL 2013
+dddSampdoria - Atalanta
+dddBologna - Cagliari
+dddChievo - AC Milan
+dddParma Calcio 1913 - Genoa
+dddJuventus - Udinese
+dddNapoli - Juventus
+dddAtalanta - Fiorentina
+dddGenoa - Frosinone
+dddSPAL 2013 - Sampdoria
+dddUdinese - Bologna
+dddTorino - Chievo
+dddLazio - Roma
+dddAC Milan - Sassuolo
+dddEmpoli - Parma Calcio 1913
+dddCagliari - Inter
+dddFiorentina - Inter
+dddParma Calcio 1913 - Napoli
+dddBologna - Juventus
+dddChievo - Genoa
+dddSassuolo - SPAL 2013
+dddSampdoria - Cagliari
+dddFrosinone - Roma
+dddTorino - Atalanta
+dddAC Milan - Empoli
+dddRoma - Bologna
+dddNapoli - Torino
+dddInter - Sampdoria
+dddEmpoli - Sassuolo
+dddGenoa - Lazio
+dddUdinese - Chievo
+dddSPAL 2013 - Fiorentina
+dddAtalanta - AC Milan
+dddCagliari - Parma Calcio 1913
+dddJuventus - Frosinone
+dddAC Milan - Cagliari
+dddSassuolo - Juventus
+dddAtalanta - SPAL 2013
+dddSampdoria - Frosinone
+dddTorino - Udinese
+dddBologna - Genoa
+dddParma Calcio 1913 - Inter
+dddFiorentina - Napoli
+dddChievo - Roma
+dddLazio - Empoli
+dddCagliari - Atalanta
+dddFrosinone - Lazio
+dddRoma - AC Milan
+dddInter - Bologna
+dddGenoa - Sassuolo
+dddUdinese - Fiorentina
+dddSPAL 2013 - Torino
+dddJuventus - Parma Calcio 1913
+dddNapoli - Sampdoria
+dddEmpoli - Chievo
+dddEmpoli - Genoa
+dddLazio - Juventus
+dddTorino - Inter
+dddAtalanta - Roma
+dddBologna - Frosinone
+dddParma Calcio 1913 - SPAL 2013
+dddChievo - Fiorentina
+dddAC Milan - Napoli
+dddSampdoria - Udinese
+dddSassuolo - Cagliari
+dddJuventus - Chievo
+dddGenoa - AC Milan
+dddNapoli - Lazio
+dddCagliari - Empoli
+dddFiorentina - Sampdoria
+dddSPAL 2013 - Bologna
+dddFrosinone - Atalanta
+dddInter - Sassuolo
+dddUdinese - Parma Calcio 1913
+dddRoma - Torino
+dddAC Milan - SPAL 2013
+dddNapoli - Bologna
+dddChievo - Frosinone
+dddEmpoli - Inter
+dddGenoa - Fiorentina
+dddLazio - Torino
+dddParma Calcio 1913 - Roma
+dddSassuolo - Atalanta
+dddUdinese - Cagliari
+dddJuventus - Sampdoria
+dddInter - Napoli
+dddRoma - Sassuolo
+dddSPAL 2013 - Udinese
+dddTorino - Empoli
+dddAtalanta - Juventus
+dddBologna - Lazio
+dddCagliari - Genoa
+dddFiorentina - Parma Calcio 1913
+dddSampdoria - Chievo
+dddFrosinone - AC Milan
+dddJuventus - Roma
+dddChievo - Inter
+dddParma Calcio 1913 - Bologna
+dddAC Milan - Fiorentina
+dddEmpoli - Sampdoria
+dddGenoa - Atalanta
+dddNapoli - SPAL 2013
+dddSassuolo - Torino
+dddUdinese - Frosinone
+dddLazio - Cagliari
+dddBologna - AC Milan
+dddAtalanta - Lazio
+dddRoma - Genoa
+dddCagliari - Napoli
+dddFiorentina - Empoli
+dddFrosinone - Sassuolo
+dddSampdoria - Parma Calcio 1913
+dddSPAL 2013 - Chievo
+dddTorino - Juventus
+dddInter - Udinese
+dddAC Milan - Torino
+dddGenoa - SPAL 2013
+dddEmpoli - Bologna
+dddParma Calcio 1913 - Chievo
+dddUdinese - Atalanta
+dddSassuolo - Fiorentina
+dddLazio - Sampdoria
+dddCagliari - Roma
+dddNapoli - Frosinone
+dddJuventus - Inter
+dddAtalanta - Napoli
+dddRoma - Inter
+dddChievo - Lazio
+dddFrosinone - Cagliari
+dddSassuolo - Udinese
+dddTorino - Genoa
+dddAC Milan - Parma Calcio 1913
+dddSampdoria - Bologna
+dddFiorentina - Juventus
+dddSPAL 2013 - Empoli
+dddCagliari - Torino
+dddGenoa - Sampdoria
+dddLazio - AC Milan
+dddBologna - Fiorentina
+dddEmpoli - Atalanta
+dddNapoli - Chievo
+dddParma Calcio 1913 - Sassuolo
+dddInter - Frosinone
+dddJuventus - SPAL 2013
+dddUdinese - Roma
+dddAC Milan - Juventus
+dddSassuolo - Lazio
+dddRoma - Sampdoria
+dddChievo - Bologna
+dddEmpoli - Udinese
+dddAtalanta - Inter
+dddGenoa - Napoli
+dddSPAL 2013 - Cagliari
+dddTorino - Parma Calcio 1913
+dddFrosinone - Fiorentina
+dddUdinese - AC Milan
+dddBologna - Atalanta
+dddChievo - Sassuolo
+dddParma Calcio 1913 - Frosinone
+dddSampdoria - Torino
+dddLazio - SPAL 2013
+dddJuventus - Cagliari
+dddFiorentina - Roma
+dddInter - Genoa
+dddNapoli - Empoli
+dddAC Milan - Genoa
+dddLazio - Inter
+dddNapoli - Roma
+dddAC Milan - Sampdoria
+dddCagliari - Chievo
+dddGenoa - Udinese
+dddSPAL 2013 - Frosinone
+dddSassuolo - Bologna
+dddTorino - Fiorentina
+dddEmpoli - Juventus
+dddAtalanta - Parma Calcio 1913
+dddSampdoria - Sassuolo
+dddInter - AC Milan
+dddFiorentina - Cagliari
+dddBologna - Torino
+dddChievo - Atalanta
+dddParma Calcio 1913 - Lazio
+dddFrosinone - Empoli
+dddUdinese - Napoli
+dddJuventus - Genoa
+dddRoma - SPAL 2013
+dddSPAL 2013 - Inter
+dddNapoli - Sassuolo
+dddAC Milan - Chievo
+dddAtalanta - Sampdoria
+dddLazio - Fiorentina
+dddGenoa - Parma Calcio 1913
+dddEmpoli - Roma
+dddUdinese - Juventus
+dddCagliari - Bologna
+dddTorino - Frosinone
+dddSampdoria - SPAL 2013
+dddSassuolo - AC Milan
+dddParma Calcio 1913 - Empoli
+dddChievo - Torino
+dddFiorentina - Atalanta
+dddFrosinone - Genoa
+dddBologna - Udinese
+dddInter - Cagliari
+dddJuventus - Napoli
+dddRoma - Lazio
+dddEmpoli - AC Milan
+dddSPAL 2013 - Sassuolo
+dddRoma - Frosinone
+dddAtalanta - Torino
+dddCagliari - Sampdoria
+dddGenoa - Chievo
+dddJuventus - Bologna
+dddNapoli - Parma Calcio 1913
+dddUdinese - Lazio
+dddInter - Fiorentina
+dddFrosinone - Juventus
+dddAC Milan - Atalanta
+dddBologna - Roma
+dddChievo - Udinese
+dddLazio - Genoa
+dddTorino - Napoli
+dddSampdoria - Inter
+dddFiorentina - SPAL 2013
+dddParma Calcio 1913 - Cagliari
+dddSassuolo - Empoli
+dddSampdoria - Fiorentina
+dddSPAL 2013 - Atalanta
+dddCagliari - AC Milan
+dddEmpoli - Lazio
+dddGenoa - Bologna
+dddJuventus - Sassuolo
+dddUdinese - Torino
+dddRoma - Chievo
+dddFrosinone - Sampdoria
+dddNapoli - Fiorentina
+dddInter - Parma Calcio 1913
+dddAtalanta - Cagliari
+dddChievo - Empoli
+dddLazio - Frosinone
+dddSampdoria - Napoli
+dddSassuolo - Genoa
+dddTorino - SPAL 2013
+dddFiorentina - Udinese
+dddParma Calcio 1913 - Juventus
+dddBologna - Inter
+dddAC Milan - Roma
+dddRoma - Atalanta
+dddCagliari - Sassuolo
+dddFiorentina - Chievo
+dddFrosinone - Bologna
+dddGenoa - Empoli
+dddInter - Torino
+dddUdinese - Sampdoria
+dddSPAL 2013 - Parma Calcio 1913
+dddNapoli - AC Milan
+dddJuventus - Lazio
+dddAtalanta - Frosinone
+dddBologna - SPAL 2013
+dddEmpoli - Cagliari
+dddParma Calcio 1913 - Udinese
+dddSassuolo - Inter
+dddTorino - Roma
+dddLazio - Napoli
+dddChievo - Juventus

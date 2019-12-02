@@ -1,11 +1,11 @@
 HomeTeam,AwayTeam
-Paris Saint Germain,Lille
-Lyon,Nice
-Brest,Nantes
-Metz,Reims
-Amiens,Strasbourg
-Angers,Nimes
-Dijon,Rennes
-Bordeaux,Monaco
-Saint-Etienne,Montpellier
-Toulouse,Marseille
+Strasbourg,Lyon
+Reims,Bordeaux
+Monaco,Paris Saint Germain
+Nimes,Metz
+Nantes,Toulouse
+Rennes,Saint-Etienne
+Marseille,Brest
+Montpellier,Amiens
+Lille,Dijon
+Nice,Angers

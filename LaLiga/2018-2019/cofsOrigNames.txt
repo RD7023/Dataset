@@ -1,0 +1,380 @@
+dddEibar - Barcelona
+dddReal Madrid - Real Betis
+dddAlaves - Girona
+dddCelta Vigo - Rayo Vallecano
+dddSD Huesca - Leganes
+dddEspanyol - Real Sociedad
+dddGetafe - Villarreal
+dddSevilla - Athletic Club
+dddReal Valladolid - Valencia
+dddLevante - Atletico Madrid
+dddAthletic Club - Celta Vigo
+dddAtletico Madrid - Sevilla
+dddBarcelona - Getafe
+dddReal Betis - SD Huesca
+dddGirona - Levante
+dddLeganes - Espanyol
+dddRayo Vallecano - Real Valladolid
+dddReal Sociedad - Real Madrid
+dddValencia - Alaves
+dddVillarreal - Eibar
+dddSD Huesca - Valencia
+dddReal Valladolid - Athletic Club
+dddReal Madrid - Villarreal
+dddEibar - Real Betis
+dddGetafe - Girona
+dddCelta Vigo - Barcelona
+dddAlaves - Real Sociedad
+dddEspanyol - Atletico Madrid
+dddLevante - Rayo Vallecano
+dddSevilla - Leganes
+dddReal Betis - Espanyol
+dddRayo Vallecano - Real Madrid
+dddVillarreal - SD Huesca
+dddReal Sociedad - Getafe
+dddGirona - Sevilla
+dddValencia - Eibar
+dddBarcelona - Levante
+dddLeganes - Celta Vigo
+dddAtletico Madrid - Real Valladolid
+dddAthletic Club - Alaves
+dddGetafe - Real Madrid
+dddReal Sociedad - Villarreal
+dddSevilla - Rayo Vallecano
+dddLevante - Real Betis
+dddEspanyol - Celta Vigo
+dddLeganes - Athletic Club
+dddAtletico Madrid - Valencia
+dddAlaves - Barcelona
+dddReal Valladolid - Girona
+dddSD Huesca - Eibar
+dddReal Betis - Valencia
+dddVillarreal - Leganes
+dddReal Madrid - Athletic Club
+dddGetafe - Sevilla
+dddLevante - Espanyol
+dddBarcelona - Real Sociedad
+dddRayo Vallecano - SD Huesca
+dddEibar - Atletico Madrid
+dddCelta Vigo - Girona
+dddAlaves - Real Valladolid
+dddLeganes - Real Madrid
+dddValencia - Levante
+dddGirona - Villarreal
+dddReal Sociedad - Eibar
+dddAthletic Club - Rayo Vallecano
+dddReal Valladolid - Getafe
+dddSevilla - Real Betis
+dddAtletico Madrid - Celta Vigo
+dddSD Huesca - Barcelona
+dddEspanyol - Alaves
+dddReal Betis - Villarreal
+dddCelta Vigo - Real Sociedad
+dddLevante - SD Huesca
+dddReal Valladolid - Sevilla
+dddGetafe - Athletic Club
+dddAlaves - Leganes
+dddBarcelona - Atletico Madrid
+dddRayo Vallecano - Valencia
+dddReal Madrid - Eibar
+dddGirona - Espanyol
+dddReal Sociedad - Real Betis
+dddLeganes - Real Valladolid
+dddSevilla - Alaves
+dddValencia - Real Madrid
+dddEibar - Rayo Vallecano
+dddSD Huesca - Celta Vigo
+dddAthletic Club - Levante
+dddVillarreal - Barcelona
+dddEspanyol - Getafe
+dddAtletico Madrid - Girona
+dddReal Madrid - SD Huesca
+dddReal Valladolid - Real Sociedad
+dddSevilla - Valencia
+dddRayo Vallecano - Real Betis
+dddLevante - Eibar
+dddAlaves - Atletico Madrid
+dddCelta Vigo - Villarreal
+dddBarcelona - Espanyol
+dddGetafe - Leganes
+dddGirona - Athletic Club
+dddReal Betis - Barcelona
+dddValencia - Getafe
+dddVillarreal - Rayo Vallecano
+dddEspanyol - Sevilla
+dddEibar - Real Valladolid
+dddLeganes - Girona
+dddAthletic Club - Atletico Madrid
+dddReal Madrid - Celta Vigo
+dddSD Huesca - Alaves
+dddReal Sociedad - Levante
+dddReal Valladolid - Real Madrid
+dddLevante - Villarreal
+dddSevilla - Real Sociedad
+dddGirona - Valencia
+dddCelta Vigo - Real Betis
+dddGetafe - SD Huesca
+dddBarcelona - Rayo Vallecano
+dddAtletico Madrid - Leganes
+dddAlaves - Eibar
+dddAthletic Club - Espanyol
+dddLeganes - Levante
+dddValencia - Athletic Club
+dddReal Sociedad - Atletico Madrid
+dddReal Betis - Getafe
+dddEibar - Celta Vigo
+dddReal Madrid - Barcelona
+dddSD Huesca - Sevilla
+dddVillarreal - Alaves
+dddEspanyol - Real Valladolid
+dddRayo Vallecano - Girona
+dddGirona - Real Sociedad
+dddLevante - Real Madrid
+dddReal Valladolid - Real Betis
+dddAtletico Madrid - Villarreal
+dddLeganes - Valencia
+dddAthletic Club - Eibar
+dddAlaves - Celta Vigo
+dddSevilla - Barcelona
+dddGetafe - Rayo Vallecano
+dddEspanyol - SD Huesca
+dddSD Huesca - Athletic Club
+dddReal Betis - Alaves
+dddVillarreal - Sevilla
+dddValencia - Espanyol
+dddReal Madrid - Girona
+dddBarcelona - Real Valladolid
+dddReal Sociedad - Leganes
+dddRayo Vallecano - Atletico Madrid
+dddCelta Vigo - Levante
+dddEibar - Getafe
+dddAlaves - Levante
+dddAthletic Club - Barcelona
+dddSevilla - Eibar
+dddValencia - Real Sociedad
+dddLeganes - Real Betis
+dddGirona - SD Huesca
+dddEspanyol - Rayo Vallecano
+dddAtletico Madrid - Real Madrid
+dddGetafe - Celta Vigo
+dddReal Valladolid - Villarreal
+dddRayo Vallecano - Leganes
+dddReal Madrid - Alaves
+dddEibar - Girona
+dddReal Betis - Atletico Madrid
+dddVillarreal - Espanyol
+dddCelta Vigo - Sevilla
+dddBarcelona - Valencia
+dddReal Sociedad - Athletic Club
+dddLevante - Getafe
+dddSD Huesca - Real Valladolid
+dddAlaves - Rayo Vallecano
+dddEspanyol - Real Madrid
+dddAthletic Club - Real Betis
+dddReal Sociedad - SD Huesca
+dddGirona - Barcelona
+dddReal Valladolid - Celta Vigo
+dddValencia - Villarreal
+dddLeganes - Eibar
+dddAtletico Madrid - Getafe
+dddSevilla - Levante
+dddEibar - Espanyol
+dddBarcelona - Leganes
+dddLevante - Real Valladolid
+dddRayo Vallecano - Real Sociedad
+dddVillarreal - Athletic Club
+dddReal Betis - Girona
+dddCelta Vigo - Valencia
+dddSD Huesca - Atletico Madrid
+dddReal Madrid - Sevilla
+dddGetafe - Alaves
+dddReal Sociedad - Espanyol
+dddReal Betis - Real Madrid
+dddBarcelona - Eibar
+dddAthletic Club - Sevilla
+dddAtletico Madrid - Levante
+dddVillarreal - Getafe
+dddGirona - Alaves
+dddValencia - Real Valladolid
+dddLeganes - SD Huesca
+dddRayo Vallecano - Celta Vigo
+dddCelta Vigo - Athletic Club
+dddGetafe - Barcelona
+dddReal Madrid - Real Sociedad
+dddSevilla - Atletico Madrid
+dddEibar - Villarreal
+dddSD Huesca - Real Betis
+dddAlaves - Valencia
+dddReal Valladolid - Rayo Vallecano
+dddEspanyol - Leganes
+dddLevante - Girona
+dddVillarreal - Real Madrid
+dddRayo Vallecano - Levante
+dddLeganes - Sevilla
+dddValencia - SD Huesca
+dddAthletic Club - Real Valladolid
+dddBarcelona - Celta Vigo
+dddAtletico Madrid - Espanyol
+dddReal Betis - Eibar
+dddReal Sociedad - Alaves
+dddGirona - Getafe
+dddAlaves - Athletic Club
+dddLevante - Barcelona
+dddSD Huesca - Villarreal
+dddEspanyol - Real Betis
+dddSevilla - Girona
+dddEibar - Valencia
+dddReal Madrid - Rayo Vallecano
+dddReal Valladolid - Atletico Madrid
+dddGetafe - Real Sociedad
+dddCelta Vigo - Leganes
+dddAthletic Club - Girona
+dddReal Betis - Rayo Vallecano
+dddReal Sociedad - Real Valladolid
+dddSD Huesca - Real Madrid
+dddEibar - Levante
+dddEspanyol - Barcelona
+dddVillarreal - Celta Vigo
+dddValencia - Sevilla
+dddAtletico Madrid - Alaves
+dddLeganes - Getafe
+dddLevante - Athletic Club
+dddAlaves - Sevilla
+dddBarcelona - Villarreal
+dddGirona - Atletico Madrid
+dddReal Betis - Real Sociedad
+dddReal Madrid - Valencia
+dddGetafe - Espanyol
+dddReal Valladolid - Leganes
+dddCelta Vigo - SD Huesca
+dddRayo Vallecano - Eibar
+dddReal Sociedad - Celta Vigo
+dddVillarreal - Real Betis
+dddEspanyol - Girona
+dddSevilla - Real Valladolid
+dddAthletic Club - Getafe
+dddAtletico Madrid - Barcelona
+dddSD Huesca - Levante
+dddValencia - Rayo Vallecano
+dddEibar - Real Madrid
+dddLeganes - Alaves
+dddCelta Vigo - Real Madrid
+dddRayo Vallecano - Villarreal
+dddSevilla - Espanyol
+dddBarcelona - Real Betis
+dddAlaves - SD Huesca
+dddGirona - Leganes
+dddAtletico Madrid - Athletic Club
+dddGetafe - Valencia
+dddReal Valladolid - Eibar
+dddLevante - Real Sociedad
+dddEspanyol - Athletic Club
+dddReal Betis - Celta Vigo
+dddSD Huesca - Getafe
+dddReal Sociedad - Sevilla
+dddVillarreal - Levante
+dddEibar - Alaves
+dddRayo Vallecano - Barcelona
+dddValencia - Girona
+dddReal Madrid - Real Valladolid
+dddLeganes - Atletico Madrid
+dddSevilla - SD Huesca
+dddAlaves - Villarreal
+dddBarcelona - Real Madrid
+dddGetafe - Real Betis
+dddAtletico Madrid - Real Sociedad
+dddCelta Vigo - Eibar
+dddLevante - Leganes
+dddAthletic Club - Valencia
+dddGirona - Rayo Vallecano
+dddReal Valladolid - Espanyol
+dddRayo Vallecano - Athletic Club
+dddReal Sociedad - Girona
+dddReal Betis - Real Valladolid
+dddSD Huesca - Espanyol
+dddEibar - Athletic Club
+dddRayo Vallecano - Getafe
+dddBarcelona - Sevilla
+dddVillarreal - Atletico Madrid
+dddValencia - Leganes
+dddReal Madrid - Levante
+dddCelta Vigo - Alaves
+dddValencia - Barcelona
+dddEspanyol - Villarreal
+dddSevilla - Celta Vigo
+dddAtletico Madrid - Real Betis
+dddReal Valladolid - SD Huesca
+dddLeganes - Rayo Vallecano
+dddAlaves - Real Madrid
+dddGetafe - Levante
+dddGirona - Eibar
+dddAthletic Club - Real Sociedad
+dddCelta Vigo - Getafe
+dddReal Betis - Leganes
+dddLevante - Alaves
+dddVillarreal - Real Valladolid
+dddSD Huesca - Girona
+dddReal Madrid - Atletico Madrid
+dddEibar - Sevilla
+dddBarcelona - Athletic Club
+dddReal Sociedad - Valencia
+dddRayo Vallecano - Espanyol
+dddGirona - Real Betis
+dddAlaves - Getafe
+dddReal Valladolid - Levante
+dddSevilla - Real Madrid
+dddValencia - Celta Vigo
+dddAthletic Club - Villarreal
+dddLeganes - Barcelona
+dddAtletico Madrid - SD Huesca
+dddReal Sociedad - Rayo Vallecano
+dddEspanyol - Eibar
+dddBarcelona - Girona
+dddReal Betis - Athletic Club
+dddVillarreal - Valencia
+dddLevante - Sevilla
+dddReal Madrid - Espanyol
+dddGetafe - Atletico Madrid
+dddCelta Vigo - Real Valladolid
+dddEibar - Leganes
+dddRayo Vallecano - Alaves
+dddSD Huesca - Real Sociedad
+dddGirona - Celta Vigo
+dddSevilla - Getafe
+dddReal Valladolid - Alaves
+dddEspanyol - Levante
+dddLeganes - Villarreal
+dddAthletic Club - Real Madrid
+dddValencia - Real Betis
+dddReal Sociedad - Barcelona
+dddAtletico Madrid - Eibar
+dddSD Huesca - Rayo Vallecano
+dddReal Betis - Sevilla
+dddBarcelona - SD Huesca
+dddAlaves - Espanyol
+dddLevante - Valencia
+dddReal Madrid - Leganes
+dddCelta Vigo - Atletico Madrid
+dddEibar - Real Sociedad
+dddVillarreal - Girona
+dddGetafe - Real Valladolid
+dddAthletic Club - SD Huesca
+dddLevante - Celta Vigo
+dddGirona - Real Madrid
+dddSevilla - Villarreal
+dddEspanyol - Valencia
+dddReal Valladolid - Barcelona
+dddAtletico Madrid - Rayo Vallecano
+dddAlaves - Real Betis
+dddLeganes - Real Sociedad
+dddGetafe - Eibar
+dddAthletic Club - Leganes
+dddValencia - Atletico Madrid
+dddReal Madrid - Getafe
+dddRayo Vallecano - Sevilla
+dddEibar - SD Huesca
+dddBarcelona - Alaves
+dddVillarreal - Real Sociedad
+dddCelta Vigo - Espanyol
+dddReal Betis - Levante
+dddGirona - Real Valladolid

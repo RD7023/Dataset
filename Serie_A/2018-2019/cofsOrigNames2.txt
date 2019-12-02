@@ -1,0 +1,381 @@
+ddd
+Roma - Parma Calcio 1913
+Atalanta - Sassuolo
+Cagliari - Udinese
+Fiorentina - Genoa
+Inter - Empoli
+SPAL 2013 - AC Milan
+Sampdoria - Juventus
+Torino - Lazio
+Bologna - Napoli
+Frosinone - Chievo
+Lazio - Bologna
+Juventus - Atalanta
+Napoli - Inter
+AC Milan - Frosinone
+Empoli - Torino
+Parma Calcio 1913 - Fiorentina
+Chievo - Sampdoria
+Sassuolo - Roma
+Genoa - Cagliari
+Udinese - SPAL 2013
+Inter - Chievo
+Bologna - Parma Calcio 1913
+Roma - Juventus
+SPAL 2013 - Napoli
+Frosinone - Udinese
+Sampdoria - Empoli
+Torino - Sassuolo
+Fiorentina - AC Milan
+Cagliari - Lazio
+Atalanta - Genoa
+AC Milan - Bologna
+Napoli - Cagliari
+Genoa - Roma
+Lazio - Atalanta
+Parma Calcio 1913 - Sampdoria
+Sassuolo - Frosinone
+Empoli - Fiorentina
+Udinese - Inter
+Chievo - SPAL 2013
+Juventus - Torino
+Fiorentina - Sassuolo
+Atalanta - Udinese
+Torino - AC Milan
+Sampdoria - Lazio
+Chievo - Parma Calcio 1913
+SPAL 2013 - Genoa
+Frosinone - Napoli
+Inter - Juventus
+Roma - Cagliari
+Bologna - Empoli
+Napoli - Atalanta
+Inter - Roma
+Juventus - Fiorentina
+Bologna - Sampdoria
+Cagliari - Frosinone
+Empoli - SPAL 2013
+Genoa - Torino
+Lazio - Chievo
+Udinese - Sassuolo
+Parma Calcio 1913 - AC Milan
+Lazio - Udinese
+Atalanta - Empoli
+Frosinone - Inter
+Chievo - Napoli
+Fiorentina - Bologna
+Sampdoria - Genoa
+Sassuolo - Parma Calcio 1913
+Torino - Cagliari
+AC Milan - Lazio
+Roma - Udinese
+SPAL 2013 - Juventus
+Bologna - Chievo
+Napoli - Genoa
+Inter - Atalanta
+Lazio - Sassuolo
+Cagliari - SPAL 2013
+Udinese - Empoli
+Fiorentina - Frosinone
+Sampdoria - Roma
+Juventus - AC Milan
+Parma Calcio 1913 - Torino
+Atalanta - Bologna
+Sassuolo - Chievo
+Roma - Fiorentina
+Frosinone - Parma Calcio 1913
+Genoa - Inter
+SPAL 2013 - Lazio
+Torino - Sampdoria
+Empoli - Napoli
+Cagliari - Juventus
+AC Milan - Udinese
+Inter - Lazio
+Bologna - Sassuolo
+Roma - Napoli
+Fiorentina - Torino
+Frosinone - SPAL 2013
+Parma Calcio 1913 - Atalanta
+Sampdoria - AC Milan
+Juventus - Empoli
+Udinese - Genoa
+Chievo - Cagliari
+AC Milan - Inter
+Napoli - Udinese
+Atalanta - Chievo
+Empoli - Frosinone
+Lazio - Parma Calcio 1913
+Genoa - Juventus
+Torino - Bologna
+SPAL 2013 - Roma
+Sassuolo - Sampdoria
+Cagliari - Fiorentina
+Roma - Empoli
+Fiorentina - Lazio
+Sassuolo - Napoli
+Frosinone - Torino
+Inter - SPAL 2013
+Sampdoria - Atalanta
+Bologna - Cagliari
+Chievo - AC Milan
+Parma Calcio 1913 - Genoa
+Juventus - Udinese
+Napoli - Juventus
+Atalanta - Fiorentina
+Genoa - Frosinone
+SPAL 2013 - Sampdoria
+Udinese - Bologna
+Torino - Chievo
+Lazio - Roma
+AC Milan - Sassuolo
+Empoli - Parma Calcio 1913
+Cagliari - Inter
+Fiorentina - Inter
+Parma Calcio 1913 - Napoli
+Bologna - Juventus
+Chievo - Genoa
+Sassuolo - SPAL 2013
+Sampdoria - Cagliari
+Frosinone - Roma
+Torino - Atalanta
+AC Milan - Empoli
+Roma - Bologna
+Napoli - Torino
+Inter - Sampdoria
+Empoli - Sassuolo
+Genoa - Lazio
+Udinese - Chievo
+SPAL 2013 - Fiorentina
+Atalanta - AC Milan
+Cagliari - Parma Calcio 1913
+Juventus - Frosinone
+AC Milan - Cagliari
+Sassuolo - Juventus
+Atalanta - SPAL 2013
+Sampdoria - Frosinone
+Torino - Udinese
+Bologna - Genoa
+Parma Calcio 1913 - Inter
+Fiorentina - Napoli
+Chievo - Roma
+Lazio - Empoli
+Cagliari - Atalanta
+Frosinone - Lazio
+Roma - AC Milan
+Inter - Bologna
+Genoa - Sassuolo
+Udinese - Fiorentina
+SPAL 2013 - Torino
+Juventus - Parma Calcio 1913
+Napoli - Sampdoria
+Empoli - Chievo
+Empoli - Genoa
+Lazio - Juventus
+Torino - Inter
+Atalanta - Roma
+Bologna - Frosinone
+Parma Calcio 1913 - SPAL 2013
+Chievo - Fiorentina
+AC Milan - Napoli
+Sampdoria - Udinese
+Sassuolo - Cagliari
+Juventus - Chievo
+Genoa - AC Milan
+Napoli - Lazio
+Cagliari - Empoli
+Fiorentina - Sampdoria
+SPAL 2013 - Bologna
+Frosinone - Atalanta
+Inter - Sassuolo
+Udinese - Parma Calcio 1913
+Roma - Torino
+AC Milan - SPAL 2013
+Napoli - Bologna
+Chievo - Frosinone
+Empoli - Inter
+Genoa - Fiorentina
+Lazio - Torino
+Parma Calcio 1913 - Roma
+Sassuolo - Atalanta
+Udinese - Cagliari
+Juventus - Sampdoria
+Inter - Napoli
+Roma - Sassuolo
+SPAL 2013 - Udinese
+Torino - Empoli
+Atalanta - Juventus
+Bologna - Lazio
+Cagliari - Genoa
+Fiorentina - Parma Calcio 1913
+Sampdoria - Chievo
+Frosinone - AC Milan
+Juventus - Roma
+Chievo - Inter
+Parma Calcio 1913 - Bologna
+AC Milan - Fiorentina
+Empoli - Sampdoria
+Genoa - Atalanta
+Napoli - SPAL 2013
+Sassuolo - Torino
+Udinese - Frosinone
+Lazio - Cagliari
+Bologna - AC Milan
+Atalanta - Lazio
+Roma - Genoa
+Cagliari - Napoli
+Fiorentina - Empoli
+Frosinone - Sassuolo
+Sampdoria - Parma Calcio 1913
+SPAL 2013 - Chievo
+Torino - Juventus
+Inter - Udinese
+AC Milan - Torino
+Genoa - SPAL 2013
+Empoli - Bologna
+Parma Calcio 1913 - Chievo
+Udinese - Atalanta
+Sassuolo - Fiorentina
+Lazio - Sampdoria
+Cagliari - Roma
+Napoli - Frosinone
+Juventus - Inter
+Atalanta - Napoli
+Roma - Inter
+Chievo - Lazio
+Frosinone - Cagliari
+Sassuolo - Udinese
+Torino - Genoa
+AC Milan - Parma Calcio 1913
+Sampdoria - Bologna
+Fiorentina - Juventus
+SPAL 2013 - Empoli
+Cagliari - Torino
+Genoa - Sampdoria
+Lazio - AC Milan
+Bologna - Fiorentina
+Empoli - Atalanta
+Napoli - Chievo
+Parma Calcio 1913 - Sassuolo
+Inter - Frosinone
+Juventus - SPAL 2013
+Udinese - Roma
+AC Milan - Juventus
+Sassuolo - Lazio
+Roma - Sampdoria
+Chievo - Bologna
+Empoli - Udinese
+Atalanta - Inter
+Genoa - Napoli
+SPAL 2013 - Cagliari
+Torino - Parma Calcio 1913
+Frosinone - Fiorentina
+Udinese - AC Milan
+Bologna - Atalanta
+Chievo - Sassuolo
+Parma Calcio 1913 - Frosinone
+Sampdoria - Torino
+Lazio - SPAL 2013
+Juventus - Cagliari
+Fiorentina - Roma
+Inter - Genoa
+Napoli - Empoli
+AC Milan - Genoa
+Lazio - Inter
+Napoli - Roma
+AC Milan - Sampdoria
+Cagliari - Chievo
+Genoa - Udinese
+SPAL 2013 - Frosinone
+Sassuolo - Bologna
+Torino - Fiorentina
+Empoli - Juventus
+Atalanta - Parma Calcio 1913
+Sampdoria - Sassuolo
+Inter - AC Milan
+Fiorentina - Cagliari
+Bologna - Torino
+Chievo - Atalanta
+Parma Calcio 1913 - Lazio
+Frosinone - Empoli
+Udinese - Napoli
+Juventus - Genoa
+Roma - SPAL 2013
+SPAL 2013 - Inter
+Napoli - Sassuolo
+AC Milan - Chievo
+Atalanta - Sampdoria
+Lazio - Fiorentina
+Genoa - Parma Calcio 1913
+Empoli - Roma
+Udinese - Juventus
+Cagliari - Bologna
+Torino - Frosinone
+Sampdoria - SPAL 2013
+Sassuolo - AC Milan
+Parma Calcio 1913 - Empoli
+Chievo - Torino
+Fiorentina - Atalanta
+Frosinone - Genoa
+Bologna - Udinese
+Inter - Cagliari
+Juventus - Napoli
+Roma - Lazio
+Empoli - AC Milan
+SPAL 2013 - Sassuolo
+Roma - Frosinone
+Atalanta - Torino
+Cagliari - Sampdoria
+Genoa - Chievo
+Juventus - Bologna
+Napoli - Parma Calcio 1913
+Udinese - Lazio
+Inter - Fiorentina
+Frosinone - Juventus
+AC Milan - Atalanta
+Bologna - Roma
+Chievo - Udinese
+Lazio - Genoa
+Torino - Napoli
+Sampdoria - Inter
+Fiorentina - SPAL 2013
+Parma Calcio 1913 - Cagliari
+Sassuolo - Empoli
+Sampdoria - Fiorentina
+SPAL 2013 - Atalanta
+Cagliari - AC Milan
+Empoli - Lazio
+Genoa - Bologna
+Juventus - Sassuolo
+Udinese - Torino
+Roma - Chievo
+Frosinone - Sampdoria
+Napoli - Fiorentina
+Inter - Parma Calcio 1913
+Atalanta - Cagliari
+Chievo - Empoli
+Lazio - Frosinone
+Sampdoria - Napoli
+Sassuolo - Genoa
+Torino - SPAL 2013
+Fiorentina - Udinese
+Parma Calcio 1913 - Juventus
+Bologna - Inter
+AC Milan - Roma
+Roma - Atalanta
+Cagliari - Sassuolo
+Fiorentina - Chievo
+Frosinone - Bologna
+Genoa - Empoli
+Inter - Torino
+Udinese - Sampdoria
+SPAL 2013 - Parma Calcio 1913
+Napoli - AC Milan
+Juventus - Lazio
+Atalanta - Frosinone
+Bologna - SPAL 2013
+Empoli - Cagliari
+Parma Calcio 1913 - Udinese
+Sassuolo - Inter
+Torino - Roma
+Lazio - Napoli
+Chievo - Juventus

@@ -1,0 +1,306 @@
+dddBorussia M.Gladbach - Borussia Dortmund
+dddBayern Munich - Eintracht Frankfurt
+dddFortuna Duesseldorf - Hannover 96
+dddFreiburg - Nuernberg
+dddHertha Berlin - Bayer Leverkusen
+dddMainz 05 - Hoffenheim
+dddSchalke 04 - VfB Stuttgart
+dddWerder Bremen - RasenBallsport Leipzig
+dddWolfsburg - Augsburg
+dddEintracht Frankfurt - Mainz 05
+dddAugsburg - Hertha Berlin
+dddBayer Leverkusen - Schalke 04
+dddBorussia Dortmund - Fortuna Duesseldorf
+dddHannover 96 - Freiburg
+dddHoffenheim - Werder Bremen
+dddNuernberg - Borussia M.Gladbach
+dddRasenBallsport Leipzig - Bayern Munich
+dddVfB Stuttgart - Wolfsburg
+dddBayer Leverkusen - Eintracht Frankfurt
+dddFreiburg - Fortuna Duesseldorf
+dddSchalke 04 - Augsburg
+dddWerder Bremen - Borussia Dortmund
+dddBorussia M.Gladbach - Hoffenheim
+dddBayern Munich - Hannover 96
+dddHertha Berlin - VfB Stuttgart
+dddWolfsburg - Nuernberg
+dddMainz 05 - RasenBallsport Leipzig
+dddNuernberg - Bayern Munich
+dddHoffenheim - Wolfsburg
+dddVfB Stuttgart - Borussia M.Gladbach
+dddBorussia Dortmund - Schalke 04
+dddFortuna Duesseldorf - Werder Bremen
+dddEintracht Frankfurt - Hertha Berlin
+dddHannover 96 - Mainz 05
+dddRasenBallsport Leipzig - Freiburg
+dddAugsburg - Bayer Leverkusen
+dddWolfsburg - Eintracht Frankfurt
+dddHertha Berlin - Hannover 96
+dddFreiburg - Borussia Dortmund
+dddSchalke 04 - Hoffenheim
+dddBorussia M.Gladbach - RasenBallsport Leipzig
+dddAugsburg - VfB Stuttgart
+dddBayer Leverkusen - Nuernberg
+dddBayern Munich - Werder Bremen
+dddMainz 05 - Fortuna Duesseldorf
+dddEintracht Frankfurt - Augsburg
+dddFortuna Duesseldorf - Bayern Munich
+dddHoffenheim - Hertha Berlin
+dddBorussia Dortmund - Mainz 05
+dddHannover 96 - Borussia M.Gladbach
+dddRasenBallsport Leipzig - Wolfsburg
+dddVfB Stuttgart - Bayer Leverkusen
+dddWerder Bremen - Freiburg
+dddNuernberg - Schalke 04
+dddBorussia M.Gladbach - Werder Bremen
+dddAugsburg - Hoffenheim
+dddBayern Munich - Borussia Dortmund
+dddBayer Leverkusen - RasenBallsport Leipzig
+dddHertha Berlin - Fortuna Duesseldorf
+dddSchalke 04 - Eintracht Frankfurt
+dddVfB Stuttgart - Nuernberg
+dddWolfsburg - Hannover 96
+dddMainz 05 - Freiburg
+dddEintracht Frankfurt - VfB Stuttgart
+dddHannover 96 - Schalke 04
+dddRasenBallsport Leipzig - Hertha Berlin
+dddBorussia Dortmund - Wolfsburg
+dddFortuna Duesseldorf - Borussia M.Gladbach
+dddFreiburg - Bayern Munich
+dddNuernberg - Augsburg
+dddWerder Bremen - Mainz 05
+dddHoffenheim - Bayer Leverkusen
+dddBayern Munich - Mainz 05
+dddEintracht Frankfurt - Nuernberg
+dddBayer Leverkusen - Werder Bremen
+dddHertha Berlin - Borussia Dortmund
+dddAugsburg - Hannover 96
+dddSchalke 04 - RasenBallsport Leipzig
+dddVfB Stuttgart - Hoffenheim
+dddWolfsburg - Fortuna Duesseldorf
+dddBorussia M.Gladbach - Freiburg
+dddFortuna Duesseldorf - Eintracht Frankfurt
+dddHannover 96 - Bayer Leverkusen
+dddHoffenheim - Nuernberg
+dddMainz 05 - Borussia M.Gladbach
+dddBayern Munich - Wolfsburg
+dddBorussia Dortmund - VfB Stuttgart
+dddFreiburg - Hertha Berlin
+dddRasenBallsport Leipzig - Augsburg
+dddWerder Bremen - Schalke 04
+dddWolfsburg - Werder Bremen
+dddVfB Stuttgart - Hannover 96
+dddBorussia M.Gladbach - Bayern Munich
+dddBayer Leverkusen - Freiburg
+dddEintracht Frankfurt - Hoffenheim
+dddHertha Berlin - Mainz 05
+dddNuernberg - RasenBallsport Leipzig
+dddSchalke 04 - Fortuna Duesseldorf
+dddAugsburg - Borussia Dortmund
+dddRasenBallsport Leipzig - Hoffenheim
+dddBorussia Dortmund - Bayer Leverkusen
+dddHannover 96 - Eintracht Frankfurt
+dddFortuna Duesseldorf - Nuernberg
+dddBorussia M.Gladbach - Wolfsburg
+dddBayern Munich - Hertha Berlin
+dddFreiburg - Augsburg
+dddMainz 05 - Schalke 04
+dddWerder Bremen - VfB Stuttgart
+dddNuernberg - Borussia Dortmund
+dddBayer Leverkusen - Fortuna Duesseldorf
+dddEintracht Frankfurt - Borussia M.Gladbach
+dddHertha Berlin - Werder Bremen
+dddHoffenheim - Hannover 96
+dddSchalke 04 - Freiburg
+dddVfB Stuttgart - RasenBallsport Leipzig
+dddWolfsburg - Mainz 05
+dddAugsburg - Bayern Munich
+dddFortuna Duesseldorf - VfB Stuttgart
+dddWerder Bremen - Augsburg
+dddBayern Munich - Schalke 04
+dddBorussia M.Gladbach - Hertha Berlin
+dddBorussia Dortmund - Hoffenheim
+dddFreiburg - Wolfsburg
+dddHannover 96 - Nuernberg
+dddRasenBallsport Leipzig - Eintracht Frankfurt
+dddMainz 05 - Bayer Leverkusen
+dddVfB Stuttgart - Freiburg
+dddAugsburg - Mainz 05
+dddSchalke 04 - Borussia M.Gladbach
+dddBayer Leverkusen - Bayern Munich
+dddEintracht Frankfurt - Borussia Dortmund
+dddHertha Berlin - Wolfsburg
+dddHoffenheim - Fortuna Duesseldorf
+dddNuernberg - Werder Bremen
+dddHannover 96 - RasenBallsport Leipzig
+dddFortuna Duesseldorf - RasenBallsport Leipzig
+dddBayern Munich - VfB Stuttgart
+dddWerder Bremen - Eintracht Frankfurt
+dddBorussia M.Gladbach - Augsburg
+dddBorussia Dortmund - Hannover 96
+dddFreiburg - Hoffenheim
+dddMainz 05 - Nuernberg
+dddWolfsburg - Bayer Leverkusen
+dddHertha Berlin - Schalke 04
+dddSchalke 04 - Wolfsburg
+dddNuernberg - Hertha Berlin
+dddRasenBallsport Leipzig - Borussia Dortmund
+dddHannover 96 - Werder Bremen
+dddAugsburg - Fortuna Duesseldorf
+dddBayer Leverkusen - Borussia M.Gladbach
+dddEintracht Frankfurt - Freiburg
+dddVfB Stuttgart - Mainz 05
+dddHoffenheim - Bayern Munich
+dddHoffenheim - Mainz 05
+dddAugsburg - Wolfsburg
+dddEintracht Frankfurt - Bayern Munich
+dddBayer Leverkusen - Hertha Berlin
+dddHannover 96 - Fortuna Duesseldorf
+dddNuernberg - Freiburg
+dddRasenBallsport Leipzig - Werder Bremen
+dddVfB Stuttgart - Schalke 04
+dddBorussia Dortmund - Borussia M.Gladbach
+dddBayern Munich - RasenBallsport Leipzig
+dddFreiburg - Hannover 96
+dddMainz 05 - Eintracht Frankfurt
+dddWerder Bremen - Hoffenheim
+dddSchalke 04 - Bayer Leverkusen
+dddFortuna Duesseldorf - Borussia Dortmund
+dddHertha Berlin - Augsburg
+dddWolfsburg - VfB Stuttgart
+dddBorussia M.Gladbach - Nuernberg
+dddEintracht Frankfurt - Bayer Leverkusen
+dddRasenBallsport Leipzig - Mainz 05
+dddBorussia Dortmund - Werder Bremen
+dddAugsburg - Schalke 04
+dddFortuna Duesseldorf - Freiburg
+dddHannover 96 - Bayern Munich
+dddHoffenheim - Borussia M.Gladbach
+dddVfB Stuttgart - Hertha Berlin
+dddNuernberg - Wolfsburg
+dddBorussia M.Gladbach - VfB Stuttgart
+dddMainz 05 - Hannover 96
+dddHertha Berlin - Eintracht Frankfurt
+dddBayer Leverkusen - Augsburg
+dddBayern Munich - Nuernberg
+dddFreiburg - RasenBallsport Leipzig
+dddSchalke 04 - Borussia Dortmund
+dddWolfsburg - Hoffenheim
+dddWerder Bremen - Fortuna Duesseldorf
+dddNuernberg - Bayer Leverkusen
+dddEintracht Frankfurt - Wolfsburg
+dddRasenBallsport Leipzig - Borussia M.Gladbach
+dddHoffenheim - Schalke 04
+dddBorussia Dortmund - Freiburg
+dddHannover 96 - Hertha Berlin
+dddVfB Stuttgart - Augsburg
+dddWerder Bremen - Bayern Munich
+dddFortuna Duesseldorf - Mainz 05
+dddBorussia M.Gladbach - Hannover 96
+dddFreiburg - Werder Bremen
+dddSchalke 04 - Nuernberg
+dddAugsburg - Eintracht Frankfurt
+dddBayern Munich - Fortuna Duesseldorf
+dddHertha Berlin - Hoffenheim
+dddMainz 05 - Borussia Dortmund
+dddWolfsburg - RasenBallsport Leipzig
+dddBayer Leverkusen - VfB Stuttgart
+dddEintracht Frankfurt - Schalke 04
+dddRasenBallsport Leipzig - Bayer Leverkusen
+dddBorussia Dortmund - Bayern Munich
+dddFortuna Duesseldorf - Hertha Berlin
+dddFreiburg - Mainz 05
+dddHoffenheim - Augsburg
+dddNuernberg - VfB Stuttgart
+dddWerder Bremen - Borussia M.Gladbach
+dddHannover 96 - Wolfsburg
+dddMainz 05 - Werder Bremen
+dddBorussia M.Gladbach - Fortuna Duesseldorf
+dddHertha Berlin - RasenBallsport Leipzig
+dddAugsburg - Nuernberg
+dddBayer Leverkusen - Hoffenheim
+dddBayern Munich - Freiburg
+dddSchalke 04 - Hannover 96
+dddWolfsburg - Borussia Dortmund
+dddVfB Stuttgart - Eintracht Frankfurt
+dddWerder Bremen - Bayer Leverkusen
+dddRasenBallsport Leipzig - Schalke 04
+dddNuernberg - Eintracht Frankfurt
+dddHoffenheim - VfB Stuttgart
+dddBorussia Dortmund - Hertha Berlin
+dddFortuna Duesseldorf - Wolfsburg
+dddHannover 96 - Augsburg
+dddMainz 05 - Bayern Munich
+dddFreiburg - Borussia M.Gladbach
+dddBorussia M.Gladbach - Mainz 05
+dddHertha Berlin - Freiburg
+dddSchalke 04 - Werder Bremen
+dddAugsburg - RasenBallsport Leipzig
+dddBayer Leverkusen - Hannover 96
+dddNuernberg - Hoffenheim
+dddVfB Stuttgart - Borussia Dortmund
+dddWolfsburg - Bayern Munich
+dddEintracht Frankfurt - Fortuna Duesseldorf
+dddRasenBallsport Leipzig - Nuernberg
+dddHoffenheim - Eintracht Frankfurt
+dddFreiburg - Bayer Leverkusen
+dddBayern Munich - Borussia M.Gladbach
+dddBorussia Dortmund - Augsburg
+dddFortuna Duesseldorf - Schalke 04
+dddHannover 96 - VfB Stuttgart
+dddMainz 05 - Hertha Berlin
+dddWerder Bremen - Wolfsburg
+dddAugsburg - Freiburg
+dddEintracht Frankfurt - Hannover 96
+dddBayer Leverkusen - Borussia Dortmund
+dddHoffenheim - RasenBallsport Leipzig
+dddNuernberg - Fortuna Duesseldorf
+dddSchalke 04 - Mainz 05
+dddVfB Stuttgart - Werder Bremen
+dddWolfsburg - Borussia M.Gladbach
+dddHertha Berlin - Bayern Munich
+dddBorussia M.Gladbach - Eintracht Frankfurt
+dddBorussia Dortmund - Nuernberg
+dddMainz 05 - Wolfsburg
+dddRasenBallsport Leipzig - VfB Stuttgart
+dddFortuna Duesseldorf - Bayer Leverkusen
+dddBayern Munich - Augsburg
+dddFreiburg - Schalke 04
+dddHannover 96 - Hoffenheim
+dddWerder Bremen - Hertha Berlin
+dddEintracht Frankfurt - RasenBallsport Leipzig
+dddBayer Leverkusen - Mainz 05
+dddSchalke 04 - Bayern Munich
+dddAugsburg - Werder Bremen
+dddHertha Berlin - Borussia M.Gladbach
+dddHoffenheim - Borussia Dortmund
+dddNuernberg - Hannover 96
+dddWolfsburg - Freiburg
+dddVfB Stuttgart - Fortuna Duesseldorf
+dddFreiburg - VfB Stuttgart
+dddWerder Bremen - Nuernberg
+dddBorussia M.Gladbach - Schalke 04
+dddBayern Munich - Bayer Leverkusen
+dddFortuna Duesseldorf - Hoffenheim
+dddMainz 05 - Augsburg
+dddRasenBallsport Leipzig - Hannover 96
+dddWolfsburg - Hertha Berlin
+dddBorussia Dortmund - Eintracht Frankfurt
+dddSchalke 04 - Hertha Berlin
+dddRasenBallsport Leipzig - Fortuna Duesseldorf
+dddVfB Stuttgart - Bayern Munich
+dddAugsburg - Borussia M.Gladbach
+dddBayer Leverkusen - Wolfsburg
+dddEintracht Frankfurt - Werder Bremen
+dddHoffenheim - Freiburg
+dddNuernberg - Mainz 05
+dddHannover 96 - Borussia Dortmund
+dddBorussia Dortmund - RasenBallsport Leipzig
+dddMainz 05 - VfB Stuttgart
+dddBorussia M.Gladbach - Bayer Leverkusen
+dddFortuna Duesseldorf - Augsburg
+dddFreiburg - Eintracht Frankfurt
+dddHertha Berlin - Nuernberg
+dddWerder Bremen - Hannover 96
+dddWolfsburg - Schalke 04
+dddBayern Munich - Hoffenheim
