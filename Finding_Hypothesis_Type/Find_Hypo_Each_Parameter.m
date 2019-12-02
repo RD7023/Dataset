@@ -2,12 +2,12 @@ ligasArr=['Bundesliga';'LaLiga';'Ligue_1';'Serie_A'];
 
 PC='ZBook';
 
-path='\home\dutkevych_t10\Desktop\Dataset';
+path='/home/dutkevych_t10/Desktop/Dataset';
 
-powersArr = dir([path '\Finding_Hypothesis_Type\powers']);
-epowersArr = dir([path '\Finding_Hypothesis_Type\epowers']);
-lnpowersArr = dir([path '\Finding_Hypothesis_Type\lnpowers']);
-sqrtpowersArr = dir([path '\Finding_Hypothesis_Type\sqrtpowers']);
+powersArr = dir([path '/Finding_Hypothesis_Type/powers']);
+epowersArr = dir([path '/Finding_Hypothesis_Type/epowers']);
+lnpowersArr = dir([path '/Finding_Hypothesis_Type/lnpowers']);
+sqrtpowersArr = dir([path '/Finding_Hypothesis_Type/sqrtpowers']);
 
 type='Type_3(Basic+Price)';
 numberType='3';
@@ -26,7 +26,7 @@ PriceFlag=VB_Code(5)+3;
 start_of_cycle = 3;
 %%AverG
 for pwi_AverG=start_of_cycle:length(powersArr),
- powers_AverG = load([path '\Finding_Hypothesis_Type\powers\' powersArr(pwi_AverG,1).name]);
+ powers_AverG = load([path '/Finding_Hypothesis_Type/powers/' powersArr(pwi_AverG,1).name]);
  powers_AverG = struct2cell(powers_AverG)(1,1){1,1}';
  
  
@@ -34,20 +34,20 @@ for pwi_AverG=start_of_cycle:length(powersArr),
  
 
 for lni_AverG=start_of_cycle:length(lnpowersArr),
- lnpowers_AverG = load([path '\Finding_Hypothesis_Type\lnpowers\' lnpowersArr(lni_AverG,1).name]);
+ lnpowers_AverG = load([path '/Finding_Hypothesis_Type/lnpowers/' lnpowersArr(lni_AverG,1).name]);
  lnpowers_AverG = struct2cell(lnpowers_AverG)(1,1){1,1}';
  
  lnpowers_AverGA = lnpowers_AverG;
 
 for ei_AverG=start_of_cycle:length(epowersArr),
- epowers_AverG = load([path '\Finding_Hypothesis_Type\epowers\' epowersArr(ei_AverG,1).name]);
+ epowers_AverG = load([path '/Finding_Hypothesis_Type/epowers/' epowersArr(ei_AverG,1).name]);
  epowers_AverG = struct2cell(epowers_AverG)(1,1){1,1}';
 
  
  epowers_AverGA =epowers_AverG;
 
 for sqrti_AverG=start_of_cycle:length(sqrtpowersArr),
- sqrtpowers_AverG = load([path '\Finding_Hypothesis_Type\sqrtpowers\' sqrtpowersArr(sqrti_AverG,1).name]);
+ sqrtpowers_AverG = load([path '/Finding_Hypothesis_Type/sqrtpowers/' sqrtpowersArr(sqrti_AverG,1).name]);
  sqrtpowers_AverG = struct2cell(sqrtpowers_AverG)(1,1){1,1}';
  
  sqrtpowers_AverGA = sqrtpowers_AverG;
@@ -58,21 +58,21 @@ for sqrti_AverG=start_of_cycle:length(sqrtpowersArr),
  
 %%AverXG
 for pwi_AverXG=start_of_cycle:length(powersArr),
- powers_AverXG = load([path '\Finding_Hypothesis_Type\powers\' powersArr(pwi_AverXG,1).name]);
+ powers_AverXG = load([path '/Finding_Hypothesis_Type/powers/' powersArr(pwi_AverXG,1).name]);
  powers_AverXG = struct2cell(powers_AverXG)(1,1){1,1}';
   
  
  powers_AverXGA = powers_AverXG;
 
 for lni_AverXG=start_of_cycle:length(lnpowersArr),
- lnpowers_AverXG = load([path '\Finding_Hypothesis_Type\lnpowers\' lnpowersArr(lni_AverXG,1).name]);
+ lnpowers_AverXG = load([path '/Finding_Hypothesis_Type/lnpowers/' lnpowersArr(lni_AverXG,1).name]);
  lnpowers_AverXG = struct2cell(lnpowers_AverXG)(1,1){1,1}';
 
  
  lnpowers_AverXGA = lnpowers_AverXG; 
  
 for ei_AverXG=start_of_cycle:length(epowersArr),
- epowers_AverXG = load([path '\Finding_Hypothesis_Type\epowers\' epowersArr(ei_AverXG,1).name]);
+ epowers_AverXG = load([path '/Finding_Hypothesis_Type/epowers/' epowersArr(ei_AverXG,1).name]);
  epowers_AverXG = struct2cell(epowers_AverXG)(1,1){1,1}';
   
  
@@ -80,7 +80,7 @@ for ei_AverXG=start_of_cycle:length(epowersArr),
 
 
 for sqrti_AverXG=start_of_cycle:length(sqrtpowersArr),
- sqrtpowers_AverXG = load([path '\Finding_Hypothesis_Type\sqrtpowers\' sqrtpowersArr(sqrti_AverG,1).name]);
+ sqrtpowers_AverXG = load([path '/Finding_Hypothesis_Type/sqrtpowers/' sqrtpowersArr(sqrti_AverG,1).name]);
  sqrtpowers_AverXG = struct2cell(sqrtpowers_AverXG)(1,1){1,1}'; 
  
 
@@ -96,7 +96,7 @@ if length(powers_AverXG)+length(lnpowers_AverXG)+length(epowers_AverXG)+length(s
 
 
 for pwi_PriceHome=homePriceFlag:PriceFlag,
- powers_PriceHome = load([path '\Finding_Hypothesis_Type\powers\' powersArr(pwi_PriceHome,1).name]);
+ powers_PriceHome = load([path '/Finding_Hypothesis_Type/powers/' powersArr(pwi_PriceHome,1).name]);
  powers_PriceHome = struct2cell(powers_PriceHome)(1,1){1,1}';
  
 
@@ -125,18 +125,18 @@ for cligas = 1:4,
   years = '2018-2019';
 
   %Get prices
-  Team_Price = fileread([path '\' league '\' years '\priceOrigNames.txt']);
-  Team_PriceArr=strsplit(Team_Price,"\n");
+  Team_Price = fileread([path '/' league '/' years '/priceOrigNames.txt']);
+  Team_PriceArr=strsplit(Team_Price,"/n");
 
 
-  way=[path '\' league '\' years '\Games_Data'];
-  wayHomeAway=[path '\' league '\' years];
-  wayDataSet=[path  '\TrainingSets\' type '\' seasons_before 'seasons'];
+  way=[path '/' league '/' years '/Games_Data'];
+  wayHomeAway=[path '/' league '/' years];
+  wayDataSet=[path  '/TrainingSets/' type '/' seasons_before 'seasons'];
 
   HomeTrainingSet=['Home_' league '_' seasons_before 'seasons_Hist' numberType];
   AwayTrainingSet=['Away_' league '_' seasons_before 'seasons_Hist' numberType];
   %Get All Coefficients
-  AllCoefsCol = dlmread([wayHomeAway '\' "All_Coefs_Col" ".txt"],',',1,0);
+  AllCoefsCol = dlmread([wayHomeAway '/' "All_Coefs_Col" ".txt"],',',1,0);
 
   %AllCoefsCol;
   AllCoefsMatrix=[];
@@ -163,8 +163,8 @@ for cligas = 1:4,
   sum=0;
   sumMult=1;
   z=0;
-  AllCoefGames= fileread([wayHomeAway '\cofsOrigNames2.txt']);
-  AllCoefGamesArr=strsplit(AllCoefGames,"\n");
+  AllCoefGames= fileread([wayHomeAway '/cofsOrigNames2.txt']);
+  AllCoefGamesArr=strsplit(AllCoefGames,"/n");
 
 
   size(AllCoefGamesArr,2);
@@ -183,9 +183,9 @@ for cligas = 1:4,
 
 
   %Get Home hypothesis
-  dataHome = dlmread([wayDataSet '\' HomeTrainingSet ".txt"],',',1,0);
+  dataHome = dlmread([wayDataSet '/' HomeTrainingSet ".txt"],',',1,0);
   X_Home = dataHome(1:length(dataHome),1:6);
-  X_Home(1:length(dataHome),5:6)=X_Home(1:length(dataHome),5:6)\10;
+  X_Home(1:length(dataHome),5:6)=X_Home(1:length(dataHome),5:6)/10;
   y_Home =dataHome(1:length(dataHome),7);
 
 
@@ -200,9 +200,9 @@ for cligas = 1:4,
 
 
   %Get Away hypothesis
-  dataAway = dlmread([wayDataSet '\' AwayTrainingSet ".txt"],',',1,0);
+  dataAway = dlmread([wayDataSet '/' AwayTrainingSet ".txt"],',',1,0);
   X_Away = dataAway(1:length(dataAway),1:6);
-  X_Away(1:length(dataAway),5:6)=X_Away(1:length(dataAway),5:6)\10;
+  X_Away(1:length(dataAway),5:6)=X_Away(1:length(dataAway),5:6)/10;
   X_Away=makeNotLinearForEachParameter (X_Away,powers_AverG,powers_AverXG,powers_AverGA,powers_AverXGA,powers_PriceHome,powers_PriceAway,epowers_AverG,epowers_AverXG,epowers_AverGA,epowers_AverXGA,epowers_PriceHome,epowers_PriceAway,lnpowers_AverG,lnpowers_AverXG,lnpowers_AverGA,lnpowers_AverXGA,lnpowers_PriceHome,lnpowers_PriceAway,sqrtpowers_AverG,sqrtpowers_AverXG,sqrtpowers_AverGA,sqrtpowers_AverXGA,sqrtpowers_PriceHome,sqrtpowers_PriceAway);
 
 
@@ -251,7 +251,7 @@ for cligas = 1:4,
       endfor
       HomePrice;
       HomePrice = strrep(HomePrice,",",".");
-      HomePrice = str2num(HomePrice)\10;
+      HomePrice = str2num(HomePrice)/10;
       
     %Away Price 
       %AwayTeam ;
@@ -264,11 +264,11 @@ for cligas = 1:4,
         endif
       endfor
       AwayPrice = strrep(AwayPrice,",",".");
-      AwayPrice = str2num(AwayPrice)\10;
+      AwayPrice = str2num(AwayPrice)/10;
    
    
   %Home 
-    HomeStat = dlmread([way '\' HomeTeam ".txt"],',',1,0);
+    HomeStat = dlmread([way '/' HomeTeam ".txt"],',',1,0);
     
 
     HomeAverG=0;
@@ -318,7 +318,7 @@ for cligas = 1:4,
    
 
     
-  AwayStat = dlmread([way '\' deblank(AwayTeam) ".txt"],',',1,0);
+  AwayStat = dlmread([way '/' deblank(AwayTeam) ".txt"],',',1,0);
 
 
   AwayAverG=0;
@@ -423,13 +423,13 @@ for cligas = 1:4,
 
 
 
-  fid = fopen ([path  '\Finding_Hypothesis_Type\Results.txt'], "a");
+  fid = fopen ([path  '/Finding_Hypothesis_Type/Results.txt'], "a");
         fdisp (fid, resRow);
   fclose(fid);
 
   if sum>60,
     
-    fid = fopen ([path '\Finding_Hypothesis_Type\best.txt'], "a");
+    fid = fopen ([path '/Finding_Hypothesis_Type/best.txt'], "a");
           fdisp (fid, resRow);
     fclose(fid)
     
