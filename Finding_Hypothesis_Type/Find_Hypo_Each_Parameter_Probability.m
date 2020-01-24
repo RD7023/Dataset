@@ -1,6 +1,6 @@
 ligasArr=['Bundesliga';'LaLiga';'Ligue_1';'Serie_A']; 
 
-PC='ZBook';
+PC='Sher';
 
 path=['C:\Users\' PC '\Desktop\Dataset'];
 
@@ -12,7 +12,7 @@ numberType='3';
 
 start_of_cycle = 3;
 
-accuracy_level = 5;
+accuracy_level = 10;
 
 
 current_param_index = 1;
@@ -22,11 +22,11 @@ paramsArr_optimal=[];
 paramsArr_current=[];
 
 
-all_params_number=(length(powersArr)-3)*4;
+all_params_number=12;
 
 for c_param=1:all_params_number,
   
-  sum_Copetit=[0; 0; 0; 0]; 
+  sum_Copetit=[0; 0; 0; 0; 0; 0; 0;0]; 
   for j_pr = 1:accuracy_level,
     randomVector = round(rand(all_params_number-current_param_index,1)*(length(powersArr)-3)+3);
     
@@ -407,14 +407,14 @@ for c_param=1:all_params_number,
           
      
      
-     sum_aver=sum_aver/4;
-     sum_Copetit(i_pr-start_of_cycle+1)=sum_Copetit(i_pr-start_of_cycle+1)+sum_aver;     
+     sum_aver=sum_aver/4
+     sum_Copetit(i_pr-start_of_cycle+1)=sum_Copetit(i_pr-start_of_cycle+1)+sum_aver     
     endfor
     
   
   endfor
   [max_values indices] = max(sum_Copetit)
-  max_val = indices(1)
-  paramsArr_optimal=[paramsArr_optimal; max_val];
+  max_val = indices(1)+2
+  paramsArr_optimal=[paramsArr_optimal; max_val]
   current_param_index+=1;
 endfor
